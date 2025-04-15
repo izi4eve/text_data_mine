@@ -1,0 +1,50 @@
+Listen, it's hard to maintain social distancing anywhere, but especially on an airplane.
+Just thinking about it freaks me out.
+Recently United Airlines tried to implement distancing by announcing that they are "automatically blocking middle seats to give passengers enough space on board." But on May 9th a passenger on board a United flight to San Francisco from Newark tweeted out this picture in which middle seats are clearly occupied. The tweet sparked predictable backlash and prompted demands to leave seats empty on airplanes.
+But as the number of daily travelers slowly picks up again after the unprecedented drop in March airlines like United will find it harder and harder to leave seats empty on their flights.
+So all this debate over the middle seat makes me wonder: How far can an infectious disease actually spread on an airplane even if we block the middle seat?
+And if we do block that seat, are our ticket prices going to go up?
+I'm Cleo Abram and this is Answered, by Vox.
+This is a visualization of the inside of a Boeing 767.
+It shows how a single cough can spread throughout a plane between air filtration cycles.
+When I cough like this, you know, it definitely generates a lot of droplets.
+That's Professor Yan Chen. He helped create this animation to study the ways infectious diseases in cough droplets can spread to other passengers. Due to the airflow design in most commercial planes those cough droplets are first carried upwards and then travel sideways through the cabin.
+A longitudinal air flow, which means it's between rows, is minimal, and therefore is much more dangerous to get the those droplets if you sit in the same row rather than in a different row.
+But the model does not completely rule out transmission to people in different rows. In this simulation, all these people around the passenger are at risk.
+In fact, those airborne cough droplets can move even farther down the cabin if another passenger walks by the individual that's coughing.
+This second simulation shows how that can happen.
+Air movement created by the walker can carry the droplet down the aisle to a completely different part of the plane.
+When you walk around, there's a possibility to get the disease or you might not get it but you might bring it to your fellow passengers.
+And to make matters worse, cough droplets can land on all the surfaces we touch.
+Those droplets didn't go to you directly.
+Properly just go to the tray table, armrest,  even head rest, or the seat back in front of me.
+But despite all these models Dr. Chen says it remains hard for scientists to predict exactly how a virus would spread on a plane or whether leaving a middle seat empty would actually help protect us.
+He uses this reconstruction of a Boeing 737 flight from Hong Kong to Beijing to illustrate his point.
+On March 15th 2003 a man seated in 14E was carrying the SARS virus. During the flight 22 other passengers and crew became infected.
+While data on this flight is incomplete at least five people are known to have died.
+So majority of them just sat within these three rows before and three rows behind but you definitely see some of those who sat pretty far away.
+There's two persons seated seven rows in front of this infected person on the other side who were also getting infected.
+Dr. Chen says this flight has been widely studied but epidemiologists still struggle to explain exactly how the virus spread so far through the length of the cabin.
+So I cannot guarantee that our animation is a one hundred percent scientifically proven result.
+What does your simulation tell us about the effectiveness of blocking middle seats to passengers?
+By leaving the middle seat open you will have a little bit more social distancing. But if you look at our animation isn't not very helpful.
+So even if middle seats were open in this simulation, it wouldn't do much to stop cough droplets from reaching you.
+Still, according to Dr. Chen, an open middle seat could be helpful if paired with other precautions.
+So if I were a passenger and the airline can guarantee that the middle seat is open I don't think I have a problem to go there with my surgical mask.
+Surgical masks can reduce the distance cough droplets travel from around six feet to more like two feet and combined with an empty middle seat they might actually reduce risk.
+Dr. Chen says an open middle seat could help in another really important way:
+Limiting the total number of people on any given flight. But that could present a different problem when it comes to how much our flights will cost.
+The airline industry operates on very thin margins.
+John Grant is an analyst at OAG, an organization that tracks global flight data.
+Probably only 20 airlines in the world consistently make a profit.
+Whoah!
+- Yeah. - I did not realize that!
+If you're leaving every middle seat empty that's 30% of your capacity that you're not selling.
+According to Grant that could mean a whopping 52% increase in average ticket price for passengers.
+Will the person sitting in New York today who wants to fly to Florida next week be prepared to pay 52 percent more?
+No! Honestly, no.
+And particularly now, after nine weeks of lockdown, Less cash at home etc etc Listen, the concern about the middle seat makes sense. Until we have a vaccine for the coronavirus flying is gonna be kind of scary. But while we can take precautions like wearing a mask or leaving an empty middle seat, in the end we might have to decide how much we're willing to pay for a slight bump in safety.
+Thanks for watching!
+That was an episode of Vox's first ever daily show.
+It's called Answered, it's on a new streaming app called Quibi and every day we take on a question about what's happening in the world right now from the history of curfews to cicada season so if you want to check out more all you need to do is go to the link in the description or download the Quibi app on your phone and search for Vox or Answered.
+I'll be there every day.

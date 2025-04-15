@@ -1,0 +1,84 @@
+Before we explain the motion-captured mouse who I’ve named Moby Fitzsimmons, Let’s go to basics.
+We’ve all seen some photo like this one, with some poor actor in a weird outfit, covered in dots whether it’s on “The Hulk” Mark Ruffalo’s instagram or Star Wars’ C3PO’s Anthony Daniels on his account.
+But where does that motion…go?
+By focusing less on the actors and more on how it works you can understand the real artistry behind motion capture.
+There are a few main ways to capture motion.
+This is Rokoko’s Smartsuit Pro and it uses inertial sensors.
+These broadcast the location of devices embedded inside the suit kinda like how your phone knows which way it’s turned.
+More common in high end video games and movies, you’ll see optical tracking of markers in which a camera is learning where parts of a person’s body are by looking for high contrast areas.
+Jimmy Corvan directed business development for motion capture studio, House of Moves for about ten years.
+It worked on everything from the Injustice series to Mortal Kombat to Marvel movies to Barbie's blog.
+"Comment, like, and subscribe so you can get the latest and greatest Barbie vlogs and more!" Is it more common in high end stuff like what y'all are doing?
+Is that pretty much always going to be optical thing, rather than a sensor?
+For the foreseeable future and I'm sure there's somebody at one of the inertial companies that will correct me on this but in all of our testing and everything that we've found...
+optical motion capture is sub-millimeter accurate.
+These suits don’t have any sensors at all.
+They’re basically fashion, made to be seen really clearly.
+I will always get the question: How hard are they?
+How do you get the technology in the balls?
+And I'm like, well, you can squeeze them.
+They're just retro reflective tape on the outside of little squishy balls.
+The footage shot with the suits on is fed through software that interprets what the camera sees, before artists review it.
+If you look at Mark Ruffalo’s tweet of him, Tom Holland, and Don Cheadle on Avenger’s Endgame, you can see how additional symbols allow software to know more about the location of the suit on the performer.
+Even if one symbol is dark or out of focus, the software can figure out what’s going on thanks to the pattern.
+The first step in the in the cleanup process is somebody goes through and makes sure that you can see every one of those dots in every frame of the shot.
+It sounds tedious because it is.
+So all the markers have a different name and somebody's job is going through making sure you can see each marker in every single frame and that each marker is properly named.
+That process is called tracking and labeling.
+This can be augmented with facial capture like this a range of motion capture gloves and even the ability to label and motion track objects.
+For hobbyists, there’s stuff like Moby Fitzsimmons.
+His form comes from a free to download mocap-ready website.
+I captured his movements using AI called Plask that just figured out the motion without any dots or sensors.
+These methods can vary wildly in cost and quality but the output is actually similar.
+It’s bones.
+This structure is the basic output of most motion captures no cloth, no muscle, no hair just what the software calculates as the skeleton.
+Each dot here is a joint, while the longer shapes are bones.
+In this example, they’re... my bones.
+Soon to be Moby’s.
+These bones are given a hierarchy so if the top of your arm rotates, the lower part usually will too.
+These subtle variations can convey a lot of movement.
+These numbers represent the rotation of a single elbow joint.
+Watch how they change as the elbow moves during the animation.
+We are trying to figure out exactly where the skeleton exists because that's what we're really capturing, is your skeleton moving.
+We aren't capturing the flesh on top.
+We've got very, very close, but it is not perfect.
+If the bone lengths are just slightly shorter or just slightly longer then even something as simple as clapping like if I were to do this, it might end up that they go through each other like this because the bone lengths are different.
+That's where animators come in.
+There's a lot of that fixing and you end up seeing it in postures.
+There's a very popular phrase in the mocap space called monkey butt.
+And that is the the hips kind of jut back a little bit and it kind of looks like they have a monkey butt.
+And so an animator will need to go through and push the hips back forward, kind of undo that work.
+This outfit provides a clue to why motion capture is harder than it looks after the data is cleaned.
+The Hulk is significantly larger than Mark Ruffalo.
+VFX artists take the time to make Taika Waititi’s capture fit the body of Korg, but you can see what goes wrong without extra work.
+See how Moby’s hands run into his face here?
+That’s not a problem when I do it because I don’t have a head like Moby’s.
+The same goes for position in space.
+See how his feet wobble around?
+This is part of why you don’t see tracking images on the actor modeling for Groot, a tall talking tree or actor Sean Gunn, who stands in for Rocket Raccoon.
+These figures, and even motion captured figures, are too difficult to graft on human motion.
+So the people just used for reference.
+Even if you're not using all of the data, specifically having the timing created by the actor or performer is really, really helpful.
+A lot of people, like myself included I talk with my hands, and if an animator tried to animate me talking with my hands I'd get the timing wrong.
+Look at this side by side of Hulk and Mark Ruffalo.
+Ruffalo gives a great performance that you can really see.
+But look at Hulk’s shoulder size, and the cloth and the space his hands take up.
+You can even see, in this clip, how his right hand has been tweaked completely after capture.
+The way that motion capture tends to get covered is...
+look Andy Serkis and look at Gollum.
+They do a wonderful job of performing, but there is a huge gap in between.
+That is months and months and months and months of work.
+It's portrayed is just like there is an animate button.
+Look at all the changes within this short clip.
+That level of detail would take a long time for people to animate.
+But the limited structure of the final format means there’s a ton of animation after the capture.
+Mocap depends on the quality of the capture and the work put into it.
+That’s what makes animation feel real.
+Without that, it’s just joints and bones.
+Space Jam 2, legitimately we set up a system around a professional sized basketball court.
+The court that is in the movie is the court that we shot on and they wrapped the entire thing in a giant green screen.
+The whole thing.
+So you have this self-contained volume that is holding all the air in itself because it's just all the way to the ceiling, green screened all the way to the floor 360 degrees around.
+And the director wanted to, instead of adding in fog effects in post he pumped a bunch of fog into this volume and I don't expect people to know what that does to optical motion capture but to say you can see fog and our cameras need to be able to see.
+The way they work is the camera shoots light from a strobe around the camera at those little markers and that little markers bounces the light right back to the camera and fog introduces a bunch of little water molecules into the air and water molecules scatter light.
+So, we are now shooting in a volume that is filled with water and just bouncing light all over the place.

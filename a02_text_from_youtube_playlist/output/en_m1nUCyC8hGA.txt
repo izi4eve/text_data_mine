@@ -1,0 +1,109 @@
+Hello?
+Hello?
+I think you've got the wrong number.
+Hello?
+Okay.
+Bye!
+You just keep calling me don't you?
+Don’t you realize your TV is ruining every single movie you watch?
+Uh.
+No.
+There’s a hidden setting that’s distorting the color, the motion, the contrast that filmmakers want.
+Wait, what’s that noise?
+It's popcorn.
+I only make popcorn when I’m about to watch a movie.
+Everybody warned you about it.
+Tom did.
+"To that end, we'd like a moment of your time to talk about video interpolation." The Always Sunny guys complained about it.
+"I don't understand how people can't see it." "They can't see it!" “90% of the population does not know that they’re watching auto motion plus.” And your TV will still ruin your movie.
+What did you say?
+Check the settings.
+Check them.
+No, that’s not possible.
+This TV is a Samsung but every TV manufacturer has proprietary modes they use to market their TVs.
+And they all distort the picture in different ways.
+And the dreaded motion smoothing is just the beginning.
+Have you had any personal experience with this problem?
+I distinctly remember this one experience where I was at my parents house and we were just sitting around and watching some movie and I couldn't shake the feeling that every single time that something on the screen was moving there was this shadow trailing behind people moving.
+Michael Zink is a VP of Emerging and Creative Technologies at Warner Brothers but he’s also President of the UHD Alliance an industry group that brings together lots of parties to decide, basically, how TVs should display stuff.
+So if you walk into somebody's house are you like bound to say something like a superhero, almost?
+Yeah, you put on your cape and then you grab the remote.
+The UHD Alliance formed in 2015.
+Filmmakers noticed big new problems as HDTVs were being turned into 4K beasts with lots of extra features.
+They like to compete and show off all the bells and whistles and how they’re better than their competitors.
+And that’s all well and good, but...
+Not necessarily when you’re watching a movie.
+You can see them in these short clips from the trailers for last three Best Cinematography winners.
+I filmed them on my TV with typical TV adjustments and with none at all.
+In "1917", the color saturations are totally different and brightness is cranked up.
+See how in "Mank", the brightness levels are totally different?
+Here’s the darkest and brightest points in the scene, side by side.
+And in Dune, you can really see the digitally sharpened details and cranked saturation.
+These choices overwrite what the best cinematographers and colorists wanted.
+And they are baked into TVs.
+Typically movies are shot or mastered in a mastering suite and once the movies are finished...
+that's how the director wants them to be seen.
+Hey! How's it going?
+Hey, what's up Phil?
+I was hoping you could show me one of the edit bays for this video.
+Yea, sure, one second.
+Movies are finished in dark rooms kind of like these probably with even fancier gear.
+Hey, I'm realizing your voice sounds a little familiar from a call I got last night...
+What do you mean?
+You can manually adjust white balance and other settings but TV menus make it maddeningly complex.
+Even the name for these baked in settings is confusing:
+“Standard picture mode” implies basic, straightforward.
+But usually, that mode is packed full of these tweaked settings.
+But the worst offender, by far, is the motion and that’s also the hardest to show.
+Here's the thing about explaining motion smoothing.
+If I were to publish this video at 60 frames a second to show you what that looks like, you might be watching it on YouTube at 24 frames a second so the entire point of it would be completely lost.
+And that doesn't account for the fact that when I do publish this video at 24 frames a second, you might be watching it on a "Dynamic Mode" on your TV at 60 frames a second — artificially.
+Which means it'll look totally different and that doesn't even account for the fact that there's going to be exporting issues when I put this out of a software program and compression involved with the codec which is playing it back to you on the internet...
+It's hard.
+There are some workarounds.
+This ball is moving at 24 frames a second, like this entire video.
+This one is moving at 12 frames a second, half the frames.
+See the big difference in the motion?
+That's as big as what your TV does when it doubles the frames in a 24 frames per second movie.
+Here's every frame for that 24 frame per second ball.
+And here's every frame if it moved at a typical 60 frames a second.
+Do you see the huge difference in information?
+And your TV is often just making up these frames.
+You can also see what's going on by filming TVs.
+These frames are taken from a TV in "Standard Mode"...
+while these ones are totally unchanged.
+This too meta for you, by the way?
+We are used to seeing movies at around 24 frames a second.
+Anything not that frame rate 60 frames a second, or even 30 won't have the same gaps between frames that we're used to.
+They are 24 frames per second files but I filmed my TV at 60 frames per second.
+See how in the unchanged side there’s movement from this frame to this frame.
+Now look over here: the TV has just added a frame in the middle in addition to all those tweaks to the picture.
+This isn’t what we’re used to movies looking like, for the very simple fact that we’re used to movies only showing frames they wanted to show us.
+This frame in an example of motion smoothing.
+It invents frames, which makes motion look different from a movie.
+It also creates weird, barely perceptible artifacts because the software just isn’t good enough.
+24 frame per second videos have this which is motion blur.
+Motion smoothing invents weird digital artifacts instead.
+But we aren't stuck with it.
+The UHD Alliance works to set a lot of standards for TV but among those standards are the relatively new Filmmaker Mode a TV setting with the same name, across brands that basically turns off all the crap.
+The notion behind it is, we will maintain whatever the original frame rate is.
+So if your content is in 48 or 60 or 120 or whatever that is...
+that's the frame rate that TV should reproduce.
+What we don't want is to add additional frames or eliminate certain frames.
+It's really making sure that whatever is in the signal stays the way it is and is represented on the TV in a faithful manner.
+I'm not doing this anymore.
+Don't change that setting!
+I have a choice!
+Don't click that menu, Philip!
+Don't you dare!
+One of one of our colleagues at the UHDA he always compared what we're trying to do.
+It's always this analogy of if you go to a high end steakhouse and you order a really expensive steak.
+You want it to be brought to you the way the chef prepares it.
+You don't want the steak to arrive with a server deciding halfway through that, hey, let me just put a whole bunch of ketchup on top of that because that's how I like to eat.
+And that's very similar to what these TVs are doing.
+They decide for you that, hey, this is great content, but let me shopping it a little bit.
+Let me reduce some noise.
+Let me change the colors.
+Oh, and by the way, let me invent a couple of frames in between as well.
+And if a director would want to have done that, they would have done that.
+But it shouldn't be up to the television to decide to do this.

@@ -1,0 +1,125 @@
+I watch a lot of movies and TV on the train, at home [overlapping] at the movies, while working out, while doing dishes in the bath...
+But no matter where I'm watching I find myself constantly doing this one thing.
+[unintelligible] What?
+[unintelligible] [exhasperated sigh] [unintelligible] [exhasperated sigh] [unintelligible] Oh.
+It turns out this isn't unusual.
+We polled our YouTube audience and about 57% of people said that they feel like they can't understand the dialogue in the things that they watch unless they're using subtitles.
+But it feels like this hasn't always been the case.
+So to figure out what was going on, I made a call.
+Hi, my name is Austin Olivia Kendrick.
+I am a professional dialogue editor for film and TV.
+I basically perform audio surgery on actors words.
+Do you watch with subtitles?
+I– I do, actually.
+I do a lot of the time.
+So...
+Why do you think that we all feel like we need subtitles now?
+I get asked this question all the time.
+All the time.
+It's something that is...
+It doesn't have a simple, straightforward answer.
+It's very layered and very complex.
+And after talking to Austin for almost 2 hours, it's true.
+It's a very layered and complex topic.
+But everything kept pointing back to one main thing.
+Technology that got us from this...
+–I'll get you, my pretty.
+–You should be kissed and often.
+No, Richard, no. What has happened...
+To this.
+Mom, I just woke up.
+...little slim-waisted birdy...
+[unintelligible] Let's start with microphones.
+I'm going to use this clip from "Singin in the Rain" to show how mics used to work.
+Here's the mic, you talk towards it.
+The sound goes through the cable to the box.
+A man records it on a big record in wax.
+This scene illustrates some of the difficulties and intricacies early sound recordings.
+Mics were big, bulky, temperamental and required creative solutions to be hidden.
+They were wired and recorded onto hard memory like wax and eventually tape.
+No matter how many actors were in a scene all sound got recorded to one track.
+So performers had to be diligently focused and facing a certain angle so that their words could be picked up.
+Otherwise...
+[muted noise, as if from far away] [sudden sound up] [muted noise, as if from far away] [sudden sound up] You couldn't hear a thing.
+But technology's improved to the point where microphones don't impede performance as much anymore.
+They become better, smaller, wireless...
+and we use more of them to ensure that performances get captured.
+What we typically are working with from production dialogue is 2 boom microphones and then every actor has at least one lavaliere microphone hidden somewhere on them.
+These shrinking mics have given actors the flexibility to be more naturalistic in their performances.
+They no longer need to project so that their words reach the mic.
+They can speak softly, knowing that the tiny mic hidden on their body will pick up what they're saying.
+And my personal favorite example of this performance shift is Alec Baldwin on 30 Rock.
+In a 2011 speech slash roast, Tina Fey says that "He speaks so quietly that she can't hear him when she's standing next to him." "And then you play the film back and it's there somehow." Just listen to this whisper off between him and Will Arnett.
+I'm not afraid of you.
+Yeah.
+Well, you should be.
+Let's just see how it all shakes out in the meeting.
+Naturalism isn't always the best for intelligibility, though.
+Take Tom Hardy, an actor that I personally love but who famously is a mumbler.
+????????????
+I mean...
+the mic picked that line up fine.
+Like we can definitely hear that he's talking he's saying something.
+But once that mumble gets recorded it's on to a dialog editor's shoulder to make it as intelligible as possible.
+And that was a lot harder when everything was analog.
+While you could pick the best takes and physically splice them together.
+If some piece of dialog was truly impossible to understand then actors will come in and rerecord those specific lines in a process called ADR or automated dialog replacement which you can see Meryl Streep do in this scene from "Postcards from the Edge".
+There isn't enough money in the world to further cause like yours That still gets done today, but..
+ADR also costs money because you're not only paying for the actors time you're paying for the engineer's time and then the editor's time.
+So we try to do ADR, frankly, as little as possible.
+And so a lot of her job is making words sound better.
+The show I'm currently working on I remember in the middle of this one word there was just this loud metal clang that I couldn't remove.
+So I had to go in and I had to find an alternate take of it that fit and then I had to fit it...
+to the movement of her mouth in that moment and then push it in.
+And once she's done with it it's sent off to a mixer who works to make sure the frequencies of the sound effects and music don't overlap with the frequencies of the human voice something that's only possible now that the world has moved away from tape and into digital recordings.
+That is a big challenge.
+Carving out those frequencies, that space...
+amongst every other element of the mix for the dialogue to be able to punch through and not be all muddied up by any other sounds that exist in that band of frequencies.
+But even with all that work lines of dialog can still be hard to understand.
+The kind of feeling has been if you want your movie to feel quote unquote cinematic you have to have wall-to-wall bombastic, loud sound.
+A lot of people will ask like "Why don't you just turn the dialog up?" Like, just turn it up.
+And... if only it was that simple.
+Because a big thing that we want to preserve is a concept called dynamic range.
+The range between your quietest sound and your loudest sound.
+If you have your dialog, that's going to be at the same volume as an explosion that immediately follows it.
+The explosion is not going to feel as big.
+You need that contrast in volume in order to give your ear a sense of scale.
+But the thing is, you can only make something so loud before it gets distorted.
+So if you want to create that wide dynamic range you have no choice but to push those quieter sounds lower instead of pushing the louder sounds louder.
+So explosions go up and dialog comes down.
+Which brings us to the Christopher Nolan of it all.
+[loud music layered over] A seperate structure within the others— [Tom Hardy mumbling into a face mask] [rocket blasters layered over] Pushing out of orbit!
+Nearly every film of his has been criticized for its hard to hear dialogue that essentially begs for subtitles.
+But as as this headline explains, he likes it that way.
+According to an interview in a book called The Nolan Variations he said that he gets a lot of complaints.
+Even from other filmmakers who would say "I just saw your film and the dialogue is inaudible." "The truth was it was kind of the whole enchilada of how we had chosen to mix it." And in his 2017 interview with Indiewire, he said "We made the decision a couple of films ago that we weren't going to mix films for substandard theaters" And this is kind of the crux of the matter.
+The content that we watch here and here and here is not mixed for us, primarily.
+Rerecording mixers mix for the widest surround sound format that is available typically like big release films.
+That is Dolby Atmos....
+which has true 3D sound up to 128 channels.
+The thing is, if you're not at a movie theater that can showcase the best sound Hollywood has to offer...
+you can't experience all of those channels.
+So after the movie is mixed for the 128 Atmos tracks somebody has to create a separate version of the film's audio where all those same sounds live on one or two or five tracks.
+This is called downmixing.
+Downmixing is the process of taking that biggest mix and folding it down into formats with lesser channels available to it.
+So say Atmos down to 7.1 or 7.1 down to 5.1 or 5.1 down to stereo stereo down to mono.
+Unlike old TVs that were gigantic and had a ton of space for speakers TVs today are super thin like this one that I have in my living room is about the same thickness as my iPhone.
+So even though it's outputting the same mono or stereo sound that an older TV might, it's still going to sound worse because you have to have tiny little speakers to fit into this tiny, sleek form factor.
+These tiny speakers are also usually on the back of the TV.
+So the downmixed version of this movie that went from 128 channels down to just 2 is going to sound even muddier when it's pointing away from you.
+And when you're watching on your phone or a laptop...
+it's generally not much better.
+When you combine not great speakers, naturalistic mumbly performances dynamic range featuring bombastic sound over dialogue and a flattened mix...
+It's no wonder we have trouble hearing what's going on.
+And it seems like the industry knows this because TVs today are shipping with all kinds of settings built in like this intelligence mode.
+You can put on active voice amplification in hopes of making that dialog track come through just a little bit clear.
+But of course, that's more band aid than it is solution.
+The way movies get mixed likely isn't going to revert back to super pristine dialogue.
+So the solutions we have are, one: Buy better speakers and only go to theaters that have impeccable sound.
+Two: take a chill pill and try to just worry a little bit less about picking up every single word that gets said.
+Or, three...
+Just keep the subtitles on.
+For people who are deaf or hard of hearing subtitles make movies and TV shows accessible and this accessibility has just expanded in recent years.
+Laws have been passed to ensure that movie theaters have at least a few screenings a week with captions.
+Pretty much every streaming service has standardized them and speech recognition technology has made them accessible in pretty much every YouTube video and TikTok.
+[Which is partially how our subtitles are made!] Plus, they're super easy to toggle on and off.

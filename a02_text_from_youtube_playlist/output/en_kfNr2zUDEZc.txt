@@ -1,0 +1,76 @@
+Do you think this video will be on the Internet in 2070?
+Maybe in some... Internet archive somewhere?
+Well, researchers of the future if you were wondering what we were doing here in the 2020s about climate change the answer is we were committing to net zero.
+In the past few years more than 70 countries, one after the next...
+have made a pledge to reach net zero emissions.
+That includes places that have barely contributed to climate warming...
+and it includes all of the countries that have been most responsible for emissions so far.
+It seems like everyone got the message that humankind needs to become carbon neutral and we need to do it in the next 3 to 5 decades.
+But that would have been easier if we had started cutting emissions 20 years ago because now we're up here and the math is getting really tough.
+So to make it work governments are penciling in "negative emissions." That's the net part of the net zero promise.
+The idea that we can reach zero while still emitting greenhouse gases if we're also taking CO2 out of the air.
+It's a bit contentious but we're going to be hearing a lot about it.
+-It's called CDR.
+-CDR.
+So carbon dioxide removal.
+What we want to do is put that carbon back where it belongs.
+Giana Amador is a CDR advocate and she's going to help us explain this with the bathtub metaphor.
+The bathtub in this situation is our atmosphere and the water in the bathtub is the CO2 that's in our atmosphere.
+Before the Industrial Revolution the land and ocean typically released as much CO2 into the air as they absorbed back down through this drain.
+But when people started digging up coal and oil to power their machines, first in Europe and then in the US it sent this new flow of CO2 into the air one that the plants and oceans couldn't keep up with.
+About 45% of those emissions stay in the atmosphere trapping heat and setting us up for an escalating array of climate disasters.
+So in 2015, all of the countries send someone off to Paris to say, “Okay, everyone, we need to keep warming well below two degrees Celsius.” And really we're aiming for 1.5 degrees.
+That's above pre-industrial levels.
+And the exact numbers matter less than the fact that every increment of warming increases risk.
+So first and foremost, we need to turn off the tap.
+Everything else is futile if we don't stop the root of the problem today.
+Turn off that tap.
+Stop emitting CO2.
+Not only have we not turned off any taps.
+Global emissions are still rising, especially in Asia...
+where, you know, 60% of human beings live many of whom are just emerging out of poverty.
+So now we're here at nearly 1.2 degrees of warming.
+Frankly, we have not done what it would take to meet that 1.5 degree goal.
+But we may be able to keep warming under two degrees if all of those net zero promises become real net zero policies.
+And that's where things get a little tricky.
+Turning these emissions all the way off could get really hard really expensive or even unfair.
+So everyone's kind of hoping that we can work from the bottom of the tub to... kind of increase the size of the drain increase the speed at which we can drain that water from the bathtub.
+Now, CDR is distinct from CCS which prevents emissions at the source.
+That works on the faucet.
+CDR grabs CO2 from the air and people have come up with a lot of interesting ways of doing that.
+The most common one so far is planting and protecting forests.
+It's one of the more affordable CDR approaches right now and it has a lot of benefits aside from capturing CO2.
+But we've seen from problems with the carbon offsets market that it can be hard to verify.
+And, you know, trees don't live forever.
+So most of the modeling scenarios that limit warming assume we’ll also be able to build a new drain for more permanent carbon storage.
+So through things like rock weathering, we can crush up a bunch of rocks that naturally react with CO2 and try to speed up that reaction.
+Or we can use chemistry to mimic...
+natural processes through technologies like direct air capture which basically use a type of chemical that selectively binds with CO2 to capture it from the air.
+These techniques all come with different costs and they're in really early stages of development.
+So there's a concern that the people in charge of the faucets will see any movement down here as an excuse to avoid making cuts up there.
+Should we be counting on large amounts of carbon removal for our climate plans?
+Well, it seems we already are.
+The US government's net zero plan calls for 500 million metric tons of CO2 removal by 2050, up from zero today.
+Model simulations that limit warming to 1.5 degrees envision around 3.8 billion tons of permanent carbon removal globally every year.
+And this...
+is the total amount of permanent carbon removal that has happened so far.
+So would you call that wishful thinking?
+Or is it foresight about how much can happen in 30 years if we start our way up the learning curve now?
+We have actually a really strong playbook of developing technologies and driving down costs.
+If we go all the way back to the 1970s we see technologies like solar PV be around $70 per watt.
+Fast forward to 2023.
+We see those prices down at around $0.07 per watt or even lower and at price parity with fossil fuels.
+The challenge with that is that renewable energy produces something that's quite useful, which is energy and CDR...
+What is the customer for CDR?
+Where does the demand come from?
+You've seen some major companies including Stripe, Meta, Alphabet, McKinsey, Microsoft...
+All of these companies have made commitments to purchase carbon dioxide removal as part of their corporate social responsibility plans.
+That being said, I think in the long term carbon removal could be provided as a public service in the ways that that we manage some of our other pollution.
+We pay for someone to come around to collect our trash and to manage it in a way that it's safe for our communities.
+The US government is already offering billions of dollars to try to get a direct air capture industry off the ground.
+And I think it makes sense for the countries that have used the most fossil fuels to do the work of finding out if CDR can scale.
+But if it doesn't...
+well, then net zero will have been just another way of kicking the can down the road.
+Which, of course, is how we ended up here in the first place.
+In this position where we may now have no choice...
+but to try everything.

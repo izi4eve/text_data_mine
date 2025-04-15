@@ -1,0 +1,149 @@
+Okay.
+I want you to check this out because it represents a big challenge for large language models like GPT-3...
+and now GPT-4.
+But it is not code.
+It is a list that countries around the world are grappling with.
+Before we get into the problems with large language models, let's review at a basic level...
+how they work.
+You've probably heard of ChatGPT.
+It's not really a model but an app that sits on top of a large language model.
+In this case, a version of GPT.
+One thing models like ChatGPT do is natural language processing.
+It's used in everything from telephone customer service to auto completion.
+GPT is like a used bookstore.
+It's never left the room and only learned through the books that are at the store.
+Essentially, these large language models...
+they scan a lot of text and try to learn a language.
+They can check their process by covering up the answers...
+and then seeing if they got it right.
+Then they can use that knowledge to recognize sentiment...
+summarize, translate and generate responses or recommendations based on the analyzed data.
+And yes, ChatGPT wrote that last line.
+You've got to do that in videos like this.
+This is an amazing ability but that's because it's read a lot of stuff.
+You can ask ChatGPT to rephrase something to Shakespeare but that's because it's read all the Shakespeare and that is where my waste of paper comes in.
+Actually, I want to show you something.
+Yeah? Good?
+Okay.
+So this is a print out of Common Crawl from 2008 to the present.
+Common crawl basically means that they go over all the websites and index them.
+And on this list, they put every language that they think that they've indexed.
+Here, you notice right away all the English.
+Every crawl is like more than 40% just English.
+German: DEU.
+See the indexes here...
+you know, it's about 6% every time which doesn't sound like a lot, but it's kind of a lot.
+But look here, 2023.
+FIN: Finnish. Lot of pages.
+But it's just 0.4% of the entire scan.
+This bookstore, it's got an inventory problem.
+All of the focus is on only a very small set of languages.
+There was a paper that stated that of the 7,000 languages spoken globally about 20 of those languages make up the bulk of NLP research.
+Okay, so let's back up a bit.
+This is Ruth-Ann Armstrong.
+She's a researcher who I interviewed and she's doing something that a lot of researchers are trying to do...
+make new data sets.
+Those 20 languages fall into our category called high-resource languages and the others fall into a category called low-resource languages.
+Those low-resource languages don't show up on the Internet as text as much which means they don't make it into language datasets.
+They become unintelligible to the AI.
+Imagine our used bookstore again.
+It has a ton of Dan Brown books or James Patterson or Anne Tyler.
+This is like English and German and Chinese.
+The high-resource languages.
+Then there are the rare books.
+These are the low-resource languages.
+So, many models just don't know as much about them...
+or have anything at all.
+I’m someone from Jamaica.
+The language primarily spoken in Jamaica is English...
+but we also speak a Creole language called Jamaican patois.
+Armstrong and her coauthors wanted to create a dataset that can explain this largely spoken language but they weren't trying to generate texts like ChatGPT.
+Instead, they wanted their model to understand it.
+In this case, to do that, Armstrong went through a bunch of examples of Jamaican patois and lined them up.
+Two columns.
+And she labeled whether the statements entailed or agreed, contradicted, or were neutral.
+You can try it in this one.
+A has a fever.
+B has a high temperature.
+So it’s entailment.
+They agree.
+Try this one: Entailment or contradiciton?
+Contradiction.
+One more.
+Neutral.
+The two statements don't really relate.
+She did that for almost 650 examples.
+You can probably see that this was a ton of work.
+And Jamaican patois is not on my big list of Common Crawl languages.
+I also talked to some Catalan researchers...
+who are trying to evaluate how well these big language models do on stuff like Catalan.
+It is the most spoken in this autonomous community of Spain.
+In GPT-3, the percentage of English words is 92%.
+For German, there's 1.4% words.
+Spanish appears in 0.7%.
+And finally, Catalan.
+The amount of Catalan words in the whole training set is 0.01%.
+And it still performs very, very well.
+So the problem here is a little bit different, right?
+They've got some Catalan in the dataset.
+Common Crawl says Catalan is 0.2335% of their survey.
+Not a lot, but some.
+In the big company models like GPT-3 and presumably GPT-4 in the future were proven to do pretty well on little data.
+For example, the research team got GPT-3 to generate 3 Catalan sentences.
+And then they mixed them up with real sentences.
+Three native speakers then evaluated them.
+So, that was our test.
+And their results were very good for the machine.
+But there is still a catch.
+It performs reasonably well.
+But it's worth it to build a language-specific model that has been specifically trained and evaluated for that language.
+So the problem here isn't performance it’s transparency and it's the amount of data.
+I mean, Common Crawl says that they indexed...
+millions of examples of Catalan words.
+But GPT-3 says that they only read about 140 pages of Catalan.
+Imagine like a novella.
+It's a problem being dependent on the performance or even the goodwill of a few institutions or a few companies.
+You can easily imagine a world where one of these companies just cuts out Catalan.
+The same way Catalan News complained Google was cutting out Catalan links in searches.
+Common Crawl is just a percent of what GPT-3 was trained for.
+We don't know the details about GPT-4.
+And that means a lot of other stuff went into this language model that we just don't know about.
+Right now all these bookstores are actually run by Meta or Microsoft or Baidu or Open AI or Google.
+They decide which books go in there and don't tell anyone where they came from or who wrote them.
+Some people are trying to build a library next to the bookstore.
+This is Paris, where the French have a supercomputer that wasn't being used a lot.
+It’s like almost down the road and I was discussing with the people...
+who built it and they're like, “Nobody uses this GPU.” Basically, what can we do?
+Thomas Wolf is a co-founder of Hugging Face which is like a hub for AI research on the Internet and they ended up working on Big Science’s BLOOM...
+a project to create an open-source multilingual model.
+And the more we thought about it we thought it's also a lot better, in fact, that we trained it in a lot of other languages, not just English.
+And if we try to involve many people and so it started from a small Hugging Face project to become a very big collaboration.
+Where we tried to open this to everyone.
+They basically went down the Wikipedia list of most spoken languages and covered those.
+But also added low-resource languages when possible.
+So we have very, very low-resource languages there.
+Mostly in African languages.
+And so here to gather the data there what we decided was to partner as much as possible with local communities and ask them basically what they thought were good data and how we could get it.
+As importantly, we know where the data comes from and how it was obtained.
+That's the difference in open-source.
+You know the books in the library.
+All right, let me find English.
+Okay, so let's being honest as an English speaker...
+I'm kind of the target audience for these big companies in these big models.
+English represents more than 40% of the Common Crawl but there are reasons for even the target audience to want all languages to be well represented.
+I am an English speaker but I have my Jamaican accent and I remember that...
+initially like when Siri came out, I had a harder time using it because it couldn't understand my accent.
+So expanding even the training dataset for voice assistants include...
+more accents has been helpful.
+So imagine what would happen if we tried to expand another piece of that.
+We're building technologies for more languages as well.
+So if you want to have this model everywhere you need to be able to trust them.
+So if you trust Microsoft, that's fine.
+But if you don't trust them...
+yeah.
+It's our language.
+So we speak— we are Catalan speakers.
+So whereas because of a small language or of a moderately small language because you may have languages that have a...
+a sizable amount of speakers in the real world but that have very, very little digital footprint.
+So they are bound to just...
+disappear.

@@ -1,0 +1,64 @@
+If you've heard anything about sleep science, it's probably that you're not supposed to use any screens before bed.
+And if you're anything like me, you've probably ignored that advice. Because, Come on.
+Even sleep experts can't resist.
+Do you use your phone before bed?
+Yes, just to catch up on my calendar and email, it's always less than 30 minutes for me.
+That's Rohan Nagare, a sleep researcher who's coauthored several papers on the topic.
+As a chronic screen's before bed guy myself, I went into our conversation wanting to know if there is any way that we could keep using our phones at night without completely wrecking our sleep schedules.
+Turns out science suggests our sleep schedule is way more malleable than we might think.
+Before we dive into the science, let's first get a quick review on how our body responds to natural light like the sun.
+and the lack thereof.
+You've probably noticed that at night you naturally start feeling sleepy.
+This is because your body produces melatonin, a hormone that plays a huge role in sleep.
+melatonin is not just, any other hormone.
+it's kind of an internal timekeeper.
+As the sun rises and you get exposed to its bright light, your body suppresses the production of melatonin, helping you feel awake and alert.
+But sun exposure isn't the only factor here.
+The color temperature of light also changes throughout the day.
+Daylight exists at roughly 5600 Kelvin, which leans quite blue.
+A sunset leans much warmer in the 3000 Kelvin range.
+This natural color shift, combined with the decreasing brightness, tells our body to kick start the production of melatonin, which makes us feel sleepy.
+Natural light makes things simple on our bodies.
+But once you start adding artificial light into the mix, things get a little more complicated.
+Especially when we're staring at these all night.
+Phone screens at their baseline have a color temperature of 5600 Kelvin, or daylight.
+So when you hear that using your phone before bed is bad for you.
+This is the commonly cited reason as to why.
+The phone's artificial daylight, aka blue light, suppresses the production of melatonin, disrupting our feelings of sleepiness.
+Now, You might be wondering, don't phones have a built in feature that's intended to counteract this blue light?
+They do.
+It's called night mode or night shift.
+But does it actually work?
+Well, In 2019, Rohan coauthored a study that tried to answer that question.
+It's a very smart feature, The idea is right, they’re trying to manipulate a lighting characteristic, which is the spectrum, to reduce the circadian effectiveness.
+The study looked at two modes of warm shift high CCT which meant that the screen colors were intensely shifted to the warmer end of the spectrum and low CCT which meant that there was only a slight warm shift.
+Both modes suppressed melatonin, the sleepy hormone, and the results showed that there wasn't a meaningful difference between the two.
+And while that makes it sound like Night Shift doesn't work, it's actually a lot more complicated than that.
+Spectrum is just one aspect.
+Distribution duration, timing and amount needs to be considered So if you're using phone in the night, I wouldn't be too concerned if it's 20 minutes, 30 minutes.
+But if it's beyond that, if you're going to watch a movie every night or like three episodes of a Netflix show, you know, then it accumulates a pretty good circadian dose, which can keep delaying you every day.
+What Rohan is saying here is that limiting the time you spend on your phone can also make a difference, and warm shift is just part of the solution.
+When we use our phones were staring directly into a light source and how much light falls onto a certain area like our eyes, usually measured.
+in lux is dramatically impacted by our closeness to the device.
+In fact, you experience a closer light source as four times more powerful than that same light source twice the distance away from you.
+if you're going to get 1000 lux at your eye, it honestly doesn't matter if it's a warm source or a cool source, that's too high and you're already saturating your circadian system.
+So we know that limiting screen duration, shifting the colors warmer, and lowering the brightness all helps.
+But Rohan also let me in on an interesting biological hack that can make a huge difference in how impactful your late night screen time is.
+what you really want is a contrast between how much light you get immediately after you wake up for an hour or two, and immediately before you sleep 1 or 2 hours.
+It's possible to trick your circadian system and say, okay, if I'm going to blast my screen brightness and bump up my 50 lux to 200 lux in the evening, I can just counter that by getting 800 lux in the morning.
+So that's the beauty of your circadian system.
+You can use its own mechanisms against it.
+So basically, if you go for a sunny walk in the morning, you could potentially offset the amount of circadian disruption you're experiencing from your phone.
+At the end of the day.
+Body hacks aside, the thing that I realized as I was researching this story is that there are so many more factors that impact our sleep besides just the blue light that comes out of our phones.
+And we haven't even touched on them all yet.
+Like what you do on your phone, whether it be doom-scrolling or watching a scary movie, all that can be just as stimulating and disruptive to your sleep as the amount of light that you're taking in.
+At the end of the day, figuring out how to have a healthier relationship with our devices is a big step in figuring out how to have a healthy relationship with our sleep.
+Thank you so much for watching this episode of Even Better.
+At Vox, We're always looking for new tools to analyze data for stories like this, and if that's something that you're interested in too, then a great place to start is Brilliant, our sponsor for this video.
+Brilliant is a learning platform with thousands of interactive lessons in math, data analysis, programing, and AI.
+They're large language model course allows you to get hands on and even even uses AI models trained with Taylor Swift lyrics to teach you the importance of training data.
+To try, everything brilliant has to offer for free for a full 30 days, go to Brilliant.org/vox or click the link in the description below.
+You'll also get 20% off an annual premium subscription.
+Brilliant doesn't have any editorial say in what these videos end up looking like, but they do make videos like this possible.
+So thanks again to Brilliant for sponsoring.

@@ -1,0 +1,162 @@
+Of all the interactions you have with technology in a day, interacting with artificial intelligence — or not — feels like a choice.
+But in some ways it isn't.
+Over the past decade, we've become surrounded by AI systems that perceive our world, that support our decisions and that mimic our ability to create.
+Whether we're aware of it or not is another story.
+Imagine a day like this.
+You do some exercise with a smartwatch, put on a suggested playlist, go to a friend's house and ring their camera doorbell, browse recommended shows on Netflix.
+Check your spam folder for an email you've been waiting for.
+And when you can't find it, talk to a customer support chatbot.
+Each of those things are made possible by technologies that fall under the umbrella of artificial intelligence.
+But when a Pew survey asked Americans to identify whether each of those used AI or not, they only got it right about 60% of the time.
+Some of these applications of AI have become fairly ubiquitous.
+They almost exist in the background, and it's not terribly apparent to folks that the tools or services they're using are being powered by this technology.
+That's Alec Tyson, one of the researchers behind that Pew study.
+When Tyson and his team asked respondents how often they think they use AI, almost half didn't think they regularly interact with it at all.
+Some of them might be right, but most probably just don't know it.
+We know about 85% of US adults are online every day, multiple times a day.
+Some folks are online almost all the time.
+This suggests a bit of a gap where there seem to be some folks who really must be interacting with a AI, but it's never salient to them.
+They don't perceive it.
+So why does that gap exist?
+Part of the problem is that the term artificial intelligence has been used to refer to a lot of different things.
+Artificial intelligence is totally this giant umbrella tent term that now has become a kitchen sink of everything.
+That’s Karen Hao. She's a reporter who covers artificial intelligence and society.
+In the past, there were distinct disciplines about which aspect of the human brain do we want to recreate?
+Like do we want to recreate the vision part?
+Do we want to recreate our ability to hear? Our ability to write and speak?
+Giving the machine the ability to see became the field of computer vision.
+Giving the machine the ability to write and speak became the field of natural language processing.
+But on their own, these tasks still required a machine to be programed.
+If we wanted machines to recognize spam emails, we had to explicitly program them to look out for specific things, like poor spelling and urgent phrasing.
+That meant the tools weren't very adaptable to complex situations.
+But that all changed when we started recreating the brain's ability to learn.
+This became the subfield of machine learning, where computers are trained on massive amounts of data so that instead of needing to hand-code rules about what to see or speak or write, those computers can develop rules on their own.
+With machine learning, a computer could learn to recognize new spam emails by reviewing thousands of existing emails that humans have labeled as spam.
+The machine recognizes patterns in this structured data and creates its own rules to help identify those patterns.
+When the training data hasn't been structured and labeled by humans, that method is called “deep learning.” Most of the time people talk about AI now, they're not talking about the whole field, but specifically these two methods.
+We'll hear more about that after a word from this video’s sponsor.
+This episode is presented by Microsoft Copilot for Microsoft 365, your AI assistant at work.
+Copilot can help you solve your most complex problems at work, going far beyond simple questions and answers. From getting up to speed on a missed Teams meeting in seconds to helping you start a first draft faster in Word, copilot for Microsoft 365 gives everyone an AI assistant at work in their most essential apps to unleash creativity, unlock productivity and up level skills.
+And it's all built on Microsoft's comprehensive approach to security, privacy, compliance and responsible AI.
+Microsoft does not influence the editorial process of our videos, but they do help make videos like this possible.
+To learn more, you can go to Microsoft.com/copilotforwork.
+Now back to our video.
+Improvements in computing power, together with the massive amounts of data generated on the Internet, made possible a whole new generation of technologies that leveraged machine learning.
+And existing ones swapped out their algorithms for machine learning too.
+A lot of the “how” in the back has been swapped into AI over time because people have realized, “oh wait, we can actually get an even better performance of this product if we just swap our original algorithm, our original code out for a deep learning model.” Now, machine learning and deep learning models power recommendation for shows, music, videos, products and advertisements.
+They determine the ranking of items every time we browse search results or social media feeds. They recognize images like faces to unlock phones or use filters, and the handwriting on remote deposit checks.
+They recognize speech in transcription, voice assistants, and voice-enabled TV remotes. And they predict text in autocomplete and autocorrect.
+But AI is seeping into more than that.
+There has been this tendency over the last ten plus years where people have started putting AI into absolutely everything.
+Machine learning algorithms are already being used to decide which political ads we see, which jobs we qualify for, and whether we qualify for loans or government benefits, and often carry the same biases as the human decisions that preceded them.
+Are you actually automating the poor decision making that happened in the past and just bringing it into the future?
+If you're going to use historical data to predict what's going to happen in the future, you're just going to end up with a future that looks like the past.
+And that's part of the reason why it matters to close that gap between those who knowingly interact with the AI every day and those who don't quite know it yet.
+Awareness needs to grow for folks to be able to participate in some of these conversations about the moral and ethical boundaries, what air should be used for, and what it shouldn't be used for.
+Over the past decade, we've become surrounded by AI systems that perceive our worlds that support our decisions, and that mimic our ability to create.
+Over the past decade, we've become surrounded by AI systems that perceive our worlds, that support our decisions, and that mimic our ability to create.
+But over the past decade, we've become surrounded by AI systems that perceive our worlds, that support our decisions and that mimic our ability to create.
+Over the past decade, we've become surrounded by AI systems that perceive our worlds, that support our decisions, and that mimic our ability to create.
+Whether we're aware of it or not is another story.
+But when a Pew survey asked Americans to identify whether these technologies use AI, they only got it right about 60% of the time.
+But when a Pew survey asked Americans to identify whether these technologies use AI, they only got it right about 60% of the time.
+But when but when a.
+But when a Pew survey but when a Pew survey asked.
+But when a pew.
+But when a Pew survey asked.
+But when a Pew survey asked Americans to identify whether these technologies use AI, they only got it right about 60% of the time.
+But when a Pew survey asked Americans but when a Pew survey asked Americans to identify whether these technologies use AI, they only got it right about 60% of the time.
+We'll hear more about that after a word from this video sponsor.
+We'll hear we're going to hear more about that after.
+We'll hear more about that after a word from this video's sponsor.
+We'll hear more about that.
+We'll hear more about that after a word from this video sponsor now, machine learning.
+Now machine learning and deep learning.
+Now, machine learning and deep learning models Power, recommendations for shows, recommendations.
+Recommendations for shows.
+Recommendations We'll hear more about.
+We'll hear more about that after a word from this video sponsor.
+We'll hear more about that.
+We'll hear more about that after a word from this video sponsor.
+Okay, great.
+Hi, I'm Karen Howe and I am a reporter that's been covering artificial intelligence for over five years.
+And I am currently also working on a book about opening AI for Penguin Press and totally, yeah, yeah, yeah.
+Artificial Intelligence is totally this giant umbrella tent term that now it's become a kitchen sink of everything but the origins of the term.
+And this sort of helps to understand why it's so broad.
+The origins of the term are from an academic field, the founding of an academic field called A.I., and that happened in the 1950s, and it was a group of academics in the US that actually had a meeting at Dartmouth University to decide that they wanted to create a brand new field.
+They wanted to be the founding fathers of this field, and specifically they wanted to try and attain human level intelligence in computers.
+And there were there have been over the decades, many different hypotheses from like a scientific perspective about how to do this.
+From what?
+Like one of those hypotheses is that we are intelligent because we know things, and so we should build intelligent computers by encoding all of the rules that we know about the universe into a computer.
+Another theory has been we are intelligent because we can learn very quickly, so we should build intelligent computers by building learning machines.
+And so that theory that second one has become the dominant paradigm of everything.
+Basically everything that we see today and those learning machines is now called machine learning and machine learning has continued to advance in the last decade and a half or so from just simple machine learning like statistical calculations to deep learning, which means fancier statistical calculations.
+And there's a whole range of commercial products that have spun out of this particular technology that have really nothing to do with trying to recreate the human brain.
+But more just companies can make money off of it.
+And so they're going to keep doing that.
+So deep learning technologies include things like voice assistants, self-driving cars, facial recognition and all the way up today to gravity and stable diffusion.
+All of these count as deep learning.
+And what deep learning ultimately is doing is it's these techniques that allow to become fairly ubiquitous.
+They almost exist in the background, and it's not terribly apparent to folks that what they're the tools or services they're using are being powered by this technology.
+And I return to the point we talked about earlier that there are others where it's more apparent chatbots, for example, we didn't get it into generative AI in this example, but that's one where it's more front and center that that a computer is doing some thinking or at least mimicking some thinking in a way that's very directly more associated with artificial intelligence, where some of the consumer technology has become a little bit more in the background.
+And it's harder for folks to perceive that AI is influencing or helping them go about their lives and it well, one thing that we know is a question we ask very simple question how much have you heard or read about?
+A You know, on the one hand, 90% of Americans say, well, I've heard at least a little about it, but only a third say they've heard a lot about it.
+Sort of a deep or rich knowledge in this matters, Right. Why?
+Why do we care about awareness?
+Why do we study it?
+It's really the first step towards a broader public engagement with the host of moral and ethical questions that A.I.
+raises for society.
+So we're at a really interesting moment here where most Americans are generally aware of artificial intelligence, But deep knowledge, intimate knowledge is still fairly modest.
+And it is growing.
+Absolutely, it's growing.
+But it needs to grow for folks to be able to participate in some of these conversations about the moral and ethical boundaries.
+What I should be used for and what it shouldn't be used for.
+So that's part of why we study awareness at the center and why we feel it's important.
+Know Yeah, well, one thing that we do know is that not everyone brings the same level of awareness to understanding something like artificial intelligence and a really big factor.
+Probably the biggest factor is level of formal education, right?
+Where college graduates and those with post-graduate degrees, they express higher self-reported awareness and they score better on our awareness sort of scale that we've developed.
+And that's important.
+It just sort of underscores that these conversations are a bit different depending on what circles you're in, whether it's you're in a formal education setting or a job that requires this technology or maybe you're not in those settings.
+So absolutely, there are differences across the public that reflect things like formal education, job type and even types of conversation or social circles that really matter when it comes to where folks are in terms of understanding, interpreting and how they feel about artificial intelligence.
+So, well, look, there's so many big questions with artificial intelligence, but access and equity are certainly among them.
+We'll folks who do understand this technology, who can use it well and leverage it to their advantage, these prime equity and access questions.
+And there's the conversation around that or the solutions are very complex.
+But that's certainly one thing at play here is there's immense power with some of these technologies.
+They may not be equally available or understood by all spheres of the public in Is that okay?
+That's a public conversation to have.
+That's part of what our research can do is provide a foundation for having that conversation right.
+So, well, I'm in trouble now.
+I've gone too far with Shad to find a way to take back at all.
+I hear the heavy hand of lies and deceit.
+Absolutely.
+I mean, part of what we do at the center, an enormous amount of time goes into question or development.
+The ultimate question we end up on really represents a fraction of all the versions and items and ideas being discussed.
+And we had to balance considerations here.
+One is we have to make this accessible to folks we can't use necessarily highly technical or almost esoteric examples which don't resonate well with folks who are giving their time to take a survey.
+So there's many other ways of imagining an awareness index and there's more to do on this front, both by us and others.
+But we thought a good first step would be to try and identify some applications that are fairly well known in everyday life, or at least these of the tools they're powering are fairly widely used.
+We thought that was a good first place to start.
+There may be other ways to go deeper.
+Some of the more complex or technical or industry specific uses, that's a great opportunity for future research.
+But we wanted to start with ten folks even recognize where this technology is, that play and even some of the most common.
+We use tools online today, like online shopping, like email, like fitness trackers.
+Let's start there and see what we can learn.
+Well, that's that is the question is as folks become more aware, as expressions of I increasingly shape the way we work live, how are attitudes going to change?
+What do we need to understand going forward?
+Right now, there's a fair amount of caution among the public about A.I., right?
+Far more say they're concerned and excited about its growing role in life.
+How will that change going forward?
+A little more awareness only reinforce or grow concern or a critic go in the other direction, whereas the more aware folks get, the more positive they get.
+We've seen examples of both in our past research there.
+There is it's a story that's yet to be written, right?
+But it's one that's important to follow.
+Early indications are even in the past year or two, that the public is actually more concerned, not less, as they become a bit more aware of the ways in which air is involved in their own life.
+Spaces like health and medicine, spaces like jobs and hiring, perhaps some potential uses in law enforcement right there.
+There's some concern out there among Americans about how this is all going to play out in the.
+Yeah, absolutely.
+And they're really sort of multiple prongs to our research plan here at the center, which is for some of the most controversial uses of I like A.I.
+and Health and medicine, we focus a little bit less on awareness and more about attitudes.
+How would you feel?
+Would you feel comfortable with air and your own primary care?
+Would you be open to using AI and something like an image review and skin cancer detection?
+So in some of the most you could call the most perhaps potentially impactful on people's own lives, we go directly to attitudes.

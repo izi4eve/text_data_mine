@@ -1,0 +1,138 @@
+This is Queso.
+And beans does not like to be picked up.
+—Oh, Beans is big!
+—This is Beans. Yes.
+Oh, so sweet!
+This is Cameron.
+He's one of our subscribers.
+He lives in Indiana with his high school sweetheart.
+And he sent us this question about unions.
+How come we've seen such a decline in unionization in the U.S.
+and specifically why the unions from manufacturing didn't transfer over into services?
+Here's what he's talking about.
+The share of workers in the U.S.
+who belong to a labor union like I do, has fallen to around 10%.
+If you take out the government employees, it's 6%.
+And have you ever been part of a union? It sounds like you haven't.
+No, I haven't.
+What got me interested in the question was just the recent news especially around Starbucks.
+—"Starbucks workers in upstate New York..." —"...Santa Cruz...".
+—"...Philedelphia..." —"...Mesa, Arizona..." —"...more than 20..." —"...30..." —"...100..." —"...200 Starbucks locations..." "...voted in favor of joining a union so far." Unions have been catching some momentum here in the U.S.
+And if we can make sense of the historical decline we might understand what it would take to reverse it.
+Answering big questions like this usually involves answering a bunch of smaller questions.
+And the first one that popped into my head was "Did union density decline in other countries, too?" And the answer is yes.
+Meaning that some of the decline reflects international trends.
+What happened was that as these economies grew over time, globalization and automation steered job growth away from domestic factories where union membership was high.
+Instead, it went mostly into service providing jobs where unions weren't well established.
+All new workplaces in the U.S.
+are born non-union.
+So when you chart the total number of union members in the U.S.
+against the huge growth in the workforce, it looks less like the unions collapsed then that the economy kind of grew outside of them.
+There's a new paper out by an economist named Zachary Schaller and it estimates that around 40% of the decline in union elections in the U.S.
+can be explained by this growth and change across sectors.
+But he found that union elections fell within sectors, too, which means that most of the decline was caused by something else, something that explains how we ended up with even lower union membership than other similar countries like Canada.
+Cam, check out this chart.
+It compares union membership in the U.S.
+to that of our neighbor up north.
+Okay. So this graph is really interesting.
+The U.S.'s union density peaked way earlier than I thought it did.
+Way back in the 1950s, I thought that was in the eighties.
+Oh, and also this paper has a similar chart that just shows the private sector data.
+So I'll drop that in here too.
+The steepest drops in private sector union density came in the 80s, but it was already falling by then.
+Which made me wonder: what triggered these steep declines that started in the 1970s?
+I can hear you but I can't see you...
+I asked historian Nelson Lichtenstein to walk me through it.
+In the immediate postwar period.
+You know, in the fifties and sixties, there was a sense American capitalism works.
+Unions are functional to a kind of consumer society.
+"Free enterprise and capitalism, which the communist despise have given the American worker the highest standard of living in the world." I mean, everyone's going to have a suburban house and a Chevy in the driveway.
+And that led to this kind of stolid complacency.
+Unions negotiated some solid wages and benefits during the economic boom after World War II.
+Their main weight was in the building trades and manufacturing.
+And frankly, you know, they saw, you know, what is the typical worker?
+Well, sort of some white male, you know, Midwestern manufacturing.
+There was a kind of, you know, sexism.
+Well, we don't need to organize these retail clerks.
+They're all, you know, women.
+They're just there for pin money or something.
+So, sure that, yes, one could properly criticize the union movement, especially then.
+If the process of forming a union is like hiking up a hill and the slope of that hill is set by economic conditions.
+You'd want to make a push when the unemployment rate is low, because going into the 1970s, that hill got a lot steeper.
+Inflation went through the roof.
+Unemployment jumped.
+Imports were cutting into industrial profits.
+And employers respond to these pressures with an anti-union assault.
+They moved factories to the south to avoid union labor.
+You see an increase in companies hiring anti-union consulting firms and permanently replacing striking workers.
+And this strategy gets a boost from Ronald Reagan in 1981.
+"This morning at 7 a.m., the union representing those who man Americas air traffic control facilities called a strike." Technically, federal employees aren't allowed to strike, but that hadn't been enforced before.
+Well, after the union refused a counter offer Reagan fired 11,000 striking workers.
+"There just is no other choice." It was a signal.
+It was a signal was the first time the federal government had had been behind the destruction of a union for many decades.
+And every manager in the country said we can we can do things we couldn't do before.
+Which leads me to ask: what role has government policy played in the union decline?
+Here's the process established by U.S. law.
+First, at least 30% of workers at a shop need to sign a petition saying they want a union.
+At this point, their employer can voluntarily recognize them like Vox Media did.
+Otherwise, they go to a secret ballot election.
+If a majority of voters says, yes, the employer is now obligated to bargain with the union, but they're not obligated to ever agree on a contract.
+For those that do, it takes on average 409 days, according to Bloomberg Law.
+I called up sociologist Barry Eidlin to find out how this is different in Canada.
+If you don't have a contract by the end of the year in most parts of Canada, then the negotiations get referred to an arbitrator who can then impose an agreement.
+That doesn't actually get used a lot.
+But the fact that that's the end point completely shifts the incentive structure.
+U.S. policy allows plenty of opportunities for delay.
+In Canada, the time between the petition and the election is limited to 5 to 10 days.
+In the U.S., it takes 46 days on average.
+During that time, supervisors can pull workers into mandatory meetings advising them to vote no.
+That's all legal.
+Firing workers for organizing is not.
+Coming out of college one of my first jobs was as a manager in a warehouse and I got to see a little bit of what the anti-union kind of talk was all about.
+When someone that was hourly just mentioned it and the general manager put us into one of the operations manager's offices, it's a really small, really crammed.
+We're all standing up and he just says, if anyone says— can I like, curse? Because he cursed.
+—Are you fine? Yeah, he said it.
+—Absolutely.
+He said, if anyone hears, the fucking word union.
+I want you to tell me.
+I want you to make sure that person doesn't say it to anyone else.
+That just kind of stuck with me, and everyone just accepted it for what it was.
+Was there any other talk of organizing among the workforce that you were aware of?
+No, no.
+The person that mentioned organizing was fired, I want to say, maybe four or five weeks later.
+There was a real effort to document every single thing that he did that could be considered an infraction.
+So he could get written up.
+We stacked those all up until he qualified to be fired and he was fired immediately.
+If an employer gets caught retaliating against an organizer in the U.S., they have to "promise not to do it again", reinstate the worker, and award back pay.
+Minus whatever wages they had earned from other employment that they had sought.
+It's not even the full amount that they would have earned if they were on the job.
+And meanwhile, they send a message to the other workers that, you know, this is what happens when you try to unionize and they get to engage in the anti-union campaign without a key leader in place.
+So it just makes no sense to obey the law.
+Since the 1930s, changes to labor law in the U.S.
+have generally limited the tactics unions can use, while making it easier for management to make their voice heard.
+But even if you change those laws, you still need workers who are willing to fight.
+Hey, Cam it's Joss.
+Just sending over some news out of New Jersey from yesterday.
+In case you didn't already see it.
+I scrolled through that thread and read the article attached to it.
+And it looks like, you know, COVID, maybe gave everyone a lot of perspective.
+At least that's what it seems like from reading that article.
+But really interesting.
+Thank you for sending that.
+The last question I had when I saw the union decline is do people actually want to unionize?
+There's not a ton of data on this, but public approval of unions right now is higher than it's been since the 1960s and a nationally representative survey in 2017 found that 48% of people who were not in a union said they'd vote for one at their workplace.
+48% is here.
+That's a tough gap to close.
+But with the pandemic as a catalyst and the unemployment rate low...
+unions are having a go at it in 2022.
+One of the effects of union decline just means that a lot of people just don't know people in unions don't know what unions do.
+So then the effect of these kind of breakthroughs is that it changes people's consciousness by making those options more realistic and something that, like, I could actually take a risk and actually try to win this thing and I might actually have a decent chance of getting it.
+So that's everything that I found.
+It's more complicated than I hoped.
+But are there any questions you have about the history or any of that?
+No, I don't have any questions.
+It's really—it's been like really exciting to kind of go through this and see all the work that goes into it.
+Yeah, it's awesome.
+We really appreciate you sending in the question.
+We're going to use this as like a pilot episode to try to get more people to send us questions.
+So hopefully people will see it and want to do what you did.

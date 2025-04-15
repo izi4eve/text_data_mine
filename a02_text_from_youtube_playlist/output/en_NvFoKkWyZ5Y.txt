@@ -1,0 +1,87 @@
+These two scenes almost 20 years apart, both showed their digitally created main character waking up.
+They also served as the big reveal of a technical breakthrough.
+Final Fantasy: The Spirits Within was one of the first movies with a realistic human CGI character — at least in theory.
+To our eyes today, the movement and textures make it look at best like a video game cutscene.
+But focus on the skin.
+How did we go from lifeless skin to skin that, on Alita, a stylized character with giant eyes and a robot body, looks so much better?
+How do we make fake skin look real?
+That journey to realistic skin includes pore mapping, the appearance of light on apples and chicken, and knowing the difference between a glass of whole and skim milk.
+I’m finding it really hard not to feel like a total stoner thinking about my skin — I’m touching my face right now.
+“Honestly, when we go through looking at this stuff, we're all doing this and like trying to look in the mirror.
+My name is Nick Epstein.
+I was a visual effects supervisor on Alita:
+Battle Angel.” Alita: Battle Angel is a 2019 action movie based on the manga and it features a stylized character that's perfectly believable.
+She's come a long way from this guy, the Scorpion King from the Mummy Returns.
+This shot is so infamous that the VFX YouTube channel Corridor Crew spent a whole video trying to fix it.
+There are a lot of problems, but a big one is the skin.
+The Mummy Returns’ Scorpion King is played by the Rock.
+You wouldn't know it.
+But Alita definitely resembles the actor who played her.
+“We needed to make sure that we were capturing Rosa’s performance, like the heart of the movie was really Rosa’s performance as Alita.
+So we actually built a fully digital version of Rosa.
+And then we could apply sort of our sort of more, I guess, normal realism factors and barometers to that.” Getting that facial model right is a crucial first step for the skin’s movement.
+When the hard work begins.
+“I have four factors I think.
+Albedo, displacements, subsurface, and then dynamic changes and deformations and so on.” Albedo is the base color map for your character.
+Imagine the color of a face in a void.
+No features, no wrinkles, no lights shining on it.
+See how I make the cheeks a little red, the forehead a little lighter.
+That base is crucial to realism, and it's incredibly dynamic.
+Based on Rosa Salazar's real skin, they adjusted Alita’s albedo map for different moods, health, everything.
+“So we could then sort of compare the albedo map when she's like really angry, for example, with a neutral pose, and then extract basically like a blood flow map from that.
+And the shader could then, when she gets angry in her performance, dial in that extra blood flow.” Displacement maps push the scan up or down.
+Imagine how this little guy is flat, but features or a wrinkle here might change the height of his face.
+Look at all the detail in the Scorpion King’s face here versus Imhotep’s face in the next shot.
+That's the detail you can see in the close ups in Alita.
+It's way smaller than wrinkles.
+“We call it micro geometry, even pore level displacement that's what gives you your oiliness, the specular response in your skin, which you can see even just looking at me in the in the camera here, you know, my forehead is very different to my nose, very different to my cheeks, and to my chin.
+Unfortunately, my forehead is quite shiny, my nose also shiny, but my cheeks less so and that they're fairly isotropic, without direction, I have a very clear flow direction that way, a flow direction this way.
+We have a sort of reverse flow direction around my chin.
+So we actually draw curves on along these flow lines.
+Some extreme close ups, we you know, we knew that the camera was going to basically fly into Alita’s eye.” But the difference between this face and this one isn't just the skin.
+It's what happens beneath it.
+“My name is Henrik Wann Jensen, and I'm the chief scientist of Luxion, makers of Keyshot.
+And I specialize in computer graphics, in answering the question why do things look the way they do and how can you simulate it on a computer?
+See when we wrote the first paper as you may have noticed, we did some measurements in it.
+So we actually went to the local supermarket with a laser pointer.
+I was shining on on the on the milk, we were shining on the meat.
+And actually the guys who ran the supermarket came to us and what are you doing?
+This is not good.” The big idea of that breakthrough 2001 paper, work that got the team to the technical Oscars, was that the way they'd seen light bounce through food was true of almost everything.
+And if it could be simulated more quickly, that would make all computer graphics look more real, including skin.
+See how the laser bounces off the spoon?
+But when I put my hand in front of it, the light passes through, and even bounces around underneath?
+This drawing breaks down as an illustration, because light passes through and bounces under our skin.
+Computers could simulate subsurface scattering, like they do with this marble.
+But they did it by simulating every single bouncing light photon.
+That took way too long.
+So most of the time, computer animation couldn't bother with it.
+It makes the Rock look wrong — light is bouncing off him, not passing through the skin.
+It affected other shots, too.
+“In Shrek, they actually have a cookie guy and some milk.
+And if you ever see that shot, it looks like white paint, which was exactly the example we said if you don't do this properly, it's actually going to look like white paint.” Jensen and his colleagues figured out how to simulate subsurface scattering more efficiently.
+That changed animation.
+“Then in Shrek 2, they now knew about this technology.
+And then they went all in on the milk.
+So they had a ton of milk.
+But they now did the full subsurface scattering.
+And so it had a little bit of an impact on that as well.
+it's funny because I went to talk to Sony and you never know what people are interested in.
+They say, oh, you're the milk guy.” Subsurface scattering could efficiently simulate the different ways light passed through whole versus skim milk, and also skin, or at least the beginning of it.
+“But when we created the initial subsurface scattering algorithm, you're set up based on this assumption that you hit the skin and then everything is the same underneath.
+And of course, real human skin is not like that.
+We have different layers like epidermis, dermis.
+And we looked at sort of the basic things that decide what humans can look like.
+And it turns out melanin, you actually have different melanin types, we have one that's lighter melanin type, one that's more on the brown side, on the dark side, you have to have mixtures of those to get the correct skins.
+You could actually do a very convincing, now, rendering of human skin.” “So, you know, I've talked about how we define regions for micro geometry, some of the things we did also revolved around dynamic scans.
+So we actually had footage of what scan data, so it's this 3d three dimensional data of Rosa running through Harvard lines of sort of every expression we could we could ask her to do.” Harvard lines are a series of sentences that help hit all the phonemes—chunks of speech in a conversation.
+It's for audio, but it can help artists see every possible way somebody's mouth can move when they're talking.
+I'm doing this video.
+It includes these things called Harvard lines, and I was hoping you could read some of them.
+[Reading overlapping Harvard lines] Early reviews for Final Fantasy: The Spirits Within focused on it as a treat for the eyeballs.
+Since then, increasingly complex simulations of not just skin but light and movement have made visual effects look even more real.
+The only question is how much further is left to go.
+“Take the winding path to reach the lake, note closely the size of the gas tank.
+It snowed rained and hailed the same morning the meal was cooked before the bell rang.
+What joy there is in living.” “One of the immediate effects that that sort of the visual effects industry they jumped on right away was if you also have someone who's lit from behind, you see light passing through the ear.
+If you look at movies like like Harry Potter with Dobby, the character, they were the first to really adopt this technology.
+They all had big ears so they were very excited about that, and you'll see a lot of glowing light coming through the ears.”

@@ -1,0 +1,62 @@
+You're looking at a map of places that needed indoor cooling in 2019.
+The redder an area is, the more often temperatures were hot enough that people needed some kind of cooling to be comfortable indoors.
+The study also charted this into the future. When you zoom in, you can see how many places that haven’t needed to cool their buildings, will need to. Like here, in Western Europe— by 2040, and by 2070— Northern China, and Japan, and in the Pacific Northwest of the US.
+Where that change is already underway:
+"Seattle is the least air conditioned metro area in the US." "Most people in this area do not have air conditioning." "We tried to get one, buy one, and they're all--" "Sold out of AC units." "Dozens of customers lining up at this hardware store, all leave empty handed." The world is on the brink of a massive boom in demand for air conditioning.
+The number of installed AC units is expected to skyrocket, from 2 billion today, to almost 6 billion by 2050.
+More air conditioning means more consumption of electricity, and more emissions that warm the planet.
+But all of this comes with a weird twist.
+This increased need to cool our homes might be an unexpected opportunity to fix an even bigger problem:
+Fixing the way we heat them.
+With a revolutionary device called a heat pump.
+The basic mechanics of air conditioning haven’t changed much since it was invented a century ago.
+A fluid called a refrigerant absorbs heat from inside the home.
+That heat is moved and released outside the home, and a fan blows out the newly cold air.
+And it all runs on electricity.
+That’s also what heat pumps do, too -- with more or less the exact same technology.
+But they can also do it in reverse:
+Taking heat from the air outside, and moving it inside.
+MICHAEL THOMAS: Heat pumps suffer from one of the worst names of all time.
+A heat pump not only heats a home, but it also cools one.
+That’s Michael Thomas, he runs the energy research group Carbon Switch.
+THOMAS: I can actually show you my ductless heat pump right here.
+That is a heat pump working its magic on this 95 degree day here in Colorado.
+In addition to "air source" heat pumps, that transfer heat from the outside air, there are "ground source" heat pumps, that transfer heat between a home and the earth several feet underground.
+And "water source" heat pumps, which transfer heat between homes and nearby bodies of water.
+Heat pumps aren't brand new technology.
+You may already have one, depending on where in the world you live.
+But the real opportunity with heat pumps isn’t changing how we cool our homes.
+THOMAS: You can sort of imagine a traditional furnace, or a boiler, like a Zippo under a pot of water in your basement, really inefficiently burning gas, or fuel oil, or propane, and warming that water up, and sending it throughout your house and pipes, or going over a fan that's then blowing through ducts in your house.
+In the US, almost two thirds of homes are heated this way:
+Burning fossil fuels right inside our homes.
+Residential, public, and commercial buildings make up almost a third of global CO2 emissions.
+And heating specifically is responsible for 45% of those building emissions worldwide.
+The impact of cooling is relatively small.
+But, of course, that’s growing.
+And that’s the opportunity:
+If, instead of traditional ACs, people buy electric machines that both heat and cool, the need for fossil-fuel heating will go way down.
+THOMAS: Heat pumps are one of the most important climate solutions that we have.
+This map shows the regions where buildings need to be cooled during some parts of the year and heated during others.
+This is the market for heat pumps.
+It covers a third of the world population.
+What gets energy experts particularly excited about heat pumps, is how they reduce what they call "locked-in emissions":
+All of the future carbon emissions that are caused by decisions made today.
+THOMAS: The natural gas furnace that my parents installed when I was growing up is still kicking today.
+So you’re making a decision that’s going to impact climate for 20 or 30 years.
+One of the obstacles here is that fossil-fuel heating is often subsidized by the government, while heat pumps can cost thousands of dollars.
+So heat pumps represent a particular kind of climate challenge:
+they rely on millions of individual homeowners, each making a specific, expensive choice.
+But that can change.
+THOMAS: The real solution to this problem is going to be policy change.
+We need to massively increase the production of heat pumps in this country, which is going to be industrial policy;
+rebates and incentives, which is going to be budget reconciliation policy;
+We need natural gas to be properly priced for the negative impact that it has on society.
+Heat pumps alone won’t solve the climate crisis.
+While they can extract warmth from the air when it’s freezing outside, many models work less efficiently in subzero temperatures, where traditional furnaces might still be needed as backup.
+And until our electric grids are decarbonized, heat pumps will still run on electricity generated by fossil fuels.
+Overall though, heat pumps present us with a rare opportunity:
+to change something harmful and long-lasting about the way we live.
+And they show that the big, collective changes we'll have to make to fight climate change, won't all be massive infrastructure projects.
+Some of them will be right in our homes.
+THOMAS: We have it in our minds that the solution to the climate crisis is, build a lot of solar farms, build a lot of wind farms, drive electric vehicles.
+But there's actually a lot of sort of boring solutions, like heat pumps, that don't get as much press, and aren't as popular in the mainstream, but can deliver really massive carbon reductions.

@@ -1,0 +1,96 @@
+These are some of the world’s most iconic typefaces.
+You’ve probably seen them on classic ads, newspapers, posters, even memes.
+These typefaces were carefully crafted.
+Every curve considered.
+The legibility of their design paramount.
+Oh, wait, I forgot one.
+It’s a little different than the others.
+This one was likely designed on graph paper, converted into binary code then scanned sixty times a second onto a cathode ray screen.
+You probably recognize it when it says this:
+This font had a big responsibility.
+It needed to balance legibility and creativity, too, but it had to do it while taking up as little computer memory as possible.
+If I'm going to write a book, I want to know everything.
+That’s type designer Toshi Omagari, and that’s the font for the arcade game Time Pilot 84, one of many arcade fonts he catalogued, analyzed, and reviewed for his book: Arcade Game Typography.
+It took months and months of me checking a hundred games per night.
+There were so many arcade games.
+The book contains around 240 fonts, and most of them were designed within this 8x8 grid.
+Why this 8x8 grid?
+Let’s rewind to the golden age of arcade games.
+Well they come, as if from outer space, in a variety of weird guises.
+Defender, Pac-Man, Astroids...
+It was space invaders, now all forms of video arcade games are storming the market.
+Hundreds of circuits and computer chips, a city of electronic gadgetry and technology.
+Here’s the manual for Sprint 2, an 8-bit racing game released in 1976, right as arcade games were taking over.
+It explains a lot about why early video games looked the way they did.
+The TV monitor display is divided into a 32 by 28 tile grid.
+Each tile represents one byte of data. That's 8 bits.
+If you zoom in more, you’ll see the 8-bit tile is divided into its own 8x8 grid where each cell can be turned on and off.
+The more cells that are turned on, the more computer processing power required — which was super limited back then.
+The arcade game scanned this information line by line all the way down the screen with an electron beam before it restarted the next frame.
+This is what it looks like slowed down.
+By today's standards, these tiles would be a tight constraint, but developers managed to make race cars, aliens, spaceships, and robots.
+These games looked the way they did because they were exercises in efficiency.
+And nothing illustrates that precarious balance of conserving computer memory more than the letters and numbers that guided players through the game.
+Sprint 2’s set of characters are sort of like the arcade font’s earliest fossils, and they can be traced back to another game from 1976.
+It all started with a typeface from Atari, which first showed up in Quiz Show.
+Being a quiz game, I think it needed all the alphabet letters.
+These characters, like most arcade fonts, are monospaced.
+As the name suggests, every letter fits within the same width.
+And because every tile on the screen is locked together, that 8x8 grid also has to account for the gap between characters.
+The Quiz Show character set stands out, first and foremost, because of its proportions.
+It had two pixels of vertical thickness and one pixel of horizontal thickness.
+With those rules I would draw an 8 like this.
+But the designers of this font also attempted to follow the calligraphic tradition of typography.
+So if you hold a flat pen and write an 8 this way, there will be a thick stress in this position.
+This is the Quiz Show “8” That stress is also how they differentiated the zero from the "O".
+So there was a bit of a character in the design.
+The Quiz Show font was designed in the US and variations of it showed up in a lot of Atari games, but it didn’t truly travel the globe until it jumped over to game developers in Japan - who often weren’t familiar with the Latin alphabet.
+When they started making their own games, they just used the Atari Quiz Show font.
+Those Japanese developers still couldn’t resist putting their own spin on it, by adding and subtracting a few pixels here and there.
+You might recognize this modified W and Y from the hit game Galaxian.
+The typeface variations also had their weird quirks, especially when lower case letters entered the picture.
+The biggest challenge was figuring out exactly what lowercase letters were supposed to look like.
+Case in point - the lowercase characters for the Japanese-made game Roc ‘N Rope.
+Toshi found them saved within the code of the game, but they weren’t actually used.
+Probably for the best.
+The a, c, and e are giant compared to the b and d.
+Some of the letters are in cursive.
+I think this is what they were told in Japan.
+They didn't have as many points of reference when it came to lowercase design.
+Would you say that it's harder to make lower case letters than upper case letters within this system?
+Yes, lowercase needs more space because of the parts called ascenders and descenders.
+So you also see lowercase g kind of being pushed up quite a bit.
+I think overall quality is probably best in Marble Madness.
+That was released by Atari in 1984.
+Marble madness has an R that's more rounded at the top.
+Because it was also done by Atari, it makes me wonder if the original R, this extra corner, was a mistake or not.
+With incremental advancements in technology and a lot of ingenuity, arcade game designers fit more and more detail into this little 8x8 grid.
+They added more colors, outlines, and shadows.
+The fonts got bolder and more adventurous.
+There were some completely illegible designs too.
+Sometimes there's a damned if you do, damned if you don't situation.
+If you put a pixel it looks terrible, but if you don't, it looks worse.
+Do you have a favorite that you call back to?
+So, my go to favorite is Sky Fox.
+It’s based on the Copperplate script genre.
+Sky fox has one of the most beautiful script faces.
+Its use of grey is amazing.
+By using grey It's trying to express the thickness of one pixel.
+This shouldn't be possible, the entire set of letters.
+The most fun part for me is the gap between the game content and the typeface.
+Basically a spaceship takes aim at women in bikinis that are riding mythical creatures?
+One of the most beautiful typeface, shows up in quite unacceptable games now a days.
+By the end of the arcade’s reign these pixelated typefaces came in all shapes and sizes.
+But this one stood the test of time, showing up in hundreds of games including pac-man, Donkey Kong, and Legends of Zelda.
+Being confined to this small grid started as a technical challenge, but quickly became an impressive exercise in creativity.
+It’s why this font deserves to be ranked among some of the greats.
+You can do anything.
+It's a very small grid, but the possibilities are endless.
+If you’re one of our many viewers who watches their Vox videos over wifi then you might be interested in hearing about our sponsor, Ting Mobile.
+Ting is a cellular service provider that only charges you for the data you actually use instead of a flat monthly bill.
+So if you use less data, you pay for less.
+That means if you’re the type of person who’s almost always connected to WIFI, Ting can earn you serious savings.
+Like, “your phone bill could be as low as $23 a month” serious.
+You can bring any phone to Ting, and there’s no contracts or commitments.
+Interested? Try Ting Mobile with a $25 service credit at vox.ting.com.
+Ting doesn’t directly impact our editorial but their support makes videos like this possible, so go check them out!

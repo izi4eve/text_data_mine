@@ -1,0 +1,138 @@
+"Nasa tells us today it’s found a new planet." -"They have found 7..." -"7 planets" "As many as 50..." "...500..." "...3500 planets..." "They're pretty sure that they're rocky planets." "Every one of them could have liquid water." "Scientists calling the discovery quote..." "Very exciting stuff." "Very exciting." "I am very excited." "I'm excited, just really — this is so fascinating." I’m also excited, but I’ve always wondered how do people find these little “exoplanets” from trillions of miles away?
+And how could they possibly figure out anything about them?
+Their size?
+Their composition?
+If they'd be a nice place to live?
+Well, here’s how.
+It’s possible to study some things in space by just taking pictures of them.
+But that works best for really close things or really big things.
+Seeing a planet around a star is much, much harder.
+The problem with exoplanets is they're right next to a big, bright, massive star.
+And that star overwhelms the planet.
+When we point our most powerful telescopes at stars that are similar to our sun we get images like this.
+These pixels are capturing the glare of starlight but the star is actually much smaller.
+And any planets would be smaller still.
+For example, if our Sun were the size of this ball the Earth would be this big.
+And if we’re talking diameter, the Earth is about a hundred times smaller than the Sun.
+But the light reflecting off it is 10 billion times dimmer than the Sun.
+So of course it would get lost in the glare.
+It’s like looking for a firefly next to stadium floodlights.
+In the ‘70s and ‘80s, astronomers set out to find a way around this problem.
+At that time, everyone was excited about finding intelligent life.
+We launched two interstellar probes that carried messages for aliens.
+Giant radar dishes started listening for voices from outer space.
+And ET became the highest grossing movie of all time.
+But embarrassingly, scientists had yet to find a single planet around another star.
+They had a pretty clear wish list:
+First, just confirm the existence of a planet.
+Second, figure out the size of its orbit.
+We'd really like to know the distance from the star so we can understand how warm the planet is.
+Is it a boiling hellscape, too close to its sun, like Mercury?
+Too distant, like the Jupiter’s frozen moon Europa?
+Or just right, the kind of place that could have liquid water?
+Third, it would be nice to know how dense the planet is.
+Is it a giant planet like Jupiter, made mostly of hydrogen and helium?
+Or is it one of the prize rocky planets that's mostly heavier, more dense material?
+And most of all, but hardest to do we like to find gases in the atmosphere that might be associated with life.
+Oxygen is a fantastic biosignature gas.
+Our atmosphere is full of it thanks to plants and photosynthetic bacteria.
+And if there were an intelligent alien civilization looking back at us they'll be suspicious that something is here.
+It won't be our city lights, or the Great Wall of China.
+It will be oxygen, actually.
+So the goal was to find a planet, describe its orbit and its density and search for signs of life:
+all just by looking at this.
+To detect or study an exoplanet, we have to work with the star.
+We sometimes think of our solar system where our Sun is a fixed point and that all the planets are orbiting the sun.
+But a correction to the picture is our sun is not exactly fixed.
+The sun pulls on the planets but the planets pull back.
+The planets and Sun are orbiting, what we call their common center of mass.
+And that makes the sun wobble back and forth.
+A huge planet will make the star wobble a lot.
+And a lower mass planet will make the star wobble much less.
+We just had to wait for technology to get sensitive enough to pick up those wobbles.
+In 1995, Swiss astronomers announced that a star in the Pegasus constellation had an oscillation that repeated every 4.23 days.
+With just those data points, the basics of how gravity works and some simple math...
+they calculated that there was a planet only 4 million miles away from the star.
+That's incredibly close compared to our solar system.
+And it was about the size of Jupiter.
+Soon the wobble method was turning up dozens of planets.
+And, at the same time, revealing their distance from their stars.
+But this method couldn’t deliver the precise mass or size measurements needed to calculate density.
+Luckily, there is another way that we can indirectly detect planets just by staring at their stars.
+So some planetary systems are aligned just so.
+Such that the planet goes in front of the star, as seen from our telescope.
+A so called "transit".
+And that's fantastic.
+Because we can monitor the brightness of the star and look for a tiny, tiny drop in brightness that might mean a planet is going in front of the star.
+Our Jupiter's transit signal on our Sun is 1% Here’s what that 1% drop would look like in our view of a distant star.
+Pretty hard to see.
+So for our Earth and Sun, it's about one part in 10,000.
+In 1980s, no one knew how to detect a change that small and most astronomers concluded that this so called “transit method” was “not practical as a primary detection technique”.
+It's very rare for a planetary system to be so perfectly aligned that we can see the transit.
+So we must monitor lots of stars.
+Tens of thousands, or even hundreds of thousands of stars at a single time.
+And of course, just seeing one drop in brightness isn’t enough.
+You have to wait around for a second transit to know how long the orbit takes.
+If you were looking for Earth, that means you’d have to wait for at least a full year.
+It’s hard.
+It's hard to find long period planets with the transit method because you have to be staring at one place for a very long time.
+But as before, it was only a matter of time.
+In 2001, a research team was watching 5 million stars in the neighborhood of Sagittarius.
+And the picked up dip in the brightness of this one.
+Luckily, they didn’t have to wait around long for a second transit because the planet they found shot around its star every 29 hours.
+The telescope they used was on the ground which meant it had to peer through Earth’s turbulent atmosphere.
+Not exactly ideal.
+But the Kepler Space Telescope, launched in 2009 was literally above all that.
+It watched one patch of sky for years and found thousands of planets.
+Not only was this a good detection technique it could also be used to figure out the precise mass of the planet.
+And it’s size too.
+The bigger the planet, the bigger the drop in brightness.
+And with those elements you could finally calculate density.
+So far we've found nearly 5000 planets.
+Hundred are likely rocky worlds like Earth and dozens of those seem to be in the habitable zone of their stars.
+Incredibly, the question has shifted from “Do any stars have planets?" to “Do any of stars not have planets?” But we’re still looking for signs of life.
+How? Well, back in 1999, Sara proposed a way to investigate the gasses in exoplanet atmospheres.
+When that planet goes in front of the star some of the star light shines through the atmosphere.
+Different gases in that atmosphere would absorb different wavelengths of light.
+For example, a simple molecule like hydrogen gas absorbs these bands.
+Other compounds have more complex signatures.
+Sara’s idea was to look for those tiny signals once that starlight reached Earth.
+But not everyone was on board.
+So one place, I applied for a job, a professor sat across from me and literally said:
+"I just, I just don't think we're going to have very many transiting planets." They didn't think we'd be able to study atmospheres.
+They didn't think the field was going to go anywhere.
+But at least one team ran with the idea to use the Hubble Space Telescope and succeeded in observing the first exoplanet atmosphere.
+Unfortunately, it looks like this technique works best when the star is small, and the planet is big.
+Earth-sized planets transiting sun like stars have such a tiny signal and their atmospheres have an even tinier signal that we may never be able to observe.
+It's like the skin of an onion on an onion.
+We need to move beyond transits to a different technique.
+We call this technique direct imaging.
+Okay, I know we started down this whole wobble and transit path because taking a picture of an exoplanet seemed impossible.
+But look at this.
+This is a real time lapse of planets orbiting a star.
+The trick was to block out the star’s overwhelming glare with a device called a coronograph.
+Now this view is only possible because the planets are (a) really huge, (b) really far from their star (here’s our solar system for comparison) and (c) they’re all glowing red hot.
+We want to make direct imaging better and better.
+So we can move down to smaller and smaller and cooler planets.
+And to do this we have to go to space.
+To get above the blurring effects of Earth's atmosphere.
+And we want to use starshade.
+Starshade sounds like a teen fantasy series.
+(whisper) Starshade.
+But it’s actually a proposed spacefaring parasol.
+Kind of like a free-floating coronagraph.
+Starshade would be about the size of a baseball diamond.
+But they tested it out using this model.
+It’s strange flower-like shape would stop the starlight from bending around its edges and overwhelming the telescope.
+And it has to formation fly tens of thousands of kilometers from a telescope.
+The starshade and telescope will line up perfectly like in a very, very straight line together with the target star.
+This giant space flower would have to be launched inside a much narrower rocket.
+So NASA has turned to origami for inspiration.
+But it’s not clear when or if Starshade will get off the ground.
+At the end of 2021, the US astronomical community laid out they're priorities in an official report.
+"The report went through rigorous peer review and represents the consensus view of the steering committee." These so-called “Decadal Surveys” are hugely important.
+In previous decades they’ve advocated for Hubble and the recently launched James Webb Space Telescope.
+"For this decade, our highest priority is a telescope for observing habitable exoplanets." But the report didn’t advocate for a Starshade mission this decade.
+Having this attitude that I’m going to explore, I’m going to do this anyway it’s really key in the field of exoplanets.
+So, about a decade later I went back and somehow on my schedule was this same professor.
+And he just welcomed me into his office and he just said “Exoplanets! I always knew it was gonna be big.” It was just like: yeah.

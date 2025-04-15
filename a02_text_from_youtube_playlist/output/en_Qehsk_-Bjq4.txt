@@ -1,0 +1,76 @@
+Oh. You think darkness is your ally?
+You merely adopted the dark.
+I was born in it.
+Molded by it.
+Ahem.
+That's my impression of Bane in 2012's "The Dark Knight Rises" when he's chastising Batman for using the dark to his advantage.
+Now my impression sucks, but there's arguably no character more associated with the movie darkness than Batman.
+With 13 on screen appearances across nearly 60 years Batman is one of the longest running franchises.
+And when you take films from across different eras and compress them into one big barcode looking thing they can serve as a sort of proxy for a story about the darkening of movies and TV in general.
+In the 1960s, Batman movies burst with color and brightness but by 2022's "The Batman"...
+I mean, just look at it.
+It's a movie that lives and breathes darkness.
+So much darkness that some audience members have complained that it's almost too dark.
+You can see the same pattern in the Harry Potter films...
+and in Game of Thrones...
+and the Spider-Man franchises.
+So, yeah, it's not just you complaining.
+Movies and TV shows are getting darker and there are a few reasons why.
+Check out this graph by Stephen Follows a data researcher for the film industry.
+He charted the top 100 grossing films in the U.S. from 2000 to 2015 and what type of camera they were shot on.
+This point here.
+It's where movies flipped from film to digital.
+And this shift from film to digital is part of the reason for this shift.
+The biggest difference between shooting dark scenes on film versus digital is not knowing exactly what you have.
+My name is Brett Jutkiewicz.
+I'm a cinematographer.
+Some of my recent work includes "Ready or Not" "The Black Phone", "Scream" and "Stranger Things" season four.
+When shooting a movie on film, there is way less room for error and way more opportunities to make mistakes.
+For one, there are no monitors that'll show filmmakers exactly what a shot is going to look like before they are recorded.
+There are video taps for film cameras but they're really just a reference for framing.
+It's really not representative of how the image will actually look.
+It's using a light meter and measuring the light in the scene and trusting that you're getting what you want.
+If you do shoot a dark scene on film there isn't much room to correct it later because the information in the darkest parts of the image is essentially lost.
+The overall image just becomes grainier.
+And in Hollywood, there's little room for error.
+You really can't do a scene again just paying for the day, the location.
+There's really no room for going back and redoing something if it comes out too dark or if it's not exactly what you want.
+Take a look at these two shots.
+This one from 2002's "Spider-Man" was shot on film.
+This one from 2012's "The Amazing Spider-Man" was shot on digital.
+See how much brighter Spider-Man and Mary Jane's faces are?
+With film, the safest bet is to shoot with plenty of light even if scenes are meant to be dark.
+Shooting digitally allows you to take more chances with darkness because digital shoots usually have high-quality digital monitors.
+The way that it allows people to see the image as it will be when it's finished lends itself to taking more risks.
+Plus, digital cameras are generally more sensitive to light.
+They do capture more into the highlights and more into the shadows than a film stock can.
+Digital cameras like the one we're using to film this right now shoot in what's called a log format.
+This essentially is when the camera sensor is capturing a really flat, grayish image in order to preserve information in the highlights and the shadows.
+Once you bring that footage into a color grading software you have tons of room to push that footage around.
+And instead of losing detail in the darkest parts of the image like you would with film you can push it way brighter and still retain that detail.
+And the overall image doesn't get super grainy either.
+Now, I know what you're thinking.
+Lots of very successful dark scenes have been shot on film from "The Godfather" to "The Dark Knight" to "Euphoria".
+It's not impossible to do dark scenes on film.
+It's just harder and riskier.
+Regardless of film or digital.
+Shooting dark scenes is always a balance between information and artistic intentions.
+There was an episode in "Severance".
+There's shots in that sequence where you really are only seeing just a sliver of his face.
+And this sea of darkness and watching it, I was struck by it.
+There's instances where you really want to focus on one thing in the frame and using darkness as a tool to kind of guide the eye in that way.
+Darkness only feels like a problem when it feels like we're missing out on visual information that we think we're supposed to see.
+It's tricky because at the same time as you want to create a mood and a feeling for the audience...
+you don't want to also get in the way of them enjoying the show.
+It's a balance.
+Filmmakers are using the best screens the world has to offer in perfectly dark rooms when tweaking the brightness of the content that we're all watching.
+So filmmakers choose to make something look right on the best screen and they expect that vision to trickle down to whatever screen you end up watching it on later on down the line.
+It's impossible to know how people are going to watch it in the end.
+And if you make it look good on a low quality television then when people are in the theater it's not going to look right for them.
+So, yes, what you're watching is dark...
+but it's also exactly what the filmmaker wanted you to see.
+There's hope that movie darkness is still evolving for the better.
+"Ad Astra" and "Nope" were filmed using regular cameras and infrared cameras.
+Infrared cameras allow filmmakers to essentially steal light from the sections of the light spectrum that are invisible to the human eye.
+It also creates a black sky, which is useful for compositing.
+When blending the two images together it can produce a darkness that allows you to peer much deeper into the dark expanse than normal movie darkness would.

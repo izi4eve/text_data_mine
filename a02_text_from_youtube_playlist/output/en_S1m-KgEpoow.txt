@@ -1,0 +1,264 @@
+This is Jake Hi.
+I’m Jake.
+In February 2020 he posted his first video to TikTok.
+Alright, mom, what are you doing today?
+I’m going to make a beat!
+I had my mom make a beat that I had already pre-made.
+And I recorded, I'm like, okay, press these buttons.
+And we'll make it look like you just made it in two minutes.
+I need a producer tag Okay, what do you want it to be?
+Ayo mama on the beat.
+Within hours the video was racking up millions of views.
+So, Jake made a few more videos featuring his mom, but with one small tweak.
+My brother had the idea, he was like, yo, what if we like put a TikTok like in front of the phone and we filmed it...
+Hey mom.
+Have you ever heard this song before?
+The format was simple but clever:
+Jake would mashup songs on TikTok that were already going viral.
+[overlapping] Hey mom.
+Have you ever heard this song before?
+It worked.
+With each post, he was racking up millions more views.
+But he didn’t stop there.
+And we were like, we need to put my vocals on the end of it.
+And if the song goes viral, then like we can drop it ourselves and become an artist.
+Hood baby part 2, featuring yours truly.
+Up down right down...
+We're just going to name myself, JVKE and we're going to go at it.
+Ayo mommas gonna make this a bop.
+“Up down right down looking for your love right now.” It just so happens that the first one that I put my vocals on went absolutely bananas viral.
+Jake’s 15 second snippet of a song was taking over TikTok.
+Once it was at 1 million videos, Charli D’Amelio used it.
+That means that this is about to be insane.
+Like it's not ending at a million.
+It's starting at a million.
+At the time, Jake didn’t even have a manager.
+But he knew he needed one fast.
+We have these fifteen seconds, we have labels calling us...
+What do we do?
+That was actually when I got on the phone with my now manager and he was like “Call me, right now!” He was like, "Hey, can you finish this song in 24 hours?" Clearing the “Hoody Baby” sample ended up taking a few days.
+By the time we got it out, it was at 5 million videos.
+It ended up going to 15 million.
+If you compound all the views of all the 15 million videos, it's like over 9 Billion views.
+This is just the beginning of Jake’s story.
+But what makes it so interesting isn't how dramatic it is, but how often stories just like his occurred in 2020.
+Over the last few months I’ve been working with The Pudding to put experiences like Jake’s into perspective.
+We dug into the data and stories behind dozens of emerging artists’ TikTok hits.
+To figure out what internet fame actually means for new music artists.
+It turns out, this is way more than a story about algorithms or going viral.
+It’s a story about the longstanding tug-of-war between artists, platforms, and music industry giants.
+You might be surprised who’s winning.
+If I were to review this project, I'd probably never do it again.
+That is Matt Daniels, a journalist at The Pudding where he digs into culture stories through data.
+In the Fall of 2021, we started a project that turned into what Matt describes as...
+One of the hardest data projects I've ever worked on.
+It seemed simple on paper:
+create a data set of Indie and DIY artist that went viral on TikTok in 2020 and determine if that virality was enough to change the outlook of their career.
+Because it really was their first major, major exposure to a huge fan base on the internet.
+But, there were a few big problems right from the start.
+The biggest was there wasn’t a useful data set of the most popular songs on TikTok from 2020.
+We banged our head against the wall trying to figure out “how do we reconstruct charts from TikTok?".
+It turns out, there’s a lot of playlists on Spotify that compile viral TikTok hits.
+And there’s also this tool called Chartmetric.
+Which among other things captures historical data of those playlists and tracks what songs have been added and subtracted to them and when.
+So, we got to work.
+And pulled all of the songs from as many playlists as we could find that were added between January and December 2020.
+Then we ranked the songs by their popularity on TikTok, filtering out any that got fewer than 100,000 posts.
+Which brought us down to about 1500 songs that went viral in 2020.
+The biggest challenge I would say is once we had our arms wrapped around these 1500 songs making the decision of, is this an established artist that had a TikTok hit or is this the artist's big break?
+And a big break is a very subjective decision.
+A lot of the artists in this list were obviously very established.
+Cardi B going viral on TikTok is not particularly impressive versus somebody who has never released a song before.
+So we went back to Chartmetric to dig into more data points behind these songs and the artists that made them.
+Including their Spotify monthly listeners, the number of times they've been playlisted, the number of tracks they've released.
+Which made it a lot easier to decide: did this artist have a career beforehand?
+Eventually, after filtering out all of the established artists we narrowed our list to a sample of 125 artists we felt hit all the marks.
+They all went viral on TikTok in 2020 and as far as we can determine, it was their big break.
+Can I also say something really quickly...
+Yeah yeah.
+It doesn't actually matter how many artists we examined.
+There's probably thousands of new artists that went viral on TikTok.
+So what we wanted to do was just wrap our arms around a cohort of artists that are experiencing this phenomenon and, and then say what, what happened to them afterwards?
+What happened to these artists' after they went viral was eye-opening.
+And nearly everyone of those stories starts with Spotify.
+The speed and the intensity with which TikTok sends things viral.
+It's crazy.
+That’s Elias Leight: he’s a music journalist and his reporting on TikTok and the music industry is extensive.
+The virality itself is not necessarily new but TikTok is basically just like a machine gun shooting out viral songs like even more than daily, honestly.
+The two big differences are how many viral moments it creates and then how directly that virality correlates with streaming increase which is why the labels are so obsessed with it.
+You can see how that played out in real time by looking at this chart which captures the explosive virality of JVKE’s track “Upside Down” on TikTok.
+But what it doesn’t show is that while Jake’s track was going viral people were flocking to Spotify to stream it.
+This is the TikTok-to-Spotify pipeline.
+I remember when we first released the song it was just like a bottle rocket, up to like 500,000 streams a day.
+I was like, what is happening?
+I didn’t even know really what that meant at the time.
+What is meant is that the track was going to get playlisted.
+In fact within a month of “Upside Down’s” official release it was on 98 editorial playlists: including "New Music Friday" which has almost 4 million followers.
+It landed on the "Global Viral 50" Spotify Charts.
+And as a result, JVKE went from zero monthly listeners on August 18th to 3.4 million by October.
+As I’m editing this piece, he has over 8 million.
+This pipeline from TikTok to Spotify wasn’t unique to JVKE.
+It happened to nearly every one of the 125 artists on our list.
+So, I feel like TikTok is one of the main platforms where people actually leave the app to go and add music to their library.
+That’s L.Dre - who’s song Steven Universe has been used in more than 10 million video posts.
+Whenever one of my videos went viral most of the comments were people begging me to release it.
+That's kind of the culture on TikTok.
+When they hear something, they really wanna go listen to it.
+I pretty much went from having just like a few thousand monthly listeners to just a rapid incline for like a year or two straight where it was just steady going up.
+And what was more exciting to see was that almost all of the artists, including L.Dre had some of their other tracks get editorially playlisted.
+That's really important because it means that once you're on a playlist that Spotify curates, it's getting a huge audience it's a huge signal that the music you're releasing is going to get streams.
+To get a better sense of how the TikTok-to-Spotify pipeline worked Matt and I analyzed another chart:
+The Spotify 200.
+It’s a global chart that shows the top 200 songs on the app every day.
+These songs are stream kings.
+So, in a new spreadsheet, we pulled all the artists whose songs made the U.S. Spotify 200 after January 2020 and filtered out all of the artists who had well established careers or had already charted before then.
+This left us with a new data set to analyze.
+These 332 emerging artists who landed on the chart for the first time.
+Out of this group, a quarter of them have TikTok to thank for their big break.
+This is incredibly eye-opening in terms of TikTok’s influence on the charts.
+In terms of what is getting listened to in music culture.
+But let’s backtrack a second.
+Because it’s not just about racking up millions of streams.
+It’s about how fast you’re able to do it.
+And it’s not just about how virality influences music culture.
+It’s about how it influences music business.
+Spotify basically pays out labels according to their share of the total streams in a given time period.
+If you get a really big hit that, you know, does a billion streams over six months or something that can add a few points to your market share which then increases your payout of the Spotify pool.
+It's really like a ruthless competition for this market share number that no listener cares about at all but the record labels watch obsessively.
+Despite this obsession, look what’s happened over the past 4 years.
+Major labels have slowly conceded their total Spotify market share to independent and self-released artists.
+To get back a bigger piece of the pie, labels developed a strategy:
+Monitor TikTok like a hawk and aggressively try to sign artists that are rising to the top.
+In a way, TikTok is great for the labels.
+They basically sit on top of it, watch everything come up and if they get it at the right time they can probably make their money back on pretty much one track.
+The intensity of these bidding wars around viral songs...
+It's pretty wild.
+It's just like a flat-out sprint to grab the next viral thing.
+Here's a headline I've seen everywhere.
+And for legal reasons, I made a generic version of it.
+“Artist with viral TikTok song inks million dollar record deal with major label.” Let's break it down.
+So you're an artist, you have a song and it’s doing really, really well and all these record labels are hitting you up.
+They're like, I want to sign you.
+How can we be a part of this conversation?
+So then they will entice you with money, which is an advance.
+So this million dollars, right here?
+That’s the advance.
+The more virality you have the more zeros you’ll see.
+This is Mary Rahmani.
+She’s a former TikTok music exec who now runs her own label with Republic records called Moon Projects.
+When I worked at major labels, but under an imprint that was a little more indie I would go in between like 50 to a hundred thousand dollars for an advance.
+And yeah, the major labels are a double triple that sometimes.
+The label signs you, they give you a fat advance of about a hundred thousand dollars or something like that, in exchange for full ownership of all of your masters all of your recorded music.
+So, for that million dollars the label now owns the rights to your viral TikTok song forever and...
+They would keep around 85% of the royalties that came in.
+You only got your 15% if you recouped the cost of your advance.
+By the way, that’s Ari Herstand.
+I'm the author of "How To Make it in the New Music Business" and I'm an independent musician.
+So right after you ink your million dollar deal you see a nice $50,000 check from Spotify because your song is still riding that viral wave.
+$42,500 of that check would go to the label, only $7,500 would go to you… but it wouldn’t stay with you for long because you have to use that check to start paying back your million dollar advance.
+In essence, an advance is a loan.
+And if you’re only making 15% of the revenue generated by your song it might take a very long time to pay it back.
+So you just have to hope you’re very smart about the way you use your advance or you're extremely successful and your album generates millions and millions of dollars.
+And then you start earning royalties on the back end.
+The whole approach is basically like initially you're going to be, you know, 500K, a million, 1.5 million in the hole, and you just have to dig yourself out of it.
+This is what a standard major label record deal has looked like for decades.
+But recently, this part of the headline has started changing the equation.
+If you have a viral hit, and have proven you can build a following all on your own.
+Congratulations, you have leverage.
+I mean, if you have a viral hit, probably you’re getting a lot of offers simultaneously because labels scrutinize TikTok so closely and they want to be part of these viral things so badly Because of that...
+There's been a bigger shift in the last couple of years than there has been in the last 50 years in the types of deals that labels are starting to offer the artists in the artists favor.
+Where the label comes to the artist and says, I know, historically we would take 85%, but we're not going to do that for you because you're so valuable.
+And you've obviously proven that you can create a career all on your own.
+So, how about 50/50 we're partners now?
+And you know, we're not going to own your stuff.
+We're just going to do a licensing deal.
+Meaning give us the rights to your record for the next 12 to 15 years.
+You can still do whatever you want with it, we'll do whatever we can to make more money on this.
+And we'll split it 50/50.
+That has never really happened before with self-released DIY independent artists.
+So, how many record deals are actually happening?
+Matt and I decided to tackle this question from two angles.
+First by compiling a list of around 367 emerging artists who landed their first major label deal after January 2020.
+And then from there, we went row by row, artist by artist, trying to determine, did this person have a viral moment on TikTok?
+And if so, was that cited as one of the reasons for them getting signed?
+It turns out, roughly a third of these deals happened because an artist's song went viral on TikTok.
+And when Matt and I went back and looked at our original group of 125 artists, we figured out that 46% of them went from unsigned to landing a major record label deal.
+Because when these artists do have leverage, signing to a major has its benefits.
+For one, they have direct relationships with streaming services like Spotify which helps them get more placements on editorial playlists.
+They are also massive international conglomerates, so they will tell you that they can push you in Sweden and France and Germany and Japan at the same time as they push you in America.
+At the end of the day, the biggest difference is that they're massive banks and they can write huge checks.
+But TikTok, has increased the chances for DIY artists to go viral one day and wake up the next morning with a million streams on Spotify without spending millions of dollars to record an album, and needing a global team to promote it.
+This is honestly the subject of a lot of debate right now.
+If you're able to build a lot of leverage on your own, like how much benefit does a big label offer you and what should you give up?
+When I looked at the data, I wasn’t that surprised to all of these of these artists signing deals with major labels.
+What I found more compelling was the group who were likely offered deals and decided to continue on their own, at least for now.
+It's like, I can promote my music.
+I don't have to rely on you to make stuff happen for me.
+The leverage is kind of slowly being put back into the hands of the artists and it’s a beautiful thing to see.
+When I was browsing our list of 125 viral artists one name happened to grab my attention:
+Edith Whiskers.
+It turns out that name is a pseudonym for the prolific singer songwriter Tom Rosenthal.
+I write fairly boring singer songwriting music that has gone a bit viral on TikTok.
+Tom’s first viral song was his cover of “Home” by Edward Sharp and the Magnetic Zeroes.
+It’s been used in 1.6 million TikTok videos.
+So after the initial TikTok waves hit me, I thought, okay, I'm going to release it, but then it suddenly dawned on me that if I released it via my own name, I thought this cover will be on the top of my lists forever.
+I couldn’t bear the idea of writing all these original songs and then having one cover just sitting there at the top.
+So he did the only sensible thing.
+I came up with four names, put all those names on Twitter, did a Twitter poll and Edith Whiskers was the favorite.
+So he released the track on Spotify under the name Edith Whiskers And it shot straight up to the Spotify Viral 50.
+Basically, If you can name a record label they reached out.
+The thing is, Tom is staunchly independent.
+And has some pretty strong feelings about major labels.
+I'm their worst nightmare, really, because I'm older than, you know, 19.
+When record labels said to me “Oh, come and sign with us because you know, these things can drop off and we help it grow and flourish in its own special way.” Well, I go, “Hang on, I've literally got the data from the first one over a year now, showing that it basically does roughly the same thing every single day of his life.” I just basically said, this is around the kind of money that it would take to get me interested, because I know this is the money that I will make from these songs.
+That knowledge is really important, especially if you're independent.
+In 2021, just a few months after going viral, Tom started his own record label.
+I thought, let's try it.
+Let's try and create a fair system.
+Let’s actually have a completely big rethink about how I approach it compared to traditional record labels.
+The first thing he nixed was the long tradition of advance and recoupment.
+Obviously not go crazy and invest lots of money, but actually invest, you know, one or 2000 pounds or dollars in someone and say, look, let's make a few songs, but I'm not looking for that money back.
+So that's the key difference, I think, is you’re just investing in people, rather than it being this odd loan system.
+I want every artist of mine, on my record label, to understand money.
+And the only way they do that is by seeing money come in straight away and understanding how that works.
+It has never been a better time to be a DIY artist, but that doesn’t mean it’s easy.
+I’m at the whims of these almighty algorithms at all times.
+Like they pretty much decide, you know, whether I'm gonna eat dinner or whatever.
+A few years ago I started following L.Dre on Instagram way before TikTok was even on my radar and it seemed like he always had content at the ready.
+I just need to make that I’m posting stuff, pretty consistently on any platform I can.
+The fact of the matter is, if you wanna make it today, you either have to have money to hire people, or you just need to also become a video editor.
+Also become a graphic designer.
+You definitely have to wear a lot of hats for sure.
+Pretty much everyone I talked to said, if you want exposure, you have to be on TikTok, and not only that, you have post post post.
+We recommended posting three to five times a week and now it's three to five times a day, Because theres people out there who are willing to put in the extra work, and you’re competing with them now.
+Even if you’re an influencer full time, it’s a lot of work.
+But it's just because there's so much content coming in and music is one vertical of many.
+If you’re looking to break as a new artist, that is kind of the requirement.
+The more you post, the more you'll get discovered.
+Out of all of the big existential questions this project hit me with, the one that I can’t stop thinking about is this:
+Is music just content now?
+Are musicians just content creators?
+I don't know what the actual meaning of this was but like the video killed the radio star thing.
+There's more to the equation than just your voice on radio.
+And I think that's kind of what you're getting at here is that there's just so much around your ability to create content.
+On one hand, if you're signed to a label, they can help you with that.
+But on the other hand, you're signed to a label because you're good at that already.
+Matt and I spent months poking at prodding at the digital footprint of these 125 artists.
+Examining whether or not they would be deemed successful based on how quickly their TikTok and Instagram followers increased, or whether they gained youtube subscribers, and spotify monthly listeners.
+But one metric that’s just as valuable is touring.
+People love you on TikTok.
+That's great.
+Will they pay for a show?
+You know, can you start selling merch?
+Like, is there a deeper attachment here?
+First we looked at, of these artists, how many were touring beforehand?
+Unsurprisingly, some of them were.
+Among the artists who had never toured before or played a show about a third of them have had at least one show and about 15% of them are actually playing festivals now.
+A decent chunk of these artists have been able to channel their TikTok success into performing live music, which is often the source of financial security for an artist.
+You want people to come to your shows and you want people to buy your albums and your t-shirts and be invested in what you're doing as an all-rounder.
+And actually a viral song is obviously great, but it’s about doing something so much stronger than that.
+In November 2021, a little over a year after Jake went viral with his mom on TikTok, he played his very first live show.
+"When you perform for the very first time after everyone said you were just a TikToker." That first moment when I was walking onto the stage I was walking kind of slow just to like take in what was actually happening.
+As I sang the first lyrics to the song and everyone was just screaming back at me.
+Like I almost was like speechless.
+That target, we were trying to hit of like let's convert this virality into something real, like we hit that target spot on.

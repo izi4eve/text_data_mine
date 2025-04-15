@@ -1,0 +1,99 @@
+Stelfie is a very funny and very clumsy dude.
+He time travels and has the most incredible adventures.
+And he is sort of an alter ego myself although physically we are completely different.
+Originally I started this project as a way to showcase the potential of Stable Diffusion combined with good artist skills.
+My goal was to capture a scene where Stelfie engages in a boxing match with Muhammad Ali.
+I always start with, you know, drawing a sketch.
+Stable Diffusion and the other diffusion models around are extremely good, but also extremely cheeky.
+It's very easy for them to drive you away from the original idea that you had.
+Once I have the idea, I want to try a bunch of random prompts...
+just to see if I can find at least a good initial pose.
+I couldn't find the pose for Stelfie on the right.
+So, what I've done is that I moved to Photoshop...
+and I recreate the pose myself.
+ControlNet an extension if I had to reproduce today the same pose that...
+I've done two months ago with this artwork...
+probably would take me 15 minutes.
+Throughout the whole process I always use different samplers.
+Because the sampler is very important in terms of realism and details.
+So if you're trying to replicate skin...
+Euler is very synthetic, is very fake.
+But DPM, for example, is working great on that.
+There are many parameters that are extremely important.
+One is steps.
+So steps is how many times you’re telling Stable Diffusion to work on your prompt.
+You can choose a very low number or a very high number.
+Many options.
+At the beginning, obviously, the two more important parts are the the inpaint and the outpaint.
+So inpaint means you are asking the machine to change just the parts of the image and the machine will change only the part that you want it to be changed.
+On the other side, outpaint, you’re asking to the machine...
+to imagine what's outside the box based on what is already in the box.
+As you can see, I look back a lot between Stable Diffusion and Photoshop.
+So let's say that's out of 100%.
+50% is done with Stable Diffusion about 40% in Photoshop and about 10% in Procreate.
+When it comes to Stelfie’s face...
+I use a model that has been trained specifically on Stelfie’s face.
+So what I've done previously is that I created Stelfie in 3D...
+and I took a bunch of snapshots...
+of his face from different angles...
+and I use those images to train the model.
+So when you train the model you save a keyword.
+The noise strength is the last option that you can see in the web UI of Stable Diffusion.
+And why is important?
+Because it gives you more or less control...
+on the image itself.
+When it comes to faces, it’s very difficult to achieve...
+good results.
+Especially if you're trying to replicate a popular person.
+So I've asked Stable Diffusion to make a face that would look like Muhammad Ali.
+And then in Photoshop, I warped all these traits.
+So I make the nose — I don't know, larger or thinner.
+And the jaw...
+the eyes.
+So, I changed everything manually.
+But what is important now is to try to have the pose that is correct.
+And I wanted to— I wanted Stelfie to be like a bit fluffy in terms of not super fit, without a six pack.
+And probably here I sort of found...
+the belly that I was happy with.
+But clearly it was not realistic enough yet.
+And then I used the result and I modified the result in Photoshop.
+But my understanding of how Muhammad Ali was looking like.
+So you have to, you know and crop and cut and paste and change and warp and paint on top, arms and eyes, exposure, skin tone so a lot a lot of stuff.
+So here I was about halfway done.
+But then eventually, if you're running into trouble...
+even if you're not super precise...
+you can, you know, go back in the Stable Diffusion and try to ask Stable Diffusion to help here.
+You, you know, just maybe on some part of some edges or with the lighting or with the skin.
+This sort of...
+stuff.
+Still the the body of Muhammad Ali is not correct.
+He wasn't buff like the athletes are today.
+You know, he was big and healthy.
+But not  like this muscle that they have today.
+Very defined.
+And so I wanted to get that real...
+realistic Muhammad Ali.
+Here we are in a good position because probably we are 12 or 14 hours in.
+And as you can see, the scene is set.
+So it's all good to go.
+You just need to make it better.
+Well here— Probably they don't like nipples, who knows.
+The nipples period of Stelfie.
+You know, before December which is when Stelfie was born...
+I was going to bed and there was dreaming about beautiful ladies.
+Now all that I dream about is about 41 years old dude.
+So, no. Not great.
+Not great.
+Well, I feel you have to drive the machine not the other way around.
+And just to prove how important is the artist’s part in the overall process creation.
+I see the overall process as a joint effort with the AI.
+I’ve been a traditional artist for 2 decades, painting on canvas.
+And in the last five years I've been doing a lot of digital art.
+So from that part of myself, I don't feel threatened at all.
+I feel this is an opportunity.
+An opportunity for many new talented people...
+to jump on a new branch of art that is completely different from the one that we have already in digital art and just open up new way of being creative.
+50% of the hands that you see in Stelfies are mine.
+And that's because it has always been extremely challenging to reproduce hands.
+So what I was doing is that, you know, if I needed the hand in some position I would take a picture of my hand...
+and then I would clean it up and paste on top.

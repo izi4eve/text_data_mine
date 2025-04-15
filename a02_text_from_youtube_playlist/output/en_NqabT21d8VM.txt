@@ -1,0 +1,187 @@
+This is a syringe full of water.
+I've closed off this end so it can’t escape.
+And no matter how hard I push...
+Nothing really happens.
+I can't compress it.
+Even if I put this inside an industrial hydraulic press...
+a machine that can push down with thousands of tons of force...
+the volume would only decrease by about 1%.
+But what if it was squeezed even harder?
+What if this water was subjected to the extreme pressures in the Earth's core?
+Or inside the Sun?
+What would happen to it?
+The answer is something really bizarre.
+Something physicists are just starting to understand.
+In many ways, this is really a new field.
+We just don't fully know the rules yet.
+It's an entirely new regime of matter.
+To try and wrap our heads around these extreme pressures and the way they warp physics as we know it.
+Let's go on a journey straight down.
+We'll start our trip up here on the surface at atmospheric pressure.
+How much pressure is that exactly?
+How does it compare to, say the pressure of my phone on my palm?
+Well, the phone's weight, about two Newtons...
+is spread out over about 100 square centimeters.
+That's how pressure is measured:
+A force distributed over an area.
+The pressure of the atmosphere the hundreds of miles of air above me...
+pulled down by Earth's gravity is 500 times stronger.
+That's like the pressure my phone would exert on my palm if Dwayne “The Rock” Johnson was balancing on top of it.
+But because the air is free to flow around...
+it's also pushing up The Rock with the same pressure.
+Every phone sized patch of my body is getting pressed inward by the equivalent of The Rock's weight.
+Of course, all the structures and fluids within my body are pressing back and I'm so used to this equilibrium that I don't even notice.
+Before we leave these familiar conditions I'm going to grab a few things to take with us.
+A gram of hydrogen, a gram of sodium...
+and a kilo of water.
+We know exactly how these substances behave on Earth’s surface.
+But what happens when we start to squeeze?
+Just ten meters of seawater adds another whole atmosphere worth of pressure.
+27 floors down...
+we pass the unassisted diving record.
+And just a little deeper...
+we hit ten atmospheres.
+Now we're going deeper than the deepest scuba dive.
+There's a blob of fish.
+They look like depressed jello on the surface but down here, the pressure keeps them trim.
+One kilometer down, we reach 100 atmospheres.
+The kinds of pressures we got with that giant hydraulic press.
+Sperm whales can dive this deep...
+and their hinged rib cages fold inward so the bones won't snap.
+Here, the Titan submersible was crushed...
+and here is the destination they never reached.
+[My Heart Will Go On by Celine Dion plays briefly] Somehow we're still passing fish.
+And now we've reached the bottom of the Mariana Trench...
+and 1000 atmospheres.
+We're now up to the pressure of a phone with a herd of elephants balanced on top.
+Let's check in on the samples we brought.
+Our balloon of hydrogen gas has shrunk down to the size of a big marble.
+But both our solid sodium and liquid water haven't changed much.
+They're just barely compressed.
+Why is that?
+Well, the molecules of hydrogen had plenty of space between them.
+Room to shrink.
+But the sodium and water were already tightly packed.
+Even the pressure down here can't overcome the electrostatic repulsion between molecules.
+It's nowhere near strong enough.
+But let's keep going.
+Every meter of rock piles on the pressure nearly three times faster than water.
+The temperature is rising, too.
+As we leave the crust, we hit 10,000 atmospheres.
+In the mantle, temperatures shoot past a 1000 degrees Celsius and some of the rock starts to melt.
+This is where many diamonds form.
+Carbon is squeezed into a tight crystal.
+As we go deeper into 100,000 atmospheres of pressure...
+the rock is compressed further, forced back into its solid form.
+Our sodium, meanwhile, has melted...
+and our bubble of hydrogen is liquid too.
+Compressed into a little clear globule.
+The water is also changing.
+It's getting squashed so much, it's forced to become a solid.
+But not the hexagonal crystals we get on the surface.
+Instead, it's a tighter cubic lattice.
+Scientists have found this variation of ice, Ice-VII...
+trapped inside diamonds.
+As we get close to Earth's core we pass 1 million atmospheres.
+That's the equivalent of an oil tanker balanced on a phone.
+This is the threshold we're now leaving the world that physicists fully understand.
+This is where the external forces are about the same and starting to overwhelm the internal forces.
+The crushing pressure is starting to overcome the electromagnetic forces holding water molecules apart apart and maintaining their shape.
+The behavior that comes out of being in these extreme conditions is pretty bizarre.
+How do you study matter under conditions that normally only exist deep inside the earth?
+That was the point of creating the Center for Matter at Atomic Pressures.
+We're going to be doing all the fundamental physics to be able to understand matter under these really different kinds of conditions.
+CMAP is headquartered at the University of Rochester...
+and they've got a tool that helps them create extreme pressures.
+The enormous Omega EP laser which fills this giant room.
+This is the facility's schedule.
+Scientists from around the world queue up for months just for a chance to blast a tiny sample of matter with a laser beam.
+And how do you feel in the run up to this?
+Unbelievably nervous.
+You spent a year of planning and crossing T's and dotting I’s...
+just to get to this point.
+The shot director gets on the intercom and he goes— Five...
+four, three...
+two, one.
+[silence] Shot 39607 is now complete.
+That was it.
+During that split second, a million atmosphere pressures were momentarily created in the next room...
+the same pressures that exist deep within Earth.
+How does a beam of light do that?
+Let's go through it again.
+Just way slower.
+The laser beam is born in these machines down in the basement...
+and it's directed through a maze of lenses and devices that shape and monitor it.
+Bouncing through these massive tubes...
+it's infused with more power until it's as wide as this opening:
+About 45 centimeters across.
+Then it races towards the target chamber which is hidden behind this tangle of equipment.
+This is a visual representation of the target chamber.
+And the target is right at the center of it.
+Those are really, like a pinpoint...
+on the tip of a pen, just absurdly small.
+The target is a tiny, inedible sandwich with a sample of whatever substance the researchers are interested in in the middle.
+The laser light is focused down to hit this first layer which explodes into a superheated ionized gas.
+And that plasma blows off of the surface like a rocket.
+Ahat creates this buildup of pressure that forms a shockwave.
+And that shockwave really quickly travels through the material.
+The last layer acts as a window allowing the passage of electromagnetic rays generated during the experiment.
+And then surrounding it you have these spaces to put different cameras and other tools that we use to measure the various things that we're interested in.
+If you look through this porthole...
+you can see a couple of these sensors getting moved into place.
+In 2017, researchers put a tiny bit of Ice-VII sandwiched between two diamonds...
+in the target chamber.
+As the shockwave passed through it...
+pressure in the ice spiked above 2 million atmospheres and its atoms rearranged.
+Oxygens formed a tight lattice...
+while hydrogens were free to diffuse through it.
+It was Ice-XVIII, four times denser than normal ice...
+and able to conduct electricity almost as well as a metal.
+For a few billionth of a second...
+the laser had recreated conditions inside Earth.
+Speaking of, let's get back to our journey.
+As our water starts to turn into Ice-XVIII...
+our glob of sodium is undergoing its own transformation.
+Under these pressures, scientists have seen it turn transparent.
+Now, what could account for this?
+Well, metals like sodium are shiny because they have a bunch of free-flowing electrons that can absorb and then retransmit light which we see as a reflection.
+What happens when you apply pressure to it is you're squeezing the electrons away from their atoms...
+and into these localized pockets.
+Trapped like that, the electrons can't interact with light...
+and so it just passes through.
+We've reached the center of the earth...
+but that's not the end because we can continue into pressures found inside larger plants.
+Tens of thousands of kilometers below Jupiter's surface...
+Physicists think hydrogen will go through another change becoming a shiny conductor of electricity.
+It's thought that a lot of Jupiter is made up of this metallic hydrogen.
+We think of high energy density materials as completely inverting the periodic table so your metals become transparent and your transparent materials become metals...
+and all these gases become solids...
+And the universe holds higher pressures still.
+The center of Jupiter sees over 10 million atmospheres just about the highest pressure that the Omega laser can create.
+And now we're diving into the sun...
+where pressures rise over 100 billion atmospheres.
+The island of Manhattan balanced on a phone.
+We've seen extreme pressures, overwhelming the forces that keep molecules apart.
+But here within the sun, they can overcome the very glue that holds atoms together.
+Here, individual hydrogen nuclei can be used to form helium...
+a process that releases energy.
+This is nuclear fusion:
+The ultimate source of all energy in our solar system.
+The reaction at the center of every twinkling star.
+If we could somehow recreate this process on Earth and keep it going...
+we would have a near limitless source of clean, cheap power.
+And researchers around the world are using giant lasers, including Omega...
+to study this possibility.
+This is all a relatively new frontier of physics.
+Scientists still have so many questions about the rules about how different elements and substances act and interact under different conditions...
+and how that might influence the evolution of planets...
+and their ability to foster life.
+They'll keep chipping away at those unknowns...
+one split second experiment at a time.
+[Lump of Coal by Adam Cole] Hold me close...
+Squeeze me tight...
+Get together/ Up the pressure Feels so wrong/ but it feels so right...
+Break me down/ Then you make me whole...
+You want a diamond/ take your time and keep on tryin/ ‘cause I’m just another coal.
+I’m just another coal!
+[Lump of Coal by Adam Cole fades]

@@ -1,0 +1,68 @@
+Back when researchers first analyzed the genome of a brand-new coronavirus in Wuhan, its genetic sequence looked like this.
+Three weeks later, researchers sequenced the genome of the same virus in a patient in Seattle.
+It had changed here and here and here.
+These changes are happening all over the world.
+The coronavirus is mutating.
+It's changed hundreds of times since January but researchers are concerned about one mutation in particular.
+So my question is, is the coronavirus becoming more dangerous?
+I'm Cleo Abram, and this is "Answered, by Vox." Well there's two ways one can think about danger.
+First is that the virus causes a more severe disease and that doesn't appear to be the case.
+That's professor of immunology Michael Farzan.
+He says the second way that mutations could make the virus more dangerous is if it becomes more contagious.
+But before we get there, here's the good news.
+My understanding is that most mutations, in the coronavirus but also in every virus, don't actually change how it behaves in our bodies at all, is that right?
+Yes, most mutations do not change very much.
+They actually are just part of the process of sort of selection and they go away.
+A virus, at its most basic, is just a bunch of genetic material packed into a protein shell.
+In the case of the coronavirus, that genetic material is RNA, which is made up of four nucleotide bases.
+You might remember the bases A, C, T, G from DNA.
+With RNA it's just U, not T.
+When the virus gets into your body, its goal is to copy itself which means it needs to produce more RNA and more proteins.
+A virus doesn't always make an exact copy of its RNA.
+And when it makes a random mistake in that copying process, that's a mutation.
+But it's when it's copying the proteins that things really get interesting.
+Within that newly copied RNA, each group of three nucleotides, called a codon, can instruct your cells to produce one building block of protein called an amino acid.
+Amino acids all come with letter names too:
+D, G, Y, I-- you get the idea.
+Different amino acid combinations mean different proteins.
+But as it turns out...
+Several different codons encode for the same amino acid.
+So, for example, say the nucleotides "ACU" mutated into "ACG." It's still gonna tell your cell to produce the exact same amino acid, T.
+This mutation doesn't change the protein at all.
+We call those silent mutations.
+But even if it's a non-silent mutation, something that does actually change the amino acid and changes the protein, that doesn't always necessarily change how a virus behaves in our bodies, right?
+That's absolutely right.
+In fact, the genetic code is designed to be conservative.
+Meaning that changes that it's likely to make, are likely to have a minor effect on the function of the proteins they encode for.
+So in general, mutations are expected in the course of an epidemic or pandemic.
+Most of these mutations do not have a strong impact on the severity of the virus or even the transmission of the virus.
+Of course, that's not always the case.
+And for COVID-19, scientists are concerned about one mutation in particular that might have an impact on how the virus spreads.
+The formal name is D614G and that is a code for the individual amino acids at position 614 of this spike protein that have changed.
+I see, so it's the 614th amino acid - and it changes from D to G?
+- Correct.
+Unfortunately D614G just so happens to be in the part of the genetic sequence that encodes for the viral spike proteins, those key proteins that the coronavirus uses to invade cells.
+The red protein that everybody sees on the surface of the pictures of the coronavirus, there's more of those on viruses with that change than on viruses without this change.
+Dr. Farzan and his team found that with more spiked proteins, the mutated virus is more likely to infect cells in culture in their lab.
+But infecting cells in culture is really very different from it being more infectious out in the world between people, right?
+It is certainly more likely to infect a cell in culture.
+What the next step is to demonstrate that our results in cell culture translate to human-to-human transmission.
+So just to be super clear, we don't know that this mutation causes the virus to pass more easily between humans.
+It does seem to be more transmissible between cells in a lab and it also seems to become the dominant form of the virus as it spreads.
+Where is this mutated version of the coronavirus now?
+Actually, everywhere.
+The first detection of this virus might have been in Germany in late January and then you would see that virus sort of grow up in Europe and you would see a mixture of viruses in the United States but then over time, you would see more and more virus with this mutation.
+So what we know right now is that researchers believe the mutations we're seeing aren't making cases of the coronavirus more severe.
+They are concerned that the D614G gene mutation might make the virus more contagious.
+But the research so far is limited to cells in a lab.
+And scientists just aren't sure yet how the mutation will affect contagion rates in the real world.
+And if you just remember one thing, it's this:
+does what we know about this mutation change anything that people should be doing in their daily lives to prevent themselves and their loved ones from getting or transmitting coronavirus?
+No, it's just a reminder that this is a very transmissible virus.
+It always has been.
+It might have gotten a little bit more transmissible and you should be very careful at every point to make sure that people are protected.
+Thanks for watching.
+That was an episode of Vox's first ever daily show.
+It's called Answered it's on a new streaming app called "Quibi" and every day we take on a question about what's happening in the world right now from the history of curfews to cicada season.
+So, if you want to check out more, all you need to do is go to the link in the description or download the Quibi app on your phone and search for "Vox" or "Answered".
+I'll be there everyday.

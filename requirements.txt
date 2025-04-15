@@ -1,0 +1,14 @@
+pytube 
+youtube-transcript-api
+regex
+spacy
+en-core-web-sm
+de-core-news-sm
+fr-core-news-sm
+it-core-news-sm
+es-core-news-sm
+pt-core-news-sm
+PyPDF2
+pytesseract
+pdf2image
+pillow

@@ -1,0 +1,95 @@
+Hello?
+First things first.
+Check your e-mail.
+I got one.
+Fake Dylan at W.H.O.
+This is the WHO’s real domain, right?
+W.H.O. dot I.N.T.
+So Fake Dylan is a internet security researcher that I worked with to send all of our emails a bunch of fake messages.
+And he was able to send these messages from the real W.H.O. domain.
+I'm going to say I'm coming to you from my new job in the World Health Organization.
+I spent all my money moving to Geneva, Switzerland.
+Please, send me some bitcoin to tide me over?
+It might say “this is a joke” in our example here, but the more serious ones would be like, “there's an urgent new coronavirus warning from the W.H.O.” As the number of coronavirus cases increases, so too do Internet scams and hoaxes.
+Real-looking emails supposedly from the World Health Organization and CDC asking for money.
+These agencies do not ask for direct donations by e-mail.
+If you click on a link or download an attachment from those e-mails, you could be giving hackers your personal information.
+So what we're looking at here is domain spoofing and we're seeing it a lot with respect to the coronavirus in particular.
+So this really has been totally unprecedented.
+The teams have never seen anything like this in terms of a single lure, uniting all different types of actors behind a single real pretext for people to do all kinds of things, whether it's actually just steal their password, what we call credential phishing, whether it's install malware.
+So this is just one example sent from what looks like the W.H.O. e-mail address, just like the one that came to you.
+Clearly it's trying to get you to download a specific file that they have sent.
+And researchers at IBM found that that file contains malware that captures screenshots and logs your keystrokes and steals usernames and passwords.
+Huh, “beware of criminals pretending to be W.H.O.” The W.H.O. has actually published guidance on this and they are aware that this is happening.
+But its top advice, its number one advice, is: “Verify the sender by checking their email address.” We know that that’s pretty easy to fake at this point.
+Wow.
+I'm surprised they don't point that out because people might think that if it has a W.H.O.
+dot I.N.T address, that means it's legitimate.
+But really, it's a necessary but not sufficient condition.
+Correct.
+Yeah.
+What I found super interesting was that we tried spoofing a bunch of domains, and only some of them went through to the inbox.
+The CDC and Vox emails didn’t, but WHO and Whitehouse.gov emails did.
+And I should say, it was only the Yahoo emails that we set up.
+The Gmail and Outlook emails both put them in spam.
+So I've been looking into this and it seems like the greater context around this is that when email was created back in the eighties, no one bothered to make any way to verify that the sender is who they say they are.
+Really it is the foundational technologies of the Internet being built with no security in mind and no central database of who is who that gives rise to this problem.
+And since then, there've been lots of attempts to sort of build this sort of verification system.
+The problem is just that the participation is not as high as it should be.
+So of make sense of this, it might help to think about another type of verification problem, which is that society doesn't want teenagers to get into bars to buy alcohol.
+To prevent that from happening, we need two things: We need a way to verify ages, which is our ID system, and we need businesses to then check for IDs.
+Now, imagine if that ID system was voluntary.
+So you have a bunch of adults who might not bother to go get an ID.
+Then when they come to the bar, the business basically has a decision to make.
+Either they require IDs knowing full well that plenty of legitimate adults don't have one.
+Or, to avoid pissing people off, they just let them in and maybe they end up letting in some kids too.
+And probably every bar is going to make a slightly different decision.
+That's kind of where we're at.
+With email authentication right now.
+We have an I.D. system.
+It's called DMARC, but it's voluntary.
+So if an e-mail comes in with my email address, joss@vox.com, the email service, whether that's Yahoo! or Outlook or G-mail, is going to check if that domain, Vox.com, has a DMARC record.
+And we do!
+Thankfully, Vox took the time to set up a DMARC record, which basically does three things:
+First, it says that the email has to come from a certain set of IP addresses that Vox trusts.
+Second, it says that the email has to carry a unique signature that only Vox can create.
+And third, it says that if the email fails either of those two tests, then the email service receiving the email should reject it, should just throw it away so that it never reaches anybody's inbox.
+Because of that, my Vox e-mail address, your Vox e-mail address, we can't be easily impersonated.
+OK, so say an e-mail comes in from a domain that doesn't have a DMARC record or has set their DMARC policy to something other than “reject,” that e-mail is going to have a higher chance of getting through.
+Now, the e-mail providers all have spam filters.
+They have these algorithms that are looking through these emails to check and see if anything's fishy.
+But obviously that didn't stop Dylan's fake e-mail from getting into my Yahoo! inbox.
+I would guess that the W.H.O. does not have a strong DMARC policy set up, if they have one at all.
+OK, there's actually a way that we can double check this.
+Oh, nice.
+It has this nice little green box that comes up.
+But this is the actual DMARC record.
+V equals DMARC1, P equals reject.
+So this is telling us that our policy is, “reject this e-mail.” And this is true, I think, of… yeah, the CDC as well.
+What about the White House?
+Yeah.
+Let me try the White House… Huh.
+OK.
+So the White House has published a DMARC record, but if you look at it, P equals none, meaning that they are not telling email providers to reject e-mails that come from other IP addresses or that generally are not from their approved domain senders.
+The weird thing about that… So this is their guidance on what all federal agencies are supposed to do.
+“All agencies are required to, within one year after issuance of this directive, set a DMARC policy of reject for all second level domains and mail-sending hosts.” Wow.
+So the White House is violating its own policy.
+At the very least, they’re acknowledging that a DMARC policy of reject is the strongest protection.
+And it is very clear that they are not using that protection.
+So now let's try the W.H.O.
+“Not protected against impersonation attacks!” They have not published a DMARC record at all.
+And I can understand.
+Like the W.H.O. has a lot on their hands right now.
+They're basically leading the global effort against this giant pandemic.
+But damn, it really seems like they should have done this.
+Yeah.
+And to be fair, it’s not like the WHO is alone in this.
+There’s a report by ValiMail, that shows that less than 15 percent of domains with DMARC have actually set their policy to reject spoofed emails or send them to spam.
+There's kind of an incentive issue at play, which is that you publish the record to protect other people from being phished.
+And the tradeoff there is that if you don't configure it properly, and it does take some work to set up correctly, you risk some of your e-mails not being delivered.
+I think that the W.H.O. is in a tough spot right now because it is incredibly important in this moment that their e-mails get through.
+And also there's an increase in the risk that it's coming from a fake domain and that, you know, maybe they have some more responsibility than they might have before in terms of protecting people from fake e-mails.
+Hey, do it for us, because we're all, you know, vulnerable out here on the internet looking for information.
+Yeah.
+It is the sort of thing that every good citizen of the internet should do.
+But, you know, like eating your vegetables and working out every day, it's not something that every organization does.

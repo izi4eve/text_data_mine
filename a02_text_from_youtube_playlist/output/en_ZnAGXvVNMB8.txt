@@ -1,0 +1,56 @@
+For most of the history of the automobile … Driving — inevitably — made noise.
+In the internal combustion engine… air intake, fume exhaust, vibration, the combustion of fuel itself — all make noise.
+Carmakers spent decades trying to reduce that noise.
+But could never really eliminate it.
+And then one day … Driving didn’t need to make much sound at all.
+Electric vehicles are quiet ...
+What does an electric motor sound like?
+The problem is, the world we built around the automobile relies on sound.
+For drivers expecting audible feedback… Culturally we know that a car produces sound.
+And for pedestrians and cyclists listening for cars.
+That absence of sound could make it dangerous as well.
+We need our cars to make noise.
+Or at least, we expect them to.
+But that noise could be…. Anything.
+So what should it be?
+Starting in 2019, regulators in the European Union and the US started requiring EVs and hybrids to play sound while they’re in use … From hidden speakers called an Acoustic Vehicle Alerting System — or AVAS.
+There are different standards around the world setting the rules for those sounds.
+And while they don’t dictate exactly what the sounds should be, they each basically work by a common set of rules that sound designers have to follow.
+You can get creative, but not that creative, I guess.
+The first parameter is sound pressure, or volume.
+The AVAS volume has to reach minimum decibel levels.
+This makes sure people can hear the vehicle, without it being too disruptive.
+That volume has to increase as the vehicle goes faster.
+Until — at speeds over 30 kilometers per hour — the noise of tires on pavement and wind against the car body become louder than the AVAS.
+And the AVAS can slowly fade out.
+As vehicle speed changes, there are also regulations for the AVAS to shift in pitch.
+Higher pitch as the vehicle speeds up, and lower pitch as it slows down.
+This makes sure that passersby have an idea of a vehicle’s speed, just by hearing it.
+Finally there are regulations on the sound’s frequencies.
+The AVAS typically has to hit minimum volume levels at both high and low frequencies.
+High frequencies so that the AVAS can cut through low frequency background noise … and low frequencies so it can cut through high frequency background noise.
+This one is really the killer one for us as sound designers.
+But it also becomes very hard then to come up with a design that is actually pleasant.
+That actually sounds nice.
+And that's the challenge:
+To make something within those parameters that isn't too quiet...  but isn't too annoying.
+It's very easy to be alarming, but having a good sound quality and not annoying at the same time — that's very difficult.
+So what AVAS sound designers typically design is a short, perfectly looping sample … That can play faster or slower depending on vehicle speed.
+But a simple linear relationship doesn’t match the dynamic sounds we’re used to hearing in combustion vehicles.
+A simple pitching loop, it's very predictable.
+It sounds very linear, it sounds very uninteresting, it sounds very artificial.
+It's like when you have an LP player for example, and you spin it faster.
+When you pitch it too fast, it sounds weird, it sounds artificial.
+To keep the AVAS from sounding linear, designers will layer on additional samples, filters, and modulations triggered by certain driving conditions — like full-throttle acceleration.
+And those samples can be made of anything … From instruments … Didgeridoo.
+For Cadillac, we have been able to use this ancient Australian instrument.
+To entire orchestras … So this is, quite literally, the score of a driving sound.
+And they can even be inspired by combustion engines.
+There’s a name for that last one — skeuomorphism — where a design resembles its real-world counterpart.
+Like early electric lights that mimicked the candles that came before them… Or early mobile apps that mimicked the look of the objects they replaced.
+As a way to transition into a new era of technology.
+There's this patent from the very early 1900s: Let's put half a horse on the front of the vehicle. Basically, make the car look like a horse, because that's what the people are used to.
+Electric vehicles don’t need to make noise.
+But they do need to bridge the gap from cars that do … … to a future that sounds different.
+And that’s what these designers are working out.
+What should that transition sound like?

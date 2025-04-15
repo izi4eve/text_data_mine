@@ -1,0 +1,81 @@
+Measles is one of the most contagious diseases we know.
+Just one person is likely to infect between 12 and 18 people.
+That number is called a disease's "basic reproduction number," or R-naught.
+Scientists use it to describe how contagious a disease is.
+Zika? It has an R-naught of up to 6.6.
+Super contagious.
+But the seasonal flu? Just a little over one.
+And Covid-19, the disease caused by the coronavirus?
+Just about two.
+That difference, between the flu and Covid-19, doesn't seem so big.
+Especially when you look at them next to these really contagious diseases.
+Plus, a lot of the symptoms of the flu and Covid-19 are really similar:
+A fever, cough, they can even both lead to pneumonia, which is ultimately how they can both be fatal.
+So, thinking of Covid-19 and the flu as similar is a common, and frankly, understandable comparison to want to make.
+"This is like the flu." "It’s a lot like the flu." "I like to believe that it's going to end up more like the flu virus." But wait, let’s go back to those R-naught numbers again.
+If the flu has an R-naught of 1.3, that means each person gets either one or two people sick.
+After ten rounds, that’s 56 total people.
+And if we run the model with Covid-19’s R-naught at two, if one person with it gets two people sick, who get two people sick… After ten rounds, that’s more than two thousand people.
+This does not happen with the flu.
+Because Covid-19 is very different.
+And understanding how is crucial to understanding how dangerous it really is.
+And why we have to take it so seriously.
+When we start to look for that comparison to the flu, we almost calm ourselves down.
+But unfortunately, that’s not quite the right reaction here.
+Every year, the seasonal flu kills as many as 60,000 Americans.
+As of late March, Covid-19 has killed about 34,000 — across the whole world.
+But scientists expect that number to go up.
+Way up.
+Tens of thousands of people a year die of the flu.
+But we haven't had this for a year yet. We’ve only had this for a few months.
+The trouble is coming, and we can predict it, and we can see what's coming, at least to a certain extent.
+The first really big difference between Covid-19 and the flu is how long it takes you to feel sick.
+From the moment you’re infected with Covid-19, it usually takes five days before you start to feel symptoms.
+But it can take as long as 12 or even 14 days.
+This is the incubation period: the time between when you catch it, and when you first realize you’re sick.
+And scientists think you could be contagious during most of this period.
+The flu, by comparison, has an average incubation period of just two days.
+You get sick, and pretty soon you feel sick, and you know you’re contagious.
+This is what we’re used to.
+But Covid-19 flips that around.
+You can be contagious and spreading it around for several days, and up to two weeks, before it even occurs to you that you're sick.
+And that leads to the next big difference.
+No human immune system had seen this virus before.
+Nobody has a natural immunity to it.
+In flu season, there’s always a number of people in the population who are already immune to the flu.
+That can be because they got their flu shot, or maybe because they’ve already had that flu strain.
+And that limits the spread of the virus.
+When one person is contagious with the flu, they can only spread it to people who aren’t immune.
+Who can only spread it to other people who aren’t immune.
+That’s why scientists and doctors urge us to get our flu shot every year:
+If enough people have immunity, they can kind of shield the virus from reaching others.
+The more immunized people, the more they can protect those that are susceptible to the virus.
+But Covid-19 is brand new.
+None of us have had it before, and there’s no vaccine.
+Which means nearly everyone on the planet is susceptible.
+So when a contagious person, who may not even know they’re infected, comes into contact with others, it can spread like wildfire.
+And then you see how much more dangerous Covid-19 can be.
+Only 2% of people with the flu need to be hospitalized.
+But 20 to even 30% of people who test positive for Covid-19 do.
+And we’re still learning about Covid-19’s fatality rate, but scientists think it’s somewhere between 1 and 3%.
+But the flu’s rate is even lower: 0.1%.
+And that’s a disease that can kill 60,000 people a year in the US alone.
+That’s what Dr. Anthony Fauci, the US’s leading infectious disease expert, tried to clear up to Congress.
+"People always say, well, the flu does this, the flu does that.
+The flu has a mortality of 0.1%.
+This has a mortality of ten times that.
+This is a really serious problem that we have to take seriously." And he’s just talking about the average across all age groups.
+For older people, or people with compromised immune systems, it can be way higher.
+And that’s especially scary when you remember all the other things that are different about Covid-19:
+The infectiousness, how hard it is to know that you have it, how susceptible we all are to it.
+Estimates vary, but some scientists have warned that between 20 and 60% of the world’s population could become infected with the virus.
+Because Covid-19 has no cure and no vaccine, the only defense we have against it is social.
+We can take ourselves out of the chain — not with immunity, but with social distancing.
+Just physically not being around anyone, and staying home as much as possible.
+But that only works if each of us takes it seriously.
+Which is why comparing it to the flu, while understandable, is not helpful.
+It's natural to want to find a comparison, to want to make this seem small.
+When we use the flu as the backdrop, it almost numbs us, or it can numb us, and make us maybe even feel better about the current situation.
+Because the current situation is bad.
+So now is not the time to be numb.
+We need to be vigilant, and then use our vigilance for useful actions.

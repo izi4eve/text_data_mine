@@ -1,0 +1,132 @@
+This building contains a truly gigantic laser.
+The National Ignition Facility...
+is about a hundred feet tall...
+as big as three football fields...
+And packed to the brim with tubes and wires that look the bowels of a spaceship.
+It makes sense that one of the Star Trek movies shot a few scenes there.
+"Do you know what this is?!" "It’s a warp core." Actually, it’s NIF’s “target chamber”.
+The laser beam starts over here in this room as a tiny pulse of light about as weak as a regular laser pointer.
+But then it bounces around the building getting amplified over and over until it’s a quadrillion times stronger.
+And then, it’s focused onto a single point.
+So... what do you do with a laser this big?
+Well, right now, scientists are using it to study the secret inner lives of planets.
+It started in second grade, when I was younger my teacher showed me pictures of Jupiter.
+I remember in class vividly that she said that no one knows what's on the inside of the planet.
+I was like oh well, maybe I could be the one that figures that out!
+Now, Tanja Kovecivic is a planetary scientist at UC Berkeley and she and her colleagues are asking broader questions.
+Why are we here?
+How did our solar system form?
+How planets form, how the moon formed and especially now with the search for exoplanets...
+How do we find a habitable planet?
+What does that look like?
+How did earth or anything else go from a molten ball to something that we can all now survive on.
+The features that define Earth:
+its rich atmosphere...
+its vast oceans...
+its magnetic field...
+its solid but shifting crust...
+these features that fostered life as we know it they were shaped by unseen processes hidden deep within the globe.
+If we want to understand the engines that sculpted Earth, or Jupiter or the thousands of recently discovered worlds we need to look under the hood.
+But that’s not easy.
+On the surface of the Earth, we exist under very unique conditions.
+We’re here, in this tiny range of relatively low temperatures and low pressures.
+But if we drill deeper.
+Most of the matter, even within Earth, exists under extreme temperatures and pressures.
+A trip into Jupiter is even more intense.
+At these depths, the laws of physics predict that familiar substances will start to act...
+pretty weird.
+When you're subjecting matter to intense pressure, you're squishing it right?
+So you're actually causing the atoms to re-orient themselves.
+When you heat it up, you're also causing vibration.
+You're just kind of irritating this thing into being a whole new material sometimes.
+For a long time, physicists have theorized that deep within a planet iron can flow like water.
+And those swirling currents generate Earth’s magnetic field.
+Also in theory, sodium can turn completely transparent.
+Water can form a hot black ice that conducts electricity.
+And hydrogen condenses into a metallic liquid.
+To understand the strange chemistry and geology and physics happening inside planets we have to study substances we’d never encounter on the surface.
+And it’s not like we can just go down there in an elevator.
+The closest humans have gotten to the Earth’s core is the Kola Superdeep Borehole in Northwest Russia:
+7.6 miles straight down.
+But that’s less than 0.2% of the way to the center of the Earth.
+A probe we shot into Jupiter, stopped transmitting when it was just 0.1% of the way to that planet’s core.
+Our instruments can’t survive in the very temperatures and pressures we want to study.
+But scientists have come up with a few different ways to get around this problem.
+The first is to create detailed computer models.
+So we have oxygen or little white hydrogens.
+All the little brown ones are going to magnesium.
+You can look at it in 3D.
+Oh it rotates!
+Yeah.
+Tanja programmed this collection of 300 some atoms.
+It’s a tiny microcosm of a barrier between rock and ice inside a planet.
+Her model simulates how each atom and every last one of its electrons will act and interact.
+It’s a simulation of just a few billionths of a second.
+But it takes one of the most powerful supercomputers in the world a bit longer than that to complete.
+138 hours.
+OK gotcha.
+Little by little, painstaking simulations like these are starting to paint a picture of what’s happening inside planets.
+And they’re helping guide experiments in the real world.
+We don't have that much time and facilities that we can sort of go out and sample all kinds of worlds material that all the conditions.
+And so they say hey, maybe you should look in this direction.
+There could be something interesting there.
+So we have all these questions.
+We have all these theories.
+But we want to confirm that with “real world experiments”.
+Yeah.
+What does that look like?
+That looks like a few different things:
+the first one of those would be a diamond anvil cell.
+You take very high purity diamonds.
+You think of the diamond in the diamond wedding band.
+You basically compress a sample within just the between the two.
+This setup can create some of the temperatures and pressures seen inside earth.
+And if you want to go further, you can use...
+The gas gun method.
+With a gas gun you're launching basically a plate of metal into the sample that you care about.
+Temperature and pressure spike on impact.
+That’s pretty good.
+But sometimes, you want to peer even deeper into a giant planet.
+The third, and kind of most extreme of those would be laser compression.
+And for that, you need a truly gigantic laser.
+NIF wasn’t built to explore other worlds — not at all - it was built to save our own.
+In the 1970s, scientists were trying to harness nuclear fusion:
+the reaction that powers our sun.
+It would be cheap, it would be clean, it would be...
+the ultimate energy.
+The dream was (and still is) to hit a tiny fuel pellet with powerful lasers and create a miniature star here on earth "We need to build a laser 1000 times more powerful than any laser presently available." Scientists have spent decades designing and building larger and larger lasers.
+Lawrence Livermore National Laboratory built NIF.
+And the University of Rochester built their giant OMEGA laser system.
+These facilities are still plugging away at understanding nuclear fusion but they've also become important tools for astrophysicists and material scientists.
+Researchers at the Center for Matters at Atomic Pressures use OMEGA and NIF to recreate the interiors of planets and stars and create revolutionary states of matter.
+Instead of loading up a target chamber with pellets of fusion fuel they put in a sample, like a tiny speck of iron.
+We have to place it inside of this little apparatus which you can actually hold in the palm of your hand.
+It looks like this.
+And it happens to be the same semicircular shape as UC Berkeley’s Greek Theater.
+Which is where I interviewed Mercedes.
+So if we imagine that we're standing inside of the apparatus we could imagine this would be the sample not much thicker than a hair.
+—Teeny-tiny.
+—Yeah.
+So our sample is mounted right on the front of that little hole in the center there.
+Which, in the Greek Theater, would be at the doors at the back of the stage.
+Then we would actually have another layer of material right behind it.
+We call that layer the ablator.
+Our laser is going to come in from this direction...
+they're going to hit the back surface of this ablator.
+That's going to cause a kind of a mini localized explosion...
+Which drives the compression waves towards our sample.
+The temperature and pressure within the sample skyrockets.
+You'd have to have a comet colliding at 20-30,000 miles an hour to start reaching the conditions that NIF can do on a daily basis.
+The experiment only lasts about 30 billionths of a second but that’s long enough to take an X-ray snapshot.
+The x-rays bounce off the sample...
+and leave patterns on the walls of the device that scientists can later decode.
+The x-rays are telling us what's going on inside the sample, you know, is it melting?
+Does it stay solid?
+Is it changing the arrangement of the atoms itself?
+Using NIF, Rick saw that iron will be a liquid under pressures found in giant rocky planets much bigger than Earth – and so planets like that could also have magnetic fields.
+Other high pressure experiments have shown that sodium does become clear.
+And water can form hot, black ice.
+And hydrogen does turn metallic.
+Scientists think there’s an immense ocean of this form of hydrogen beneath Jupiter’s clouds and its currents generate Jupiter’s magnetic field.
+All these phases of matter that we had predicted, potentially existed now we're able to theoretically prove through models and through experimentation that they do exist.
+By peering at a handful of atoms a little crumb of matter - for just a tiny fraction of a second scientists are unraveling the billion year histories of massive planets millions of miles away.

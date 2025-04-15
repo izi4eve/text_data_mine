@@ -1,0 +1,55 @@
+Okay Joss, I want to start with an experiment where we swap TikTok login information to see just how different our feeds actually are.
+I don't know what it's going to reveal about me.
+I do wonder how different it's going to be.
+Nurse turns into a hot lady.
+OK so I just got literally the male version of that on yours. Look.
+Oh my god.
+Male nurse. Female nurse.
+Joss there are so many animals on yours.
+List of underrated horror movies.
+I would never get that.
+I've never seen this pushup challenge.
+Yeah, I think TikTok recognized that I would prefer a funny version of this.
+It recognized that I share a sense of humor with this person in Indonesia.
+TikTok's frictionless personalization is what made the app an instant success around the world.
+But now that global success is crashing into international politics, putting TikTok in the middle of a worldwide battle over how open the internet should be.
+"President Trump threatening to ban TikTok in the United States as Microsoft is hoping to acquire it." WEI: I think Chinese tech companies traditionally have really struggled to get a cultural foothold in the U.S. because the culture is just so different.
+That's Eugene Wei, a Tech Product Executive who has written about how Tiktok, which is owned by a company called ByteDance, became the first globally-successful Chinese app.
+How they did it all comes down to design.
+When you first open up TikTok, you don't have to follow anyone, or tell the app about your interests, or even choose what to watch.
+It shows you a video, and the only decision you have to make is how long you watch it.
+WEI: So if you look at the history of social media, most of the giants in social networking today started by having people essentially build up a social graph from the bottoms up.
+A social graph is the web of accounts you follow and it determines most of the content you see on Facebook, Twitter, Instagram, and Snapchat.
+The problem with that approach is that it can feel like work: building up a social network takes time, you're not necessarily going to like every post from the accounts you follow, and it's hard to find accounts that you would like but don't know about.
+TikTok took a different approach. It bypasses the social graph, and instead builds an "interest graph," by watching you interact with videos.
+TikTok isn't the first platform to do that-- it's basically how YouTube works too -- but because TikTok videos are less than 60 seconds long, you watch more of them, which means more data.
+WEI: People talk about the TikTok algorithm as if it's some magic piece of software that is just miraculously better than every piece of software out there. But the truth is that it's not necessarily that the algorithms themselves have gotten that much better. But if you massively, massively increase the training data set that you train the algorithm on, you can achieve really amazing results. And that's why I think a lot of people will describe the algorithm as eerily accurate. Eerily personalized.
+TikTok's interest graph introduces you to like-minded people. And because the videos are often music or meme-based rather than language-based, you may find that some of those like-minded people live on the other side of the world.
+They might be a dancer in Nepal, a family in Mexico, or kids in the U.K, or this guy, as long as the algorithm predicts that it'll entertain you.
+WEI: And so in that way, the TikTok algorithm kind of allows ByteDance to gain traction in markets all over the world, with languages that they don't understand, subcultures they don't understand.
+TikTok's global appeal enabled it to reach a billion users faster than the other social media giants had. But it also set the app on a collision course with a different trend:
+the rise of internet nationalism.
+"India is banning TikTok and dozens of other Chinese apps." "Australia has cited concerns about national security. So too has South Korea." "President Trump issued executive orders that would ban TikTok and messaging app WeChat from operating in the US in 45 days." Bytedance is based in China, which means it's subject to surveillance by a regime known for censorship, human rights abuses, and cyber espionage.
+But TikTok says they have never provided any US user data to the Chinese government.
+For his part, President Trump has hinted that this is actually about getting revenge for the coronavirus.
+VAN SUSTEREN: Why would you ban it?
+TRUMP: Well, it's a big business. China -- look what happened with China with this virus, what they've done to this country and to the entire world is disgraceful.
+But whatever the motivation, the US targeting a globally popular app is a big deal -- because it throws a wrench into one of the biggest debates over what the internet should be.
+A New America Foundation report plots that debate along a spectrum-- of how open the internet is within a country.
+SHERMAN: So on the one pole, we can visualize the free and open model, so that's the democratic model, very little state involvement in Internet content.
+As the original home of the internet and many of the world's biggest tech companies, the US has traditionally advocated for the free flow of information online.
+SHERMAN: The opposite end of the spectrum is what we see in countries like China, where there is heavy state involvement in content, where they do go to Internet companies and say, you have to censor all of these keywords, you have to censor all these foreign websites.
+China's Great Firewall famously blocks sites like Google, YouTube, Facebook, Twitter, Wikipedia, Netflix, WhatsApp, and many western news outlets.
+But it's not just China anymore.
+SHERMAN: What we see in the middle are countries who I think are going to play a pivotal role going forward in this global scale tipping we see.
+According to analysts surveyed for this report, many of these countries shifted toward less openness between 2014 and 2018.
+In 2019 Russia moved to build an internet that is isolated from the rest of the world, following years of increasing government censorship.
+Turkey has been blocking some news websites and recently passed a law giving the government sweeping powers over social media.
+And India, the world's largest democracy, leads the world in deliberate Internet shutdowns.
+"Turning off the internet is becoming a defining tool of government repression." "Internet access shut down" "Imposed an internet blackout" "Ethiopia" "Liberia" "Venezuela" "Pakistan" "taken offline." As governments decide that a world wide web doesn't suit their interests, we end up with a fractured internet, what some call "the splinternet" where national borders increasingly dictate what information people can access online.
+Now it's up to democratic countries to reimagine an open internet worth fighting for. Instead, the US is threatening to ban a platform used by millions of Americans.
+SHERMAN: The US benefits from having technological leadership, it benefits from promoting a democratic Internet model and contesting authoritarianism.
+And so abdicating leadership on that front is not good in the own interests of the US either.
+TikTok created a uniquely international platform.
+But it emerged onto an internet that wasn't quite ready for it. It arrived in the midst of rising nationalism, from a country that has never respected internet freedom.
+So now it's forcing the issue: When authoritarian states assert control over online speech, should the US respond by doing the same thing?

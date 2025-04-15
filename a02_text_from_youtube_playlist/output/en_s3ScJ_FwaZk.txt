@@ -1,0 +1,75 @@
+The state of Vermont has one of the greenest grids in the US.
+Two thirds of their electricity comes from renewable energy sources, like solar, wind, or hydroelectric plants.
+The current goal is to be at 75% by 2032.
+Which is why it was pretty surprising when a new solar project here was denied.
+This area doesn’t have a lot of people, but it does have plenty of potential for renewable energy.
+The power plants here, in addition to a regular power supply from Canada, already put about 450 megawatts of electricity onto the grid — and by grid, I mean these power lines — but the grid’s capacity is around… 450 megawatts.
+So the grid just wouldn’t be able to handle any more power generated here.
+If we want a greener future in the US, we’ll need to build more renewable energy plants.
+But to actually use that electricity, we’ll also need to build more of these.
+This is a map of where everyone in the continental US lives;
+the density of each county.
+Here’s New York City, LA, Chicago… And here’s where every big power plant is currently.
+Appropriately, they tend to be where the people are.
+In Washington, DC, where I live, we get nearly all our electricity from surrounding states’ power plants— mostly nuclear and natural gas.
+Electricity goes from the power plant, through big high-voltage transmission lines, to a substation, where the electricity is dispersed onto smaller, lower-powered distribution lines, that send it into my house.
+Like Vermont, DC also plans to be greener.
+The goal is to have 100% renewable sources making our electricity by 2032.
+It’s part of a national goal, too.
+President Biden wants to reduce emissions in the US 50% by 2030, with nearly half of US power coming from solar plants by 2050.
+That means switching out those natural gas plants for wind turbines.
+Coal plants, for solar farms.
+Lowering emissions also means switching from gas cars to electric cars.
+Heating our buildings not with natural gas, but with electric heat pumps.
+Cooking on electric stoves.
+Basically, we’re going to be using a lot more electricity:
+Anywhere from 40-100% more than we currently use.
+So, back to the map.
+If we’re going to replace all these polluting energy plants, we can’t just build a wind turbine in their place.
+They need to be where it's, you know, windy.
+This is a model, created by Princeton, mapping out possible places in the continental US where wind and solar projects could, in theory, be built.
+Aside from some offshore wind farms, it's mostly in the middle of the US.
+Another study found that these states have most of the wind and solar potential, yet the people living there would only make up 30% of the electricity demand.
+In a decarbonized future, we’re going to need to get electricity from here to here.
+And, we’re going to move a lot of it.
+That’s where high-voltage transmission lines come in.
+ROB GRAMLICH: I think the infrastructure is the most important thing.
+It doesn't get a lot of attention but it really is the key.
+This is where the US currently has high-voltage transmission lines.
+The Princeton model shows this is where new lines will need to be built if the US uses all renewable energy by 2050.
+But it’s not a simple process.
+Every wire in your house has plastic over it, because if two electrical lines get too close… But high-voltage power lines are the bare active wire. No plastic.
+They’re insulated by the air.
+Basically, if they’re kept far enough apart from each other, it’s safe.
+But they also have to be kept far away from… everything.
+Trees included.
+This is actually how some of the California wildfires were started:
+Trees coming in contact with the super-big high-voltage transmission lines.
+And those are what we’ll need more of, as we lengthen the distance from energy source to energy need.
+We’ll also need to make many current ones even bigger.
+Because bigger means more power.
+Physically, the cables are thicker — the bigger the cable, the more power can run through them.
+And because they’re bigger, they have to be really far apart for insulation, and built higher up.
+It makes them kind of a pain to build -- partly because of how large they are, but also how much private land they have to cross.
+GRAMLICH: Very often, the developer can get 99% of the landowners to agree, but then there's that last 1%, and that can take forever, and can crater the whole thing.
+So experts say we should start building now, even before we build the plants.
+GRAMLICH: You can do a generation project in a year.
+The transmission, three, if you're lucky, but it can go over ten.
+We don't want to do this in a reactive mode, where we build a lot of stranded generation.
+We want to proactively build the transmission to where we know the resources are.
+And the thing about wind and solar resources is, we know where they are.
+A greener grid in the US means thinking nationally:
+Building more transmission lines, so when it’s sunny in Arizona, it can power Chicago.
+And at night, Illinois wind can power Phoenix.
+To do that efficiently, the US will need a new, interconnected, high-voltage grid.
+Princeton found it would take nearly $320 billion in investments in the next 10 years.
+Almost as much as investments in solar and wind plants themselves.
+Congress is working on an infrastructure bill that contains some funding, but really only a fraction of what’s needed.
+GRAMLICH: I'm optimistic about our ability to do it, because we have done it before.
+I am nervous about the execution, between legislation, regulation, and industry follow-through.
+The US is currently on track to have 42% of our energy come from renewables by 2050.
+If current proposals turn into real policy, we could be closer to 80%.
+But just making greener electricity isn’t enough.
+We have to be able to move it.
+GRAMLICH: Transmission is important for the clean energy future.
+We're just not going to decarbonize without it.

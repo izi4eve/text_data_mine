@@ -1,0 +1,160 @@
+You're called to create a post-apocalyptic giraffe astronaut.
+Generated.
+Genghis Khan playing a guitar solo, pixel art.
+Generated.
+A man holding a delicious apple...
+What's with his hands?
+Why can't AI art make hands?
+It doesn't matter what AI art model you use.
+If you have a man holding a delicious apple his hands will look weird holding it.
+Why is this so hard?
+Seems easy enough, right?
+We've got this weird situation where AI art instantly make...
+Abraham Lincoln dressed like glam David Bowie.
+But struggles with a woman holding a cell phone.
+This isn't just a weird glitch.
+The struggle of AI art with hands can actually teach you something bigger...
+about how AI art works.
+I mean, what is so hard about this?
+I asked an artist who has taught thousands of people...
+how to draw hands from imagination.
+Before someone becomes or starts training to be an artist.
+Like officially training.
+It's pattern recognition.
+You just grow up seeing a whole bunch of hands...
+and you start knowing what hands look like.
+You learn how things look by living in the world and recognizing patterns.
+An AI is similar but has key differences.
+Imagine an AI is like you...
+but trapped in a museum from birth.
+All the machine has to learn from are the pictures...
+and the little placards on the side.
+Apple: A red apple on a brown table.
+That's like the images it sees from the web and the descriptions that go with them.
+It's similar to how you learn, but locked in that museum.
+If you want to understand an apple you can rotate it in your hand.
+You can watch it whenever you want.
+If AI wants to understand an apple it has to find another picture of an apple in the museum.
+Pattern recognition has allowed AI and people to draw decent apples...
+but the processes differ.
+You start training to become an artist, and now you're like okay, now I have to learn the rules.
+And that's where it becomes very different from how AI is learning.
+Artists, in order to draw something complicated we tend to simplify things into basic forms.
+And so when you look at a hand...
+you pretty much have the big blocky part of the palm, right?
+You have the front, you have the back and then you have the thickness.
+So you can pretty much just make that into like a square with some thickness to it.
+Then an artist can add all the style and texture and detail they want.
+AI works differently.
+Look at this hand.
+The shapes are bizarre, but the AI has done a great job showing the light and texture here.
+Remember, the AI knows how things look but not how they work.
+So these patterns in pixels are easy to understand.
+It never learned, however that fingers don't really bend like this.
+It doesn't simplify the forms.
+Remember, it's trapped in the museum so it is just trying to guess where hand-like pixels should be.
+Without knowing how hands work like we do.
+But listen, I find this kind of dissatisfying.
+I mean, I'm basically just saying that AI can't draw hands because it's not a person.
+But AI also doesn't know anything about construction and it can still make a beautiful skyscraper in New York City.
+So to understand this better I spoke to two people who have worked with generative art models.
+Yilun Du is a grad student whose heart is in robotics.
+But, you know, AI art is like a big deal now.
+So, he got pulled into it.
+Because of how popular these models have been in generative art....
+I've also been working on that.
+And I talked to Roy Shilkrot who has a super varied resume but has been teaching about generative art since 2018.
+Good students that come in....
+that are trying to break those models take them to the next level.
+Talking to them helped me figure out three big reasons.
+Not every reason, but three big reasons that hands are tough for AI art models.
+The data size and quality the way hands act and the low margin for error.
+For the data size, let's go back to the museum idea.
+The museum the robot hangs out in it has a ton of rooms dedicated to faces...
+but not so many rooms for hands.
+That means it has less to learn from.
+Just as an example, available datasets like Flickr HQ has 70,000 faces.
+70,000.
+And this popular one annotates 200,000 pics of celebrity faces...
+for lots of details like eyeglasses or pointy noses.
+There are a ton of great hand datasets that can really understand hands like this one with 11,000 hands.
+But these may not have been used to train the AI that makes art.
+That data scarcity combines with the quality and complexity of the data.
+Hands data in the art museum isn't yet annotated to show how they work.
+Like the celebrities pointy noses.
+What they say is...
+there is an image and there is a person in the image and that person is holding an umbrella.
+You don't give the machine a lot of clues saying this is a person holding t he umbrella.
+The thumb is going from one side of the handle and the fingers are curled...
+and then thumb is covering the index finger but not the other one.
+All that is made worse because hands do lots of things compared to, say... faces.
+So there's a pretty common like portrait photo face.
+There are a lot of these photos online and the thing is everything is very well centered, right?
+Like eyes are always around here.
+Like there's always this order.
+That's not true of hands which can do this and this and this.
+I swear I'm sober right now.
+Stan mentioned this, too.
+How many fingers do you see right now?
+Like two or three.
+Like it doesn't know there's five.
+Because sometimes there's two sometimes there's three sometimes four, sometimes five.
+You can see these problems with AI hands but the jankiness is all over AI art.
+Just look at horses.
+You can also have like three legs, five legs, six legs.
+The model does not learn to explain this because there's too much diversity and it doesn't have as much bias as we do.
+Okay. Did you hear that last part he said?
+Good, because it's really important.
+It doesn't have as much bias as we do.
+We care a lot about hands and need them to be perfect.
+There is a low margin for error.
+But because the model doesn't understand hands hasn't seen many and because hands act weird...
+it makes pictures that are like hands it’s seen in the museum but not an exact hand.
+That's good enough for a ton of stuff, but not hands.
+Here, let me give you some examples.
+Come over here.
+So I typed “make me a person with exactly five freckles”.
+So this one's from Dall-E 2.
+This one is from Stable Diffusion and this one is from Midjourney.
+So it's like, you know, great job.
+You've got a red haired person.
+They're more likely to have freckles.
+But there are not exactly five freckles here.
+Here that doesn't really matter because we see a freckly face.
+But hands require higher standards.
+Look at our apple-holding man again.
+I made 3 other variations.
+The hands are all weird, but don't look at them right now.
+It changed the shirt stripes, the buttons, the apple style...
+None of that matters because it's stripe-like button-like and apple-like.
+But hand-like isn't good enough.
+I came away from this thinking a couple of things.
+AI art is basically bad at art.
+We're just able to see it with hands...
+and B, it's never going to get any better.
+But both of those things are a bit wrong.
+I will say that the newest AI art generator to come out at the time of this video is Midjourney version 5 and they made some progress with hands for sure...
+but it's not totally fixed yet.
+Don't tell the AI to hold an umbrella.
+I think they're spending lots of time on some things that you appreciate, which is why you like the images and a lot of stuff that you don't actually even notice.
+I think that for a lot of natural scenery or something like that I feel like model might be better at that than people.
+And they are working on two things.
+First, they have the AI look at a ton more pictures which requires more computing power.
+They're trying to solve that on a big scale because if you want to train on more than a handful of images...
+if you want to train more than 100 images this would take tremendous resources from you to retrain the model itself.
+The other solution might be to invite more people...
+into the museum.
+There's an interesting analog.
+So like, have you heard of like ChatGPT?
+The big difference was that it basically used human feedback.
+So like they generated many, many sentences and asked people to rate which ones are good and which ones are not good.
+They basically fine tune the model so that it would generate sentences that are convincing to people.
+I guess it would require a lot of engineering to get people to label so much data.
+But I think if we could just get like people to rank...
+how good the images are generated by these models then like a lot of these issues will go away, actually.
+Because they're just training the models to do what people like.
+It's not just the hand...
+teeth and abs.
+Anything where there's like a pattern...
+a large amount of something.
+It doesn't know the rule of “there are this many” because it's trained on different amounts.

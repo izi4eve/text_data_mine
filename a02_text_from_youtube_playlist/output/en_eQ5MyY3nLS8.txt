@@ -1,0 +1,71 @@
+Something is happening in Texas.
+Since 2021, there have been 31 separate lawsuits, in federal district courthouses all over the state, in which Texas has sued the federal government.
+Let's look at just one, in Amarillo, about immigration.
+The judge in this case - there was no jury - ruled that the Biden administration had to continue a Trump policy called "Remain in Mexico" that keeps asylum seekers out of the country.
+The Biden administration eventually got that decision reversed, but it took almost a whole year.
+And as they waited for the Supreme Court to do that, they also had to obey the decision and keep asylum seekers out of the country.
+All because of this one judge's ruling.
+And in fact, the Texas Attorney General's office, which filed the case, had sought this judge out specifically.
+And over the next two years, they would bring him cases against the federal government again, and again, and again.
+And he's not alone.
+Texas has gone back to this judge again and again too.
+You're not supposed to be able to pick which judge hears your case.
+But in Texas, you can.
+It's called "judge shopping." It's only possible in a place like Texas.
+And it's helped make Texas into a powerful weapon for changing how things work everywhere in the country.
+Each state in the US has at least one federal district court.
+Texas has four.
+They're the bottom level of the federal court system.
+Federal courts mostly hear cases involving national laws. And federal judges are appointed by the president.
+There are over 600 district judges across all of these courts.
+So several judges in each court.
+And usually the judge who hears your case is chosen randomly.
+STEVE VLADECK: Randomness is a critical principle because the idea is that the judicial system is supposed to be, on the whole, a neutral arbiter of legal disputes.
+But the US is big.
+There are a lot of big states.
+And even when a state has multiple federal court districts, some of those districts are still really big.
+Like this one, the Northern District of Texas.
+If you're in Lubbock, and your case gets randomly assigned to a judge in Dallas, that's a five-hour drive to get to court.
+So partly to solve for that, many districts are further subdivided into multiple divisions, and each usually has its own courthouse.
+But different districts have different rules for which case goes to which division.
+For example, over in the Central District of California, there are three divisions, with clear rules meant to make sure that cases stay local.
+But in the Northern District of Texas, those rules aren't so strict.
+It's much easier to file a case in whatever division you choose.
+Same with the other Texas districts.
+Here's where that becomes a problem.
+The Southern District of Texas has 28 judges for seven divisions.
+But for most of the last two years, two of those divisions have had just one active judge each.
+Here in the Victoria Division, that's been judge Drew Tipton.
+And in the Galveston Division, it's Judge Jeffrey Brown.
+And this happens all over the state.
+In the Northern District, this judge, Matthew Kacsmaryk, is the only judge in the Amarillo division.
+And Judge Reed O'Connor is the only one for the Wichita Falls Division.
+And that means that if you choose to file your lawsuit in one of those places, you know who the judge will be.
+So you get a situation where, over two years, the Texas attorney general files eight separate lawsuits against the Biden administration in Victoria, because they knew Judge Tipton would hear them.
+Cases about the border wall, the minimum wage, gun laws...
+VLADECK: Judge Tipton had sided with the state of Texas, had embraced a pretty broad view of why Texas could sue in the first place, and had issued nationwide injunctions barring the Biden administration from carrying out its policies.
+So, yeah, I mean, I don't think there was much of a mystery about why they would choose Judge Tipton.
+The second thing that makes Texas unique is where it sits in this chart.
+If the losing side of a district judge's decision appeals, it goes up to one of the 12 Appeals Courts, also called the circuit courts.
+A decision appealed from there goes up to the Supreme Court.
+And all Texas district courts report up to the Fifth Circuit Court, which, with a big majority of judges appointed by Republican presidents, is the most notoriously conservative of all the circuit courts, and broadly speaking, very likely to agree with even the most conservative rulings.
+We saw this when a private group filed a lawsuit in Amarillo seeking to ban abortion pills that had been legal for 20 years.
+In April 2023, Judge Kacsmaryk sided with the private group, saying the US Food and Drug Administration had to roll back its approval of mifepristone for the whole country.
+The Fifth Circuit Court largely agreed, and the case made it to the Supreme Court -- which then, actually paused that decision.
+VLADECK: But, you know, at multiple points we were hours away from this really shockingly broad and remarkable ruling, that would have dramatically restricted access to mifepristone on a nationwide basis, going into effect.
+And so, you know, I think the notion that like, hey, we walked up to the cliff but didn't fall in, doesn't mean everything's okay.
+But while the Supreme Court moved quickly to pause the mifepristone decision, often it actually just sits on cases for months before it hears them, effectively allowing the lower court judge's decision to dictate federal law during that time.
+Like in 2022, when Judge Tipton ruled that Biden couldn't reprioritize which undocumented immigrants to deport first.
+Almost a year later, we're still waiting for the Supreme Court to rule on that.
+And Tipton's ruling is still in effect.
+VLADECK: Any good lawyer is going to try to maximize the chances that their client's going to win.
+What's different about what's been happening lately is actually trying to stack the deck so that you're guaranteed of a specific outcome.
+Judge shopping the way we see it today is a relatively new phenomenon.
+So - how do we fix it?
+Well, the district courts themselves could decide to do things differently.
+In February, the Southern District of Texas changed Victoria's single-judge status.
+It now has two active judges.
+And since these are federal courts, Congress could also pass a law regulating the way cases are distributed.
+There's a bill in Congress right now that would redirect any lawsuit that wants to block a federal policy to the courts in Washington, DC.
+Or the Supreme Court could write new rules for the lower courts.
+But until then, anyone who wants a good shot at getting a case before the Supreme Court knows that in Texas district courts, you can pick your judge.

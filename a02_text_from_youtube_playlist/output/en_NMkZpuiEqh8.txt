@@ -1,0 +1,41 @@
+Both of these images are groundbreaking.
+And connected.
+On the left, you’ve got the world through Yul Brynner’s eyes in Westworld, the 1973 movie where he plays a robot cowboy.
+This is not a spoiler.
+I mean, he’s a robot on the poster, and if you’ve seen the HBO series, you know that everything is a robot.
+It’s this pixelated robot’s-eye-view that gave birth to CGI: computer generated imagery.
+But the technique and idea did not come from Hollywood.
+It came from a bit further away.
+This is a picture of Mars.
+The CGI was groundbreaking, so now we’re gonna see if we can get our computer graphics team to replicate it.
+Oh yeah.
+I’m done.
+It takes, like, two clicks.
+But in the early 1970s, computers this powerful were non-existent, and digital images were rare.
+These title swirls in 1958’s Vertigo were sort of computer generated imagery — the designer repurposed an M5 anti-aircraft gun’s mechanical computer — to help draw these intricate patterns.
+Other experiments were digital, but they were basically art films.
+After all, non-CGI effects could generate stunning results.
+Still, Westworld creator Michael Crichton wanted to create a robot’s point of view.
+Hollywood hadn’t done it yet.
+But NASA had.
+“Liftoff.” When NASA’s Jet Propulsion Laboratory launched Mariner 4, it was the first flyby of Mars, and it transmitted back the first up-close photographs of the planet.
+The method it used to get those images to Earth was important for two reasons: it shaped what a “digital picture” was should look like — and it gave technical guidance for the Westworld CGI.
+The pictures were sent back as numbers.
+“240,000 bits of binary code, representing the shading of 40,000 dots that will finally make up the first picture.” “A complex system of computers is required to convert these numbers into pictures.
+Some workers decide to handmake their own picture of Mars by shading the numbers.” Yes, our first up close picture of Mars — it was a paint by numbers.
+Ultimately, the computer generated images ended up looking like these.
+In the 1973 cover story of American Cinematographer, Westworld designer John Whitney Jr. wrote that “the scanning digitizing methods employed by Jet Propulsion Laboratory on their Mariner Mars flybys could be used here.” But using the rare computer at the lab would have cost 100 grand.
+They found a private company to basically copy the Jet Propulsion Lab’s methods to “scan production footage, frame by frame, and convert it to numerical information,” which would then be played back on a special machine and re-recorded.
+To make the perfect robot vision, the designers used data that created an image with 3,600 squares.
+And they had to get creative to make sure the CGI action came through clearly.
+Actors wore clothing to contrast with the background - here’s one wearing white clothing and makeup.
+They also increased the contrast in post-production.
+And though it took a full minute to scan each frame — or about eight hours for a ten-second sequence — the CGI worked.
+Hollywood couldn’t have — sorry, can you just...
+Hollywood couldn’t have come up with this idea alone.
+It took the R&D from the $550 million Mariner program to inspire something as fanciful as CGI, especially when practical effects could have gotten the job done.
+But it was the future.
+Whitney finished that article for American Cinematographer by saying, “My work on Westworld suggested many more possibilities than we were able to explore, and there are certainly many others yet to be imagined.” OK, so this edition of Almanac’s all about big changes to the movies that came from outside of Hollywood, so if you know of any sciencey type innovations like what you just saw that changed movies, let me know in the comments.
+There’s a lot out there.
+However, I cannot end this video without letting you know about Futureworld.
+It is the sort of forgotten sequel to Westworld, but the CGI is actually still influential, and that’s because it’s likely the source of the first 3D CGI face.

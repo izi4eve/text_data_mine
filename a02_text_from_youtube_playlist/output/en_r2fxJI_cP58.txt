@@ -1,0 +1,72 @@
+This is a chart of Covid-19 cases in the UK.
+In April, the UK’s rate of new cases climbed so high that it was second only to the US.
+Around that time, researchers at Oxford University who were developing a Covid-19 vaccine had started planning to do a large-scale test of the vaccine in the UK.
+But by July, new Covid-19 cases in the country had fallen.
+It was good news -- but it also meant the UK was no longer a good place to test a vaccine.
+And that’s because of a crucial part of the process of testing any new vaccine:
+What’s called the Phase III human trials.
+Before we can end the coronavirus pandemic, a vaccine developer will have to give tens of thousands of participants either the vaccine or a placebo.
+And then... we wait, for months, or possibly years, to see how many of each group eventually gets Covid-19, while the participants go about their lives; which, right now, probably means they are living under Covid-19 restrictions, like wearing masks and staying at home.
+But until enough of those participants get sick, there won’t be enough data on whether the vaccine is working.
+And in the meantime, thousands of people are dying of covid-19 every day.
+That’s why, some people are starting to advocate a different, more controversial model:
+Instead of waiting for the coronavirus to eventually infect some of these people....
+What if we gave a group of willing volunteers the virus on purpose?
+“I’m a young guy, I'm 23 years old, I’m relatively healthy.” “I have no pre-existing health conditions.
+I have no children, no dependents.” “It’s really important that we do everything we can to speed up research and development.” It’s 2016, and this man is about to drink a test tube of the bacteria that causes typhoid.
+He’s one of about 100 participants who deliberately infected themselves with it to test a new vaccine in the UK.
+“In March 2016 I downed a shot of typhoid.” Daina was another participant.
+She was a PhD student, who needed the money, but she also liked the idea of it.
+“It was like, you know, I'm helping to make this disease less deadly.” This kind of study is called a human challenge trial.
+And in the case of the typhoid vaccine, researchers told the New York Times that doing the challenge trial saved them three or four years.
+To put that in context, it helps to look at the bigger picture of how a vaccine normally gets developed.
+The first step in the process is to test a vaccine in a lab on either human cells, or on animals, just to see if it causes any harm.
+This is called the preclinical phase.
+If it passes that test, it enters human trials.
+This is the longest and most important part.
+If it passes human trials, the vaccine gets licensed by regulators, and can be manufactured and distributed to the public.
+Human trials typically have 3 phases, each one testing a larger and larger group of people.
+Phase 1 involves a very small group of people, maybe 50, and mainly tests if the vaccine is safe.
+Phase 2 usually involves a few hundred participants.
+This is where we start learning if the vaccine actually works.
+And then there’s the final test: the Phase 3 trial.
+It’s expensive, it takes time, it requires tens of thousands of volunteers, and it involves as broad a cross-section of participants as possible.
+The entire process of developing a vaccine usually takes around ten years.
+But many Covid-19 vaccine developers are racing to compress this entire process into about a year and a half.
+One way they’re doing this is to overlap the different phases, conducting several different trials at once.
+Or, to ramp up the manufacturing of a vaccine while it’s still being tested, so that if it works, it can be distributed right away.
+As of the making of this video, there were 166 Covid-19 vaccines in various stages of development.
+24 vaccine candidates are already in the human trial phase.
+And 5 of them are already in Phase III.
+For these leading candidates, a human challenge trial could save weeks, or months, by augmenting a Phase III trial that isn't getting data fast enough.
+And for any of these candidates in pre-clinical phases, a challenge study, followed by a larger-scale safety study for the vaccine, could replace a Phase III trial altogether.
+A challenge trial that successfully shrinks down this timeline could save thousands of lives.
+And so far, a grassroots movement has recruited more than 30,000 volunteers, from over 100 countries, who said they would participate in a challenge trial for covid-19 if it happens.
+“My moral values say that I kind of have an obligation to do what I can to help.” “I see it as very similar to other acts of public service, like trying to fight climate change, and disastrous events that are forthcoming that are the consequences of a lack of care.” “It’s affecting, literally, pretty much every person globally.
+I feel like I need to do something to help.” Here’s the problem.
+Human challenge studies have been used before for cholera, typhoid, malaria, influenza and the common cold.
+But there’s a big, important difference that sets covid-19 apart.
+“For each of those conditions, we do have effective treatments so that we know, to my knowledge, no one has ever actually ever died in those studies.” Peter Smith is one of the world’s leading epidemiologists, and he was one of the first to advocate for the possibility of human challenge trials, in March of this year.
+He says, because there’s no covid-19 treatment, it limits who could participate in a challenge study.
+“The challenge trial would necessarily be done in people who were at very low risk of serious disease." In other words, unlike in a typical Phase III trial, where you’d recruit the widest range of people possible, a Covid-19 challenge trial would produce data on a much narrower group of young, healthy people.
+And we don’t know if a vaccine that works for that group would work for everyone.
+But the immediate goal is not to get a single Covid-19 vaccine that offers perfect protection.
+In the US, to be deemed sufficiently effective, a vaccine just has to work 50% better than not being vaccinated.
+An imperfect vaccine could still slow the spread of the virus.
+The bigger issue with a covid-19 challenge study is that there’s no way to guarantee that it's actually safe for participants.
+On one hand, the risk of hospitalization for young people is relatively low.
+And a study of the outbreak in New York City suggests the risk of death for young people is as low as 0.01 percent.
+And advocates for Covid-19 challenge trials say that’s a level of risk we already accept in similar situations.
+They point out it’s even lower than the risk of fatality from donating a kidney.
+But any risk of harm or death at all would still set it way apart from any other challenge study.
+And the long-term risks of Covid-19 for those who recover are still almost entirely unknown.
+We emailed nearly all of the institutions who were reachable who are currently developing a vaccine, to see whether they would consider human challenge trials.
+And none would go on the record saying they are considering it.
+But we know at least one is seriously considering it.
+Developers of the Oxford University vaccine said that they hope to do challenge trials by the end of the year.
+In 2016, the World Health Organization’s stance on challenge studies was that "it would not be ethical or safe” to use them for a disease that is “virulent,” and has no “existing therapies” to treat it.
+But in May of this year, they released new guidelines, saying that they could theoretically be considered if there was confidence that “the potential benefits of SARS-CoV-2 challenge studies outweigh the risks.” If challenge studies do reduce the time it takes to get a vaccine, those benefits are clear.
+If the current leading candidates have quick, successful Phase III trials, we may never need to do a challenge trial for Covid-19 at all.
+But if we do, it’ll only be possible because there are people out there willing to take on this risk.
+“It’s worth it to me to save the lives of a countless number of people.
+“I'm happy to take that small risk to myself… and make things better for a lot of people.” “Feeling like I was doing nothing, and just feeling miserable and demoralized, to being like, OK, I have something I can do here.” “I'm a lot less at risk than my parents and grandparents are, And my moral imperative tells me I have to do it.”

@@ -1,0 +1,66 @@
+In September 2021, the CDC recommended Covid-19 booster shots, an additional vaccine dose, for the elderly and those at high risk in the US.
+That echoed the booster shot rollout in places like the UK and Singapore.
+But in November, the CDC announced a new recommendation:
+all adults could get a booster shot.
+And that idea had been a contentious question among scientists.
+"I do believe that all of us are going to need another shot at some point." "It's much more of a gray area for younger people, particularly under 50s." "I don't think we should get hung up on should, may...
+just go out and get boosted." "FDA's Dr. Marion Gruber and Dr. Phil Krause say there's currently no need for boosters for the general population." Dr. Celine Gounder was one of those scientists.
+She wasn’t convinced that we all needed more shots.
+Up until recently.
+So, to help me figure out what’s going on with boosters, I called her up.
+GOUNDER: I had not planned to get boosted, and yesterday scheduled a third dose.
+And that's really a decision that was made based on the emergence of omicron.
+To start us off, can you sort of just walk us through what the science of needing boosters is?
+GOUNDER: When you get vaccinated you're stimulating different branches of your immune system.
+You're stimulating B cells, T cells, antibody levels.
+Those antibody levels are what protect you robustly against infection, particularly soon after vaccination.
+But those antibody levels wane.
+What we saw from the data in Israel, as well as other countries like the US, is you saw a waning antibody levels at six months after the second dose.
+But Dr. Gounder emphasized that charts like this shouldn’t alarm us.
+GOUNDER: Once those antibodies fade away, the B cells are still there.
+B cells are these little factories to make antibodies.
+So when you get re-exposed to the virus, the B cells recognize the virus and kick back into gear and produce antibodies all over again.
+You're not fully protected against all infection, but you still have very strong, very long-lived memory B cell responses that are still there to protect you from severe disease, hospitalization, and death.
+So if we still have that protection from severe cases, why do we need more antibodies from a booster?
+GOUNDER: There are certain groups in which we do see a reduction in protection against even some of those more severe outcomes.
+And those are specifically older people.
+In addition, people who are highly immunocompromised also do benefit from getting additional doses of vaccine.
+That was the reasoning behind initially limiting boosters to the vulnerable:
+that while boosters for all adults in general could help replenish antibodies to prevent any infections, they weren't necessary for preventing severe cases, which vaccines continue to do effectively for most people.
+But many scientists like Dr. Gounder have changed their mind on that stance based on the information available about the omicron variant at the time of this video.
+GOUNDER: Now that you've had the rise of the omicron variant, it's a different conversation about boosters.
+The concern about the Omicron variant is that our vaccines may not fully protect against this variant, which has more than 30 mutations in the spike protein.
+B cells that would have recognized earlier strains of the virus may not recognize omicron.
+It has changed so much that your memory immune responses don't recognize it.
+But that's a prediction based on looking at the genetic sequence.
+By giving additional doses of vaccine, you can override that relative immune evasion.
+It’s not clear yet whether or not we’ll need a new vaccine for the new variant.
+That was actually a question companies like Pfizer had with the other variants, too.
+So even though there are still a lot of unknowns about omicron, experts like Dr. Gounder say boosters may be a good tool against it, especially if it turns out to be as bad as some fear.
+So at what point after our first round of vaccinations should we get boosted?
+GOUNDER: So you should wait six months after your second dose of COVID vaccine, if you got the Pfizer or Moderna vaccine, before getting a boost, and you should wait two months after getting the Johnson & Johnson vaccine before getting a boost.
+To really get to peak antibody levels, you really want to wait about two weeks.
+So if you're, say, planning to go visit family over the holidays, I would recommend getting that additional dose of vaccine, that booster dose, about two weeks prior to travel.
+And that booster doesn’t have to be the same one you originally got.
+GOUNDER: The NIH conducted a study looking at, do you start with Johnson & Johnson, Pfizer, or Moderna, and then do you boost with Johnson & Johnson, Pfizer, or Moderna?
+The study found that not only is mixing vaccines safe:
+all combinations work.
+In the US, if you got initial doses of an mRNA vaccine, you can get either one as a third shot.
+But it’s recommended that if you got Johnson & Johnson first, it’s most effective to get boosted with an mRNA vaccine.
+Similarly, in countries like Germany and Korea, most people who got AstraZeneca will be offered an mRNA vaccine.
+GOUNDER: There is some thought that the different vaccine technologies teach the immune system to recognize the spike protein in slightly different ways, and that as a result, the immune system, you could say, remembers better.
+Considering that the vaccines have been so unequally distributed around the world, should we be concerned about the ethics of getting a third shot when so many people haven’t even had their first?
+GOUNDER: I think we should be worried about that at a policy level, at a macro level, but whether you yourself as the individual choose to get a booster dose or not is really not going to have an impact on global vaccine supply, because those decisions are being made far upstream from you going into your local drugstore and getting a vaccination.
+As for whether we’ll all need boosters for years:
+it’s really too soon to tell.
+It depends on how much Covid is spreading.
+GOUNDER: Look, boosters are not going to end the pandemic.
+What is going to end the pandemic is vaccinating people who are not vaccinated.
+Your risk of infection is proportional to how much virus is circulating in the community.
+Even if you've been boosted.
+We still have a long way to go to vaccinate the unvaccinated.
+But Dr. Gounder also emphasized that we can do two things at once:
+we can continue to vaccinate the unvaccinated while also strengthening the defenses of the vaccinated.
+GOUNDER: Boosters do provide another layer of protection, especially with the rise of the omicron variant.
+I think there is broader consensus now among doctors and scientists that everyone 18 and up in the United States who can get a booster should get a booster.
+That boost won't last forever, but it does buy you time.

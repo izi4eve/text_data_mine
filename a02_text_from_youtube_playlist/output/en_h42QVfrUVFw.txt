@@ -1,0 +1,255 @@
+Madagascar.
+An island off the coast of Africa.
+It’s one of the most biologically diverse places in the world.
+Almost all of its plants and animals aren’t found anywhere else on Earth.
+And when we looked at it from space, we saw a spot.
+A massive dark circle, almost perfectly round, over thirteen kilometers in diameter, and big enough that roads are diverted on either side of it.
+Looking at it from the side, we could see it was a mountain.
+And if you zoomed all the way in, you could see a village nestled in the crater at its center.
+8 kilometers from the closest labeled town on Google Maps.
+Isolated in a remote part of a remote region of a geographically isolated country.
+It looked like it could have been there for generations.
+But if you looked backward through time … … each year … … it gets smaller and smaller … … and before 2008, there was no one there at all.
+I wanted to try to answer one question:
+Why did these people move to such an incredibly isolated place?
+I was really starting from zero here.
+I didn't know anyone in Madagascar.
+I didn't know that much about Madagascar.
+But the question was: could we get in touch with the people living here just by using the internet?
+The closest location tags were on the edges of the mountain: a butcher shop, a playground, and a historical landmark.
+But none of them were real — they all seemed to be random references to the popular Japanese manga and anime series Attack on Titan, written in Russian.
+The ones that did look real — churches, hospitals, schools — didn’t have much of a presence on the internet.
+So we looked at content that had been geotagged nearby.
+First on Twitter: using the coordinates of the village, and a search radius.
+Until finally at 12 kilometers away … … we found someone.
+A nonprofit worker who had posted from a nearby village in 2014.
+We asked if he knew about the village on the mountain.
+But he never got back to us.
+On Instagram, we looked for pictures tagged in the nearest town, Antaniditra and found an aid organization that had posted pictures taken there.
+We asked, but they didn’t know.
+They’d never actually been on the mountain at all.
+And finally we looked at geotags on YouTube.
+And there was a video.
+Geotagged right next to the village on top of the mountain.
+But, then… It was just more Attack on Titan stuff.
+Also written in Russian.
+After a while, it felt like the internet alone was not going to tell us very much.
+So we started reaching out to experts who had worked in Madagascar.
+Experts in agriculture.
+And experts in biogeography.
+Madagascar is a country of almost 29 million people: slightly more than Australia, slightly fewer than Texas.
+A majority of the country's population — over 60 percent — lives in rural settings a lot like this one.
+But this village was particularly remote.
+If you zoom out, the closest major city is a place called Tsiroanomandidy.
+18 kilometers away, with a population of over 44,000.
+At this point in the process, it felt like we might need to take a more drastic approach.
+Maybe we could hire someone to make the journey up the mountain to the village itself.
+Someone in Madagascar.
+That’s how we met Lalie.
+Hi Christopher.
+Lalie runs a production company in Madagascar, in the capital city of Antananarivo.
+She was down to make the trip.
+She started to gather a crew… … make local contacts … … and figure out how to get from Antananarivo all the way here.
+They weren't exactly sure yet how they'd get up to the village.
+Or how they’d establish contact once they got there.
+But they knew they were going to have to do it in just a few days in the middle of Madagascar’s hot rainy season.
+And early one morning in January, they went.
+This is Toussinah.
+She’s going to be our guide.
+This is Haja, he’s an historian This is Vahambola, our fixer.
+This is José, our very focused driver.
+And this is me, you know me already.
+As they approached the mountain, Lalie sent us messages every step of the way.
+Until, finally, After traveling 10 kilometers by motorcycle and on foot … they made it to the top of the mountain.
+But when they got there and were about to descend to the village in the crater … … a massive storm appeared on the horizon.
+And they had to turn back.
+They got extremely close.
+But making contact with the village would have to wait until the end of the rainy season.
+Which was … ... in May.
+Four months away.
+Still, all the research we’d done so far gave us a detailed idea of what this place looked like.
+What Lalie’s team did see looked green, lush, and clearly extremely difficult to access.
+But there was so much we didn’t know.
+Before Lalie went in January, she wasn’t convinced that anybody lived there at all.
+There’s the small group of houses at the very top in the very middle that we’ve kinda been interested in.
+So I turned to some very basic Googling.
+And I found an article about earthquakes in Madagascar.
+The article described how a team of researchers mapped Madagascar via seismic tomography.
+That’s "tomography" not "topography," because it’s mapping the Earth’s interior, not exterior, like a CT scan for the planet.
+All of these measurements produced this final map of the entire island.
+With colors labeling the different ages and kinds of rock.
+And here, in the center of the map, I could see one perfectly circular dot… I pulled it into Photoshop, overlaid it with the map… And it lined up with the mountain exactly.
+According to the key, that meant that the mountain dated back to the Cretaceous Period:
+sometime between 66 and 145 million years ago.
+And ...
+... it was volcanic.
+This looked like a very, very extinct volcano.
+But we wanted to know for sure.
+So I started looking for a volcano expert from Madagascar who could explain it to me.
+And that led me to Tsilavo Raharimahefa.
+He showed me a map from a detailed geological survey of the area.
+90 million years old.
+Older than Mount Everest.
+The Grand Canyon.
+Vesuvius.
+This thing was ancient.
+90 million years meant that this thing had been extinct for a very, very long time.
+But that number was significant for another reason.
+Okay.
+Tsilavo is talking about this moment, right here.
+When India broke apart from Madagascar.
+Because these rocks are 90 million years old, it makes sense that the volcano might have something to do with this massive separation of continents.
+So we went looking for experts who knew more about the breakup of Madagascar and India.
+And we found Joe Meert.
+A geology professor who’s written a bunch about the movement and formation of continents.
+This was a real crash course on volcanic geology, so I asked our motion designer Matt to help me make this a little bit easier to follow.
+Madagascar and India happened to be located beneath this really deep-seated mantle source, they're called plumes.
+When that plume reaches the planet’s crust, it forms a hot spot.
+As Madagascar moved over the hotspot, it burned a hole through Madagascar and produced all the volcanics all over the island.
+As Madagascar’s continental plate continued to move, those volcanoes were eventually cut off from the hotspot.
+And without a heat source, they cooled and collapsed.
+And then you're left with the plumbing system that was underneath that volcano.
+So that’s what we were looking at: the collapsed remnants of a volcano formed by a hotspot that had broken up apart Madagascar and India.
+At this point, I had no idea what any of this might have to do with the village we could see on Google Earth.
+But right about then, we heard back from another Malagasy expert we’d emailed.
+He sent us a link to mindat.org — this is like the Wikipedia of minerals and mines ...
+… and it had a page about the mountain.
+Including its name: The Ambohiby Massif.
+Finally. We knew the name of this mountain that had been unlabeled on every other map we’d seen so far.
+And we could search for it.
+We found maps from 1899, 1903, and 1916, where the Ambohiby was always labeled as a lush forest … … the only one for almost 100 kilometers.
+That definitely didn’t seem to be the case anymore.
+But maybe these old trees were a clue.
+We kept looking.
+And we found old reports.
+One from 1933 said that at the “highest part of the massif there is a very open valley, called by the indigenous Andranomangatsiaka, or "where we find fresh water." Water.
+Maybe that's why the villagers chose to move there.
+The mountain’s higher elevation meant it got more moisture, feeding these streams that flowed down the mountain in every direction… and making the center a perfect place for a village to thrive.
+Then we tried to find reports that were a little bit more recent.
+And on Google Scholar, we found a 2012 paper about the origins of the Ambohiby.
+It covered everything from the geochemistry, to plate tectonics, to microscopic images of its rocks.
+And it included rock samples taken right next to the crater village.
+The paper was written by a South African geoscientist named Ndivhuwo Cecilia Mukosi.
+And if she took rock samples from right here, when the village already looked like this, she had to have been in contact with the people living there.
+Mukosi was busy doing field research for the next few days.
+So in the meantime, we dug deeper into her paper.
+And it told us what the formation actually was.
+An alkaline ring complex.
+Alkaline refers to the chemistry of the magma.
+It’s the kind of molten rock that appears when continents break apart, like Madagascar and India did 90 million years ago.
+I took this new term, and looked at dozens more across the world.
+In Sudan, Egypt, Niger, Russia, Namibia, Zimbabwe, The United States.
+They were everywhere.
+A whole planet covered in circles.
+The remnants of long extinct volcanoes.
+I wanted to talk to someone who could tell me why a community of people would want to live on top of an alkaline ring complex.
+So I went looking for the most famous researcher of the most famous alkaline ring complex out there.
+That’s when this caught my eye.
+The Richat Structure.
+Also called the Eye of the Sahara.
+It’s an alkaline ring complex in Mauritania surrounded by conspiracy theories.
+Even on Google Maps, where it’s littered with comments saying that it's the site of Atlantis.
+And that “nobody knows what it is!” But geologist Michel Jébrak does know what it is.
+He’s done tons of research there, and even helped get an illustration of it onto Mauritania’s currency.
+Soil.
+Maybe that was why they moved here.
+This alkaline ring complex, formed when continents broke apart, left behind a valley with remarkably fertile soil.
+There was one last person who might know something about the community living on top of the Ambohiby Complex:
+Ndivhuwo Cecilia Mukosi, the geoscientist who had studied it.
+When she was back from doing field research, we spoke.
+One of the things that really caught us in the first place about this location was the fact that at the crater of the ring complex there is what looks like a farm right in the very middle -- do you know what I’m talking about?
+I’d missed this the whole time.
+Mukosi’s research was published in 2012.
+But she had actually visited the Ambohiby five years earlier, in 2007.
+Before anyone had moved here in the first place.
+So that was it.
+We’d been trying to learn about an incredibly remote village in an incredibly remote part of the country.
+And the one person who had formally studied it most recently had done so before the village even existed.
+We had all this research.
+And we were stumped.
+But now, the rainy season was over.
+And we finally had a chance to send Lalie and her crew to make the journey again.
+Hi Christopher, we are leaving now.
+So we are heading to Tsiroanomandidy.
+We are now on the way.
+Lalie brought a whole new team, including Rado Andriamanisa, a filmmaker who captured scenes as they drove through the Madagascar countryside.
+Of pineapple vendors … ... basket weavers … ... and rice farmers.
+We are 1 hour and 45 minutes, approximately, from Tsiroanomandidy.
+Tsiroanomandidy.
+The closest major city to the Ambohiby.
+When they made it there, they picked up their final crew member: Johary.
+A Tsiroanomandidy local who would be their guide.
+Hello!
+Hello! Can you hear me now?
+He told me he’d climbed the Ambohiby many times.
+And even wrote his master’s thesis on its water resources.
+But had never been to the village at its center.
+Antaniditra. Just 8 kilometers away.
+From there, they could travel to interview people living on the outskirts of the massif.
+The crater village's closest neighbors.
+The crew asked them what they thought made this place special.
+They’d met the people living closest to the crater village.
+But climbing all the way up the mountain would take a full day.
+Early the next morning, they set off for one last shot at reaching the village.
+What you see behind me, there, this line, there ...
+It’s the crater.
+It’s like, in the middle of nowhere.
+It’s a beautiful nowhere.
+But still.
+Until at last … they arrived.
+So we are now approaching the crater.
+And they saw the village — up close.
+Full of dozens of houses, livestock … and people.
+But as soon as they drove closer, things became tense.
+Some people in the village think that we are a team of spies, coming to take them guilty for something.
+We still need to wait.
+After two and a half hours, one of the towns leaders came to talk.
+We finally succeeded to find our facilitator.
+More specifically, they migrated from Manandriana, a district in the region of Amoron’i Mania, in the central highlands of Madagascar.
+A journey of over 380 kilometers.
+Like the majority of people in Amoron’i Mania, the Ambohiby residents are Betsileo.
+The third largest of Madagascar’s 18 main ethnic groups.
+Meaning they didn't just migrate to a new home – they also became an ethnic minority.
+Now living in a place where the Merina people are the majority.
+It still wasn’t clear why they chose this place in particular, somewhere so remote.
+Until they sat down to interview Razafinatiala, one of the village’s elders.
+And they gave it a name.
+Anosibe Ambohiby.
+Anosibe Ambohiby.
+Anosibe Ambohiby — or "Big Island" Ambohiby.
+So we had an answer about why they lived here.
+And why they had traveled all this way to live in a place like this.
+It was for the water and it was for the soil.
+But more than anything else, it was for space.
+And it’s easy to see why.
+In the entire district of Tsiroanomandidy, there are just over 49 people per square kilometer.
+But in the migrants’ original home of Manadriana, that density is more than twice as high.
+And for farmers like them, space to plant, to breed livestock, to build a life is everything.
+And then the villagers took Lalie and the crew to see what they’d done with all of that space.
+A massive field of hundreds of lemon and orange trees.
+The citrus are a cash crop: fruits grown for the purpose of selling at a market.
+But to sell their produce at a market, they have to transport it down the mountain to Antaniditra.
+The same difficult journey that Lalie and her team had just done.
+Remoteness was the thing that first fascinated us about this village.
+And it was a central part of their story.
+But it was a story that stretched far beyond this place.
+Madagascar has some of the least developed road networks in the world with just 5 kilometers of road per 100 square kilometers of land.
+The majority of Madagascar’s population lives in rural areas a lot like this one.
+But only a tiny fraction of that rural population lives within 2 kilometers of a road that’s usable all year long.
+Which means that almost 16 million people live essentially unconnected.
+Having better, more connected roads means an easier time accessing schools, hospitals, and markets.
+An easier time building a better life.
+Hey, hi Christopher, how are you doing?
+We’ve been to the crater finally.
+They live in a very, very, very, remote area.
+Because, this is like the center of the crater.
+And the way they live in the middle of the crater and they can sustain themselves … it’s amazing.
+But to access there … it’s not an easy life.
+When I was going through all the footage Lalie's team sent us after they made it home, I couldn’t stop looking at this perfect match to the first image we saw of the village.
+And it struck me… Apart from a few photos … taken with cameras hundreds of kilometers up in the sky ...
+… there’s basically no record of Anosibe Ambohiby anywhere on the internet.
+Until right now.
+With the internet, we can look at just about any part of the planet.
+Some of the places we find might be made up.
+Or might be surrounded by conspiracy theories instead of facts.
+And some we can’t learn much about at all without showing up, asking questions and letting the people there tell their story.

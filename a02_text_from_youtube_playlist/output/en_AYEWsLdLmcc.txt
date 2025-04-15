@@ -1,0 +1,76 @@
+If there’s one thing I appreciate when playing video games, it’s great mechanics.
+The web swinging in Spiderman: Miles Morales feels really natural, and in Fortnite, you can destroy essentially everything, and then turn it into a wall, with a few intuitive gestures.
+But The Last of Us Part 2 impressed me for something much more subtle The doors.
+This mundane, everyday task is what took developers the longest to get right, As the games’ co-director put it on Twitter:
+“f--k doors” The Last of Us Part II is a super realistic game, and the team knew that “If a player is going to open a door, it can’t just magically fly open.” But even for less realistic games like Fortnite, doors are still painstakingly hard to make.
+So, what makes video game doors so difficult?
+Every time I'd walk through a doorway, I just keep, like, bonking myself into the corners and into the walls next to the doors.
+It's like, all right, well, this sucks.
+I'm Brian Singh, I’m a game developer and I guess I really like doors.
+Bryan’s worked on games, like Journey, Uncharted 4, and The Last Of Us Parts 1 & 2.
+On Part 2, it was his job to get doors working, from a technical perspective.
+I think the complexity of all different door states and ways of interacting with doors, it seems simple in the real world because you're used to it.
+But in a video game, that’s not the case:
+You have to consider every other situation, every other system, every other object and character that can interact with doors or be around doors when they're interacting Start counting the number of doors you actually see in games.
+You'll see a lot of games just don't put doors in the doorways.
+This ship in World of Warcraft has just an open doorway.
+So does this room in Assassin's Creed.
+For games that do have doors, they fall into a few unofficial difficulty categories.
+Games like Halo use tier one doors: they open or close based on your proximity to them.
+These doors are the least finicky to implement.
+They don’t interact with anything, because they slide in on themselves, and they have no in-between state - they’re only open or closed.
+Tier 2 doors have to look like real-world doors...even if they don’t operate in exactly the same way.
+SINGH: It's very uncommon in the real world to have a door that opens in both directions.
+In video games, it's extremely common.
+The character in the game usually doesn’t physically touch the door in this tier, but sometimes, like in Fortnite, developers might throw in an arm gesture to suggest character interaction.
+SINGH: One of the things that comes up a lot in games is, it's kind of assumed that the size of doors are going to be exaggerated because you have this problem: What your character is doing is not at all what the actual human player is doing behind the controller.
+Precision movements are challenging, which would make navigating through a small door frustrating.
+SINGH: Usually the default solution is: just make the doors really big, and that way it’s way easier to go through the doors, you don’t have to think about it.
+But that’s not the only reason doors are huge - they also allow for cleaner visuals SINGH: Once your player goes through the door, like, what is the camera doing?
+Normally the camera is like, slightly above door height.
+SINGH: So you have to, like, duck it down to make sure the cameraman also squeezes through the door and that doesn't look like crazy.
+Doors also have to look like they’re physically interacting with everything else in the scene.
+Animation and doors already f--ing complicated problem.
+In real life, everything is solid - but in the world of 3D modeling, nothing is solid.
+Objects can pass right through each other.
+Making sure that doesn’t happen in every possible scenario, with any possible object is a tedious task.
+Tier 3 doors are maximum effort: The character has to actually physically interact with the door for it to open.
+Having a character actually connect with the handle of the door, without breaking player immersion, is a complicated dance between player control and pre-set animations It's pretty much a golden rule.
+Any time you take control away from the player, it feels weird, it feels bad.
+So with doors...
+Worst case scenario, you hit the button and you're effectively playing a cut scene or something.
+Giving players enough control to break away from the door in the middle of opening it means that character animation must be chopped up into tiny pieces.
+But even if you get all that right, the work doesn’t end there.
+Any time you add any one thing to the gameplay, you have to make sure it works with every other aspect of the game.
+For instance, characters can have different emotional states that require unique animations.
+If you’re calmly investigating a room for example, you’ll open the door more slowly.
+If they're in a like, tense demeanor, like, oh, crap, there's enemies here, I'm going to go, they can run through the door with great haste.
+Throw in a few NPCs, and the meticulous work just gets even more complicated.
+SINGH: A.I. is a whole other complexity where.
+OK, now the companion characters, as well as the enemy characters, also have to understand how to strategize around that, like, OK, do they test the door to learn that it's locked?
+Do they know that it's locked already and know how to, like, try to find a way around the door?
+And this problem isn’t just localized to doors, other objects like ladders are also challenging to make, for similar reasons.
+Doors are hard because all of game development is hard.
+But when the goal of a game is realism and the fidelity that you can achieve with new consoles is incredible...that challenge becomes something of a necessity.
+SINGH:  Especially on the last of us, the philosophy was: avoid as many disconnects from reality as possible.
+So you can just be more immersed, like everytime you experience a disconnect, that's just like one more reminder that, oh, yeah, I'm playing a video game instead of being invested into what's going on.
+In researching this story, I came across this 2014 post by video game designer Liz England, called The Door Problem.
+In it, she breaks down just how much of a pain doors are for designers, with a series of questions that need to be answered before work even begins on a game:
+It starts off fairly simple: Are there doors in your game?
+Can the player open them?
+But pretty quickly it gets a lot more complicated:
+Do doors lock behind the player?
+Where do enemies come from?
+Do they run in from doors?
+What happens if there are two players?
+Once you get all those questions answered, the door then actually has to get built — and every part of the company gets involved in a different way:
+Concept artists design and create, composers write themes, combat designers think about enemies, writers write voice over, sound designers make it sound like the door is actually opening and closing, and then an audio engineer has to come in and make it sound like it's coming from the direction that the player is facing, and the list goes on.
+For anyone who's interestedI’ll put the link to her post in the description below.
+But, the expert that I interviewed for this piece, Bryan Singh, had very similar things to say:
+Doors are like, yeah, you open the door, you're done.
+It's like, yes, but you have to consider every other situation, every other system, every other object and character that can interact with doors or be around doors when they're interacting.
+Like, what if you open the door and there's an enemy right behind it?
+Do you have an animation for that?
+Does the enemy get bonked and knocked back, or do they like stop it?
+Those are questions that you have to ask yourself.
+Like, how does every situation or every overlapping system react to push button, door opens.

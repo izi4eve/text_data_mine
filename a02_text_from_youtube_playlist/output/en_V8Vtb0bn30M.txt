@@ -1,0 +1,81 @@
+The year is 1953.
+The US purchases this from Bell Labs...
+the first commercial silicon solar cell.
+But these first solar cells are not exactly efficient.
+If you were to put them on your roof and try to generate electricity it would cost you about $300,000 a month.
+Fast forward 70 years and that cost has come down.
+Way down.
+Solar energy is the cheapest it's ever been...
+nearly 90% cheaper than it was just in 2009.
+In a lot of places it is now cheaper to generate electricity with solar...
+than with coal, natural gas, or nuclear power.
+This is an unqualified success story.
+And if we can take the right lessons from it...
+this story can help us create and deploy all the other technology we will need to keep our planet livable.
+They just became cheap so quickly.
+It's really an amazing breakthrough that is going to come to define the 21st century.
+So how did solar energy go from prohibitively expensive to cheaper than fossil fuels?
+“We're in an energy crisis now.” In the 1970s, with the oil crisis there was a really big push on research and development for alternative energy.
+“Today, in directly harnessing the power of the sun we're taking the energy that God gave us...
+and using it to replace our dwindling supplies of fossil fuels.” With Project Independece, as it was called...
+the US federal government allotted more than $8 billion to solar research and development.
+That really made a huge difference and probably doubled the efficiency of the cells.
+It was a guy named Paul Maycock who came from Texas Instruments.
+—Oh, like the calculators?
+—Yeah!
+Working on calculators, and he found for calculators...
+the more they built, the cheaper the calculators got.
+And he said, same thing for solar.
+If we build more, the cost will come down.
+But before the US could really test Maycock’s idea President Reagan canceled Project Independence.
+Fortunately, two countries were ready to step in and put Maycock’s hypothesis to the test.
+Like the US, Japan had been hit hard by the oil crisis in the 70s.
+They started funding solar research and development around the same time and soon they developed solar cells small and powerful enough to run watches, calculators, and toys.
+Trivial, in terms of the global energy system...
+but crucial in that large companies were now becoming interested in solar and crucially, figuring out how to construct solar...
+at really low, low cost.
+That knowhow came in handy when the Japanese government announced a major subsidy for rooftop solar in the mid-90s.
+But the global market for solar technology was still relatively small.
+Until Germany stepped in and truly changed the game.
+The most important policy on this whole chain, if I had to pick one it would be the German feed-in tariff.
+Feed-in tarriffs.
+Which was basically a program that deployed solar at scale.
+Here's how it worked.
+Starting in 2000, the German government basically said to power companies...
+Hey, if you can start producing renewable energy we will buy it from you.
+We promise for double the market price and we will keep paying you at that rate for the next 20 years.
+And so for developers of solar projects in Germany, all of a sudden...
+it became like a no-brainer to do this.
+Even though Germany is not the sunniest place in the world.
+Companies responded to the incentives by building solar farms like this one.
+In one year, the installations for solar went up by a factor of 4 and then it just grew.
+The more panels they produced, the cheaper it got to generate electricity with solar.
+Then another country picked up the baton...
+and made solar cheaper than even Maycock could have imagined.
+So it really starts with Deng Xiaoping in the 1980s and had this plan for a thousand Chinese students to go abroad and come back and see what they came back with.
+One group of students went to the University of New South Wales in Australia, where they worked with a team that was producing some of the most efficient solar cells in the world.
+After a few years, one of those students went back to China...
+and opened up the country's first commercial solar manufacturer Suntech in 2002.
+With that new German law in place the company had so much success selling solar panels to Germany...
+Suntech success attracted competitors...
+which helped drive down prices in part because all of this demand inspired Chinese manufacturers to produce at an unprecedented scale.
+Policymakers around the world noticed the falling prices and wrote laws to create new markets in their countries, including the United States.
+The United States passed an important law.
+It's called the Energy Policy Act 2005.
+And buried deep within that law was an investment tax credit.
+Sounds kind of boring, but it turns out it was absolutely critical to deploying solar...
+because what it said was that if you put out a new solar project...
+you can get 30% of those costs back for a tax credit.
+This sparked a phenomenon called solar leasing...
+where companies would look for places to put solar so that they could reduce the amount they owed the federal government in taxes.
+Other policies helped create markets for solar modules in Spain, Italy and crucially, in China.
+The Chinese devised their own subsidy program that was modeled on the German one where you get a guaranteed price.
+By 2011, China was not only the biggest producer of solar...
+but the biggest producer of solar electricity.
+In the course of a single lifetime solar energy has transformed from a niche technology to the cheapest way to bring clean, reliable power to billions of people around the world.
+But the markets that brought us these lower prices didn't just magically appear by some invisible hand.
+Political leaders in countries all over the world created these markets, then subsidized them for decades to the tune of billions of dollars.
+By investing that money you got the solar to come down in costs to the point where you don't need to subsidize it anymore.
+We're doing that on purpose with things like batteries and electric vehicles.
+We're doing that with things like heat pumps.
+Solar provided us with a playbook for how to do that for other technologies.

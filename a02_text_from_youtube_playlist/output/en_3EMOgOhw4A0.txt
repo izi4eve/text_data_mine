@@ -1,0 +1,55 @@
+If you look up how to do a spiral pass on the Internet — which is something I had to do for this video because I really suck at throwing footballs — the main thing you'll see is that you need to position your fingers in a way that'll make the ball spin as it flies through the air.
+I was breaking my arm trying to do this so I could see a physics problem up close.
+And the problem is right... here.
+When you throw a good spiral pass, the ball starts pointed up tips over mid-air and ends pointed down.
+We're used to seeing a football do this.
+But according to physics, that's highly unusual.
+When we throw objects, they are usually going to either retain the same angle as when they originally thrown like this loaf of bread.
+Or flip over themselves several times until they land.
+Like this box of girl scout cookies.
+So what is it about a football that makes it want to tip over?
+I first got interested in this problem, I'm guessing 2000.
+We published the paper in 2020, so it really was 20 years.
+My name is Timothy Gay.
+I'm an atomic physicist by day and my secret identity is football physicist at night.
+The best way to understand why the ball turns over is to make an analogy with a spinning top.
+Spinning tops are like catnip for a physicist.
+On its own, a top falls over.
+Give it top a spin and it stands up.
+It balances itself around a line a center point that physicists call the reference axis.
+This axis is determined by the main force acting on the object which in this case is gravity.
+Gravity is pulling straight down and the top is fighting this by spinning around wobbling around this vertical line, this reference axis.
+A football is a top.
+You can spin it in the exact same way and this is in part because of its shape.
+Both a football and a top are cylindrically symmetrical.
+A cylindrically symmetric object is one which if I rotate you can't tell that I'm turning it.
+Objects which have this symmetry have a big impact on how the object behaves when I apply forces to it.
+So when you spin them...
+they both wobble around a reference axis.
+Bending makes all the difference.
+But once you spin football in the air it's reference axis gets a little more complicated.
+When you throw a nice spiral pass gravity is only acting as a secondary force on the ball.
+Gravity is trying to pull the ball down usually making its path to the ground look like this.
+But the main force acting against the ball is the air molecules that are pushing against it as it flies through the air.
+The ball pushes against the air and the air pushes back against it.
+But because gravity makes the ball's trajectory a parabola the air pushing against the ball changes directions as it flies.
+When the ball is moving up the molecules are acting as downward pressure.
+When it's coming down, the molecules are pushing up.
+And just like the spinning top pointing against the downward force of gravity to stay vertical the spinning football wants to push against the main force acting against it.
+The air molecules like the tap on the table, the ball is going to want to wobble around its center line, its reference axis.
+And in this case, that ends up being the ball's trajectory — its path through the air.
+What the football wants to do is exactly what the top wants to do on the table.
+It wants to circle its axis, wants to circle around that force direction.
+But in the case of the top the force of gravity never changes.
+It's always vertical.
+Whereas for the football the axis of the force is changing.
+You can see all these forces at play in this slow-mo 3D recreation.
+The ball takes off pointing towards the air pushing against it wobbling around its reference axis.
+It follows the trajectory gravity laid out for it eventually reaching a point where it starts coming back down at which point the air forces are pushing up against it and the ball points against them.
+But in regular motion, it just looks like the ball is tipping over.
+If you throw a football without it spinning it would follow a similar trajectory, but it wouldn't tip over.
+And if you try to throw a spiral loaf of bread or some other object it wouldn't tip over either.
+It only works on objects that are cylindrically symmetrical like a football or a rugby ball.
+A very smart person once said to me "Everything is simple once explained." It's a hard problem because, first of all there are a lot of potential explanations which seem enticing at the beginning but turn out to be wrong.
+And unfortunately, you can't really solve a problem without using some relatively ophisticated mathematics.
+But the basic ideas are simple enough for anybody that's interested and is paying attention to understand.

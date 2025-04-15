@@ -1,0 +1,45 @@
+These two men were the first to climb to the top of Mt. Everest.
+Edmund Hillary, from New Zealand, and Tenzing Norgay, a Sherpa from from Nepal and India, became global celebrities after reaching the summit, where Hillary snapped this photo of Norgay holding their national flags. Since then, many have followed in their footsteps, raising their own flags at the peak. Summit bids have created a lucrative industry — and a perilous one; hundreds have died or been injured during the climb. All in the pursuit of one goal: reaching the highest point on Earth. But the thing is, most of the people who have stood on top of Mt. Everest have climbed to slightly different heights— For Hillary and Norgay, it was 8,840 meters.
+For this British Army officer who summited in 1976, the height was 8,848 meters. This Sherpa guide and his Swedish client climbed 29,035 feet or 8,850 meters in 1999. And at the end of 2020, the height of Mount Everest changed again — it’s now officially 8,849 meters. These changes are small — and probably don’t really matter to the people who’ve reached the summit. But the reason why Mount Everest’s height keeps changing tells a story about how we measure mountains—and about who gets to do the measuring.
+We have only one Mt. Everest in the world.
+But the one mountain had several heights.
+This is the Himalayan mountain range, and here is Mount Everest, with one side in Tibet and another side in Nepal. In Nepal, the mountain is known as Sagarmatha; in Tibet, it’s called Chomolungma. Everest is a colonial name, named for this British official, George Everest.
+And that’s because India, Nepal’s neighbor, was under British rule when Everest was first measured. British and Indian surveyors started a massive mapping project in 1802, at one point led by George Everest. Called the Great Trigonometrical Survey. They measured as much of India’s land as they could, using an instrument like this, called a theodolite.
+It’s the distant ancestor of what land surveyors and engineers use today—to basically do the same thing —measure the angles between two horizontal points, and use basic trigonometry to measure the location and distance to a third point. But when surveyors from the Great Trigonometrical Survey reached the Himalayas in the 1840s, they ran into a very tall, vertical problem. Measuring the height of a mountain is more complicated than just measuring from the ground to the peak. You have to know where sea level is. Because sea level is relatively similar throughout the globe, it’s the base that most natural heights on earth are measured from. But there is no sea or ocean immediately next to the Himalayas. So surveyors in the mid-1800s had to walk from the Bay of Bengal to translate sea level to the Himalayas, which took years. Surveyors couldn't enter Nepal at the time, so they did this from over 100 miles away, across the border in India.
+Only then could they measure the distance between two points at sea level then aim the theodolite to the peak. That’s how they measured the Himalayas, 100 years before anyone reached Everest’s summit. And that’s how, in 1855, the first official measurement of Mount Everest was recorded: 8,840 meters.
+After that first measurement, scientists from around the world began documenting their own heights. They were never too far off from that first one, but fluctuated anywhere from ⅓ of a meter to 72 meters. One reason those numbers differ is because it’s still really hard to calculate sea level. The sea might seem relatively smooth compared to earth’s erratic topography. But water is uneven too:
+tides go up and down — and, thanks in part to global warming, sea levels are rising.
+The global mean sea level is an average of all these fluctuations. But when surveyors want to measure a mountain’s height, they have to be more precise. That means considering something called the ellipsoid — the bulge at Earth’s equator due to the centrifugal force of its rotation. And areas of the Earth with more density, like mountain ranges, affect gravity and therefore the height of sea level.
+Taking variations on gravity into account, this is Earth’s true sea level, called the geoid, which is full of dimples and bumps.
+When surveyors want to measure Everest, they have to precisely consider all these conversions, which explains some of the variations in height.
+But there’s another reason the height of a mountain might shift, that has to do with the origin story of the Himalayas.
+These mountains started forming 50 million years ago when the Indian continent collided with the Asian continent. That collision hasn’t stopped happening, even if we can’t see it. Geologists think that the Himalayas are still rising 5 millimeters a year, or a quarter of an inch.
+The tectonic shifts causing that growth also cause earthquakes in the region, which can shift the height of mountains.
+So when Nepal suffered a devastating earthquake in 2015, Scientists knew Everest’s height had probably changed.
+Nepalese surveyors decided to investigate.
+Being the Everest-lying country all responsibility is to clarify the question regarding the height of Mount Everest.
+Khim Lal Gautam, climbed to the top of Everest in 2019 to take a new measurement.
+And brought with him a tool that’s been helping surveyors since the 1980s: a GPS receiver.
+Gautam lingered at the peak of Everest for nearly 2 hours in the middle of the night, which is an eternity anywhere in the oxygen-deprived altitude above 8,000 meters, known as The Death Zone. He endured it to receive as many satellite pings as he could.
+GPS can accurately measure height through the time it takes a satellite signal to reach a receiver. But that signal gives a height based on Earth’s ellipsoid, not the geoid.
+Which means it still doesn’t solve for the most important part of mountain surveying:
+establishing the local sea level.Doing that with precision still requires surveying on land.
+We planned for the study of 50 kilometers at the east and 50 kilometers at the west, from northern border to the southern border.
+This was our study area and within this region we had around 300 control points.
+Susheel Dangol led the Nepalese survey from 2017 to 2019.
+To find the geoid height, they measured gravity through an instrument like this.
+The main motive of this... is to get the mean sea level.
+Around the same time that Susheel and Gautum were surveying, a Chinese team was, too, from the Tibetan side of Everest. And in December 2020, they made a joint announcement about their agreed-upon new measurement: 8,848.86 meters.
+Since 1855, all official measurements of Everest from the Nepalese side were done by colonial or foreign surveyors. Which makes this number significant: it’s the first time in history Nepal measured their own mountain.
+We are very proud to be the people of the Everest country. Mount Everest country, we are the people of the Sagamartha country.
+We feel proud to do the Everest measurement ourselves because we have not done that task  ourselves.
+In the future, Everest’s height might still inch up or down.
+but for anyone who reaches the top, they will still be on the roof of the world.
+So we just showed you difficult it is to find mean sea level.
+But there's actually a couple other ways you can measure the height of a mountain.
+that's less universally-used but would make some mountains actually taller than Everest.
+If you take the measurement from Earth's center instead of sea level, Mount Chimborazo in Ecuador would actually be taller than Everest.
+And that's because it's located closer to the Equator, so the ellipsoid would push it taller.
+And if you take a simple base to peak measurement.
+Mauna Kea in Hawaii would be taller than Everest and that's because a majority of the mountain is actually underwater, so below sea level.
+I included a link in the description if you want to read more about that.

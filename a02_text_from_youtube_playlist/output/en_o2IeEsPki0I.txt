@@ -1,0 +1,60 @@
+﻿On June 6, 2021, Simone Biles won a historic seventh national title.
+And among all the superhuman feats she’s pulled off in her career, like a Yurchenko double pike in the US Classic, and a triple double at the 2019 US Gymnastics Championships, this one is especially important.
+It’s called a Wolf Turn.
+The Wolf Turn has been around for decades.
+And it seems like recently, almost every gymnast has included it in their routine.
+It’s certainly not an easy skill.
+Something even Jessica Alba noticed.
+Why do they always do that?
+Because it’s like really hard.
+So if this turn is so hard, how do all these gymnasts pull it off?
+The wolf turn is broken into four main movements.
+A gymnast, like Simone, will get into a squat position on the beam or the floor, with their other leg stretched out.
+She’ll then stretch out her arms and wind them up.
+Once she finds her balance, she’ll start spinning.
+And finally, she’ll stop, and return to her original stance.
+All while making sure to keep her balance and not fall over.
+These four elements rely on a delicate balance of mass and inertia.
+Try to get in the starting position for the wolf turn.
+I think you’re gonna find it’s extremely difficult.
+David Young is a physics professor at Louisiana State University who's studied the physics of gymnastics and other sports.
+When she's in that crouch position, the majority of her center mass is, of course, still kind of in her torso.
+As long as your center of mass is above a point of support, that system will be physically stable.
+If she leans back a little bit,  she'll fall over.
+Things start to get tricky as she attempts to spin.
+To figure out what’s happening, let’s look at her moment of inertia:
+How her mass is distributed from her axis of rotation.
+In this case, the rotation axis is a vertical line near the center of her body that passes through her foot.
+When she winds up and starts spinning, notice how she'll bring her arms kind of in here, closer to her body.
+This distributes her body mass differently, closer to the axis of rotation, which decreases her moment of inertia.
+This means Biles can spin easier and faster.
+And then right when she gets ready to stop, you'll notice that she'll fling her arms out.
+Spreading her body mass out increases her moment of inertia.
+This makes it harder to rotate, and helps her stop quickly.
+All these movements require incredible strength with gymnasts using mainly their arm, shoulder, leg and core muscles to maintain their position.
+And like Jordan Chiles' 2017 Nationals routine shows, one wobble, and things fall apart.
+Cannot believe what she just did there.
+There’s a reason gymnasts go through this tricky balance.
+They’re chasing high scores.
+Olympic gymnastics is scored by combining points from two panels:
+Difficulty and Execution.
+Difficulty assigns a point value to the skill itself.
+A simple turn, like this single rotation Carly Patterson did in the 2004 Olympics, is valued the lowest of all the turns.
+A triple double, where gymnasts are flipping twice and twisting three times all in one shot, has one of the highest difficulty ratings of all gymnastics skills.
+And a triple wolf turn is somewhere in the middle.
+It carries the highest values of all the turns where gymnasts are doing three revolutions on the beam or floor.
+Execution scores you on how well you perform the technique.
+Basically, are you executing properly?
+And if not, what did you do wrong?
+Nicole Langevin is a gymnastics judge, choreographer and consultant.
+To truly spin that with proper posture, proper foot position, proper execution and precision of arms is pretty darn difficult.
+First thing we look for is what position is the foot in when they start?
+The support foot is often turned out like a ballerina.
+So that's how it has to finish at the end.
+And usually it doesn't.
+Usually it finishes parallel.
+Then I want to see that that extended leg stays extended.
+There is a deduction in gymnastics on every single event, and it's called dynamics:
+Doing difficult things and making them look easy.
+When you're spinning around going, whoa, with your arms, that's not very dynamic.
+A perfect wolf turn score would combine its relatively high difficulty level with a flawless execution-- something only top athletes can pull off.

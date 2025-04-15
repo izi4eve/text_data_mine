@@ -1,0 +1,51 @@
+Before the 1970s, people looking for jobs in the US would open up the “help wanted” section of their newspapers and see this.
+One set of opportunities for women, and one for men.
+We don’t see job ads like this anymore, largely because it’s been illegal for decades.
+But also because advertising is now much more targeted. Instead of one classified page, we have our social feeds, each crafted by algorithms for an audience of one.
+So when this ad went out on Facebook and reached a group of people that was 91% men, those outside that audience probably didn’t know it existed.
+And the same goes for this ad, which Facebook displayed for an audience that was 88% women.
+That disparity wasn’t because the advertiser told Facebook to target users by gender. I know that because this is the advertiser.
+My name is Muhammad Ali, I go by Ali.
+He’s part of a research group at Northeastern University that has spent thousands of dollars buying ads to try to figure out who Facebook will show them to, and why.
+If an ad shows up on your Facebook or Instagram feed, there are two parties that decided you should see it. First, the advertiser included you in their target audience, either by uploading a list of specific email addresses, phone numbers, or previous visitors to their website, Or by choosing from thousands of attributes that facebook offers, like Californians, under 40 who like basketball.
+Second, Facebook decided who in that pool would actually see the ad through an automated calculation based in part on what they know about you.
+It’s that second step that Ali and his colleagues wanted to study. If they uploaded a list of randomly-generated American phone numbers, and then turned off all the targeting except adults in the US, who would Facebook deliver the ad to?
+So you set up a bodybuilding ad and a cosmetic ad and said we don't wanna target this any further than the random phone numbers that we put in. Right? And then what were your results? When Facebook started telling you who was actually seeing this ad, what did they tell you?
+So, yeah, immediately, like we sort of expected that the body building ad was more relevant to men. And that's exactly what we saw. I think somewhere close to 80 to 85 percent of the audience was just men.
+And the link that we advertise to elle.com about the makeup kits that you could buy that went primarily to women.
+They were able to collect the results of the ads over time so they knew the gender skew was there early on, suggesting that it wasn’t introduced by user behavior.
+Their experiment showed that Facebook automatically analyzes the content of an ad to compare it to a user’s interests.
+How do they know what the user cares about?
+Well they have data from your profile and everything you and your friends have done on facebook and instagram, as well as websites you’ve visited, things you’ve purchased, apps you’ve installed, your location, your devices, and more.
+All this information fuels automated predictions about whether you are likely to engage with any given ad. And that prediction influences whether the ad shows up on your feed at all.
+You can get a sense of what Facebook thinks you’re interested in on your Ad Preferences page. Or your Ad Interests on instagram.
+Notice how some of these interests could correlate with your gender, your age, your income level, or your race.
+And then you wanted to look at race. But it sounds like Facebook does not give you data on the race of people that are seeing an ad.
+So how do you study that?
+That was one of the harder things to do. We thought we could use a different custom audience.
+Instead of random phone numbers. We could take voter records from North Carolina, which are public, and they have the race of the person registered as well.
+Then they bought ads for Rolling Stone articles that were either about country albums, hip hop albums, or general top 30 albums and targeted an equal number of white and Black users.
+And it was surprising how much the skew to the Black users was for the hip bag versus the country and the top 30.
+Facebook’s algorithms are trained to not show people ads they won’t be interested in.
+But there may be cases when we’re not comfortable with Facebook making those predictions.
+One study by Ali and his colleagues investigated how this plays out with political ads and found that despite targeting the same audiences, using the same goal, bidding strategy, and budget, an ad pointing to Bernie Sanders’ site went to mostly Democrats and an ad for Trump went to mostly Republicans.
+It cost 1.5 times more for an ad linking to Sanders’ site to reach the same number of conservatives as a Trump ad. Because Facebook subsidizes what they consider to be “relevant” ads.
+And then we move on to housing and employment ads, and these are considered sort of a different category. Why is that? Because these are legally protected. For example, housing ads are protected by the Fair Housing Act. An advertiser cannot discriminate in those cases. At that point, you're excluding someone from a life opportunity which becomes much more problematic.
+Because it's actually a legal violation that's at stake? Possibly?
+Possibly.
+Facebook allows advertisers to exclude certain ethnic groups from seeing an ad.
+Dozens of employers placing job ads on Facebook that discriminate against older workers.
+Facebook is revamping its targeted advertisements after settling lawsuits with civil rights groups.
+In response to criticism and several lawsuits, Facebook has been removing some of the targeting attributes that an advertiser could use to discriminate against demographic groups, and is paying special attention to ads related to employment, housing, and credit.
+But the role that the ad delivery system plays remains unsolved.
+When Ali and his team tested out ads for job openings in different industries, without targeting any demographic groups, facebook generated some skewed audiences. The lumber industry post went to mostly men. The cleaner post went to mostly women.
+The taxi driver ads that we ran, basically seventy five percent of the audience was black users.
+These results don’t mean that Facebook is directly basing their predictions on our gender or race. Instead it looks for patterns in all of our user data.
+Maybe people who shop at a men’s clothing site and like joe rogan are less likely to click on an ad for a job teaching preschool.
+Maybe your data is similar to theirs and so they predict you also wont click on that ad either.
+Instead they show it to someone who likes skincare and feminism. And if that person clicks, the system gets a new data point affirming its prediction.
+A complaint filed by the US Department of Housing and Urban Development states that this process “inevitably recreates groupings defined by their protected class.” They said that Facebook’s ad delivery system “prevents advertisers who want to reach a broad audience of users from doing so.” According to a report by ProPublica, a construction workers’ union wanted to recruit diverse candidates for its apprenticeship program, so they created ads featuring women, but found that Facebook still showed its them to mostly men.
+And wouldn't any ad targeting system with sort of sufficiently rich data about people have this kind of effect?
+Well, we believe so, because a lot of these things, for example, custom audiences on all of these targeting features --they’re industry practice. They that also in Google's or Linkedin’s or Twitter's advertising platform. So the general ethos of how these systems work is the same.
+It’s a question that the industry as a whole hasn’t answered:
+When exactly is it unacceptable for an algorithm to decide that relevant audiences are segregated ones?

@@ -1,0 +1,111 @@
+Let's imagine a modest-sized skyscraper...
+about 100 meters and 30 stories tall.
+A high rise this size was almost certainly built with concrete, which contains cement.
+In this case, about 6,000 tons of cement.
+Making that cement probably emitted about 4,600 metric tons of carbon into the atmosphere.
+That's about the emissions from driving a car for 12 million miles.
+Now, multiply that by all the buildings in the world.
+Even that wouldn't capture cement's carbon footprint.
+Think about the sidewalks we’re walking on.
+Many of the streets you drive on.
+A lot of our energy infrastructure.
+Dams, power plants.
+All that cement production accounts for 8% of all global carbon emissions...
+more than the aviation and the shipping industries combined.
+Today, most of those emissions are due to China's rapid development.
+In just two years, China produced more cement than the US did in the entire 20th century.
+Other developing countries will use a lot of cement as they build tall cities and infrastructure too.
+If we want to reach net zero in a few decades we'll have to figure out how to build a building like this...
+without emissions.
+It'll be hard, but there's a way.
+You're looking at a typical cement plant.
+One like this is currently operating in nearly every region of the world.
+This rotating tube, a kiln, and this tower, a pre heater are where all cement's emissions take place.
+About 40% of cement's emissions are a result of burning fuel to heat the kiln.
+It reaches around 1450 degrees Celsius near the heat source.
+The preheating tower is where limestone, clays and other additives are dropped.
+The 850 degree temperature here causes limestone to release its stored carbon dioxide and those are the other 60% of emissions.
+The first question about decarbonizing cement is whether we can just use less concrete altogether.
+We typically use up to 2 to 3 times too much concrete in design.
+Architects and structural engineers just use lots of it.
+It doesn't hit the bottom line and it makes the thing more reliable and they're less likely to get sued and kill people and what have you.
+In a building, concrete is valuable for its compressive strength:
+its ability to hold up under a lot of weight.
+So it's hard to substitute its use in places like foundations and columns.
+But elsewhere, we should minimize it.
+I was in the new Parliament building in Scotland and it was obviously designed with greenhouse gases in mind.
+Concrete was only used where needed.
+Steel was only used where needed.
+And they used laminated wood for the roof for a lot of structural materials things that weren't load bearing.
+Carbon conscious design can certainly chip away at cement's emissions.
+But replacing concrete altogether won't be possible in the near term.
+So cutting down on excess concrete can cut emissions on our high rise by roughly 26%, according to one analysis.
+We'll have to do more and the next place to start is how cement is made.
+Looking at the 40% of emissions that go into firing the kiln is one place to start.
+Typically, cement plants use coal or petroleum coke or natural gas to heat the kiln to 1450 degrees Celsius.
+You could electrify that but it's really hard to achieve that high of a temperature with electric heat.
+Though some startup companies like this Finnish one are trying.
+Until we get there cement plants have started to just burn different things.
+The high heat makes cement plants a good place to incinerate industrial waste, trash, or used tires.
+The limestone basically scrubs out any nasties that are produced in the flame here...
+and stops them being emitted into the atmosphere.
+Switching fuels can cut emissions by roughly 7%.
+We've still got a ways to go so let's look at the other way cement causes emissions:
+The chemical process.
+This is the carbon released from the heated limestone.
+Once it goes through the kiln it becomes a material called clinker:
+the key binding ingredient in cement.
+And cement binds together the rocks and sand and water in concrete.
+Cement is about 10% of concrete but accounts for a majority of its emissions.
+So one strategy is to find a substitute for the clinker.
+Startups have been in a race to develop a new kind of green cement that avoids clinker altogether.
+But so far, nothing is as abundant and commercially viable as the limestone-based stuff.
+And adjusting concrete formulas takes a lot of time and safety testing.
+For good reason.
+The events in Turkey recently, there was a lot of substandard cement being used there and there was a lot of substandard building practices.
+In North America clinker accounts for about 90% of cement due to safety standards.
+But North America is overly cautious compared to the rest of the world.
+The average clinker-to-cement ratio globally was about 72% in 2020.
+That's made possible by clinker-like substitutes.
+We could reduce the clinker ratio even more.
+Experts emphasized one new cement mixture that gets the clinker ratio safely down to 50% by supplementing it with more clay and unprocessed limestone.
+So that’s with an existing technology that meets existing building codes.
+That'll cut half the emissions from the cement and concrete industry.
+These reductions will help in reducing emissions...
+but until we find a scalable, zero-emission cement, any clinker production at all will inevitably have process emissions.
+Which brings us to the last piece of decarbonization.
+The cement industry will need to use carbon capture and storage to get there.
+There's no way around it.
+This would mean capturing the carbon emitted from the heat and chemical processes here...
+and storing it deep underground in a geologic deposit.
+A cement company in Norway is piloting one of the first cement plants in the world to capture carbon.
+And they'll store it under the North Sea in their oil and gas deposits.
+Some new companies are also finding a way to inject stored carbon back into cement and concrete during production.
+This takes advantage of rock's natural ability to reabsorb carbon.
+And potentially one day we may even see our built environment become a carbon sink which we don't usually think about when we think about large concrete cities and large buildings and our roads and all of that.
+So this is the scenario in which we get this building to net zero emissions.
+And the goal right now is to get there by 2050.
+That requires us to start now and aggressively.
+Especially in China, the world's biggest producer.
+But experts told me there's some good news there.
+So in the US, the average age of a cement plant is about 34, 35 years.
+In China, it's 15, which means that many of their plants are actually more energy efficient than the plants that we have here.
+China uses less clinker in their cement than the global average and they have at least one carbon capture project in the works.
+But there's a long way to go.
+Last year, they pushed back their peak building emissions deadline from 2025 to 2030.
+Changes to design in the concrete and cement processes will be the easiest to implement...
+but carbon capture and storage is at very early stages.
+And all this will be expensive.
+It's estimated that the cement used in this building will cost somewhere between 70 to 115% more.
+The cost of cement or concrete is a very small fraction of the overall cost of a project.
+So it's relatively easy and cost effective for a government agency to commit to pay a little more for the material to absorb that green premium.
+The US Inflation Reduction Act is helping create a market for carbon capture and storage by increasing tax credits to $85 per metric ton of carbon stored.
+For a long time, heavy industries like cement seemed like unsolvable climate problems.
+But today, we know how to fix them and we can't afford not to try.
+Thanks for watching the video.
+As a follow up to this one, I'd recommend checking out my coworker, Phil Edwards’s great video on the world's tallest mass timber building in Milwaukee, Wisconsin.
+He was able to film the building under construction and he gives a great explanation about how changing from traditional materials like steel and concrete to wood changes the entire building process.
+Wood probably can't replace concrete in all the world's buildings.
+One expert I interviewed told me we'd probably have to triple the amount of wood harvested in order to scale it up and do that and that would come with its own environmental problems.
+But our big concrete problem requires a lot of different solutions and using wood when possible is definitely one of them.
+And as you can see from Phil's video, it looks really cool, too.

@@ -1,0 +1,138 @@
+Listen, I've got a test for you.
+I'm going to set up a fake scene and see if you can tell —that I am...
+—In front of a green screen.
+Yeah. He is.
+But here's my question.
+When is AI going to replace this clunky 20th century invention?
+I mean, after all, AI is the technology that can draw masterpieces and generate poems...
+and hunt down our loved ones and kill them...
+so it can totally beat out a color.
+Right?
+Right???
+Okay.
+I found a fantastic picture of a happy family.
+I am going to get rid of their background to show you some of the ways that we have taught AI how to do it.
+I can start by just separating the foreground from the background.
+A lot of fast AI programs do it this way or it can do segmentation...
+where I figure out and label each part of the picture and remove what I want.
+If I get even more fine grained I can label each instance in a segment...
+like Sheila, Lorraine, and Sheila Junior...
+and then get rid of the wall and the floor.
+And Sheila Junior.
+She knows what she did.
+AI has gotten really good at splitting stuff up, at segmentation.
+For example, Meta AI just released a new segmentation model that can do this...
+really easily!
+An AI will use different methods depending on the job that it's told to do.
+But it's a bit different when you're trying to make a really good matte...
+a perfect cut out.
+So you can add whatever background you want.
+This is really hard stuff.
+See the hair?
+That's often the key obstacle.
+Today, a lot of AIs basically train off people doing what I am doing now...
+some labeling people but also extremely tedious separations of the foreground from the background.
+For one dataset, people at Adobe took pictures like this went through just like me and made a perfect matte You can see they left out some really fine hair here.
+AII then looks at these matte and learns how to create one.
+They might get more practice by putting their matte over different backgrounds and having it try to cut out the person again and again.
+I just want to be clear here the way AI learned how to do this because some people were squinting at their computer...
+erasing backgrounds and it learned to copy that.
+Others have expanded the stuff AI can learn from by taking greenscreen footage.
+They manually keyed out the footage removed the green...
+and then the model practiced with those mattes on different backgrounds...
+trying to cut them out over and over again until it got really good.
+That helps the robot improve its skills.
+Researcher Roni Sengupta and his coauthors made this dataset.
+They used that data to make a really, really, really good green screen.
+And then another one with some researchers from Bytedance the owners of TikTok.
+I am going to pull it up now.
+It is like a Zoom background on steroids.
+I especially had to instruct all my subjects to play with the hair because there is no other part where this transparency becomes more visible than the hair and the glasses.
+So I'm looking at people's faces like this when they turn...
+The glasses comes into effect.
+There is transparency.
+So in practice you are trying to predict something which is mostly zero in most part of the background...
+and it's mostly one at the center of my body but around my age and the hair and everything...
+It has some values that is between zero and one.
+Between zero and one.
+He's talking about where the AI has trouble predicting what is Roni and what is office.
+And that's a hard problem to solve.
+So AI green screens are great, right?
+You don't need a big green screen.
+But they fail in other ways.
+This is TikTok.
+Let me put on the green screen effect.
+So it looks good.
+But do you see how it's kind of clamping down on my head right here?
+That's because these AI green screens are optimized for speed not necessarily for Hollywood-level quality.
+It doesn't look bad at first but then when you see the comparison, you realize exactly how much information it's cutting out.
+In that fancy loft I stood close to a really textured background.
+Do you see how the AI green screen had trouble making a perfect separation?
+It got some of the numbers right but it's confused about others.
+And the final problem is something that traditional green screens can do that AI green screens have to adapt to.
+I'll put my laptop's here, way in front of me.
+The green screen has no problem getting rid of all the green because it doesn't have any knowledge of what's in the frame.
+But the TikTok green screen is not a real green screen.
+It's trained to look for people.
+So it's going to cut out my computer...
+even though I might want it in the shot.
+That's a problem that traditional green screens...
+obviously don't have.
+Somebody has to tell the AI what to do.
+A lot of advanced AI video editors do this by making masks instead.
+A mask is basically an outline.
+So the computer has you click the outline and does its best to make a mask and move it along t hroughout the frame.
+It can be a car, a person an animal out, an object.
+And so we train a model just to be able to recognize that in a very accurate way.
+right?
+You want a perfect copy?
+Perfect match.
+Okay. So this is Chris Valenzuela.
+He is the CEO of this very popular AI-focused editor called Runway.
+Their green screen tool is one way of solving this AI green screen problem by having you choose what you want to keep...
+rather than just removing the background.
+Where I see artificial intelligence being very helpful for video and creative endeavors is that...
+It's not an automation tool.
+It's not something that will just replace end-to-end the whole process.
+It will just help you reduce and replace the boring aspects of a process.
+We are seeing two kinds of AI emerge currently for any kind of filmmaking visual effects things.
+One that is very purpose driven where...
+we want to give cinematographers actual control over what is going to happen.
+And another one which we want random people to post their videos and create cool effects.
+We imagine green screens and AI as switches.
+They make more sense on a graph of speed and quality.
+TikTok’s might be here.
+An editing program might go here.
+And a greenscreen could go here.
+Good preparation can improve quality...
+but perfection in almost every case...
+still requires an artist to finish the job.
+Is the model 100% there yet?
+Probably not, but it's 90%.
+And then 90% is significant enough...
+to reduce the time of translating hours into minutes.
+That means less time squinting at screens...
+and more time in the loft you rented to make this video or with your family.
+Must destroy Sheila Junior.
+Okay.
+Okay. One more thing.
+We get a slightly cooler background than this?
+Okay, that's slightly.
+So a couple of years ago.
+I mean, this video that's called “The technology that's replacing the green screen” And that's true.
+It’s these giant screens that are often hooked up to a game engine...
+and they provide realistic lighting and movement of the background.
+It's amazing stuff.
+But since that video and as the technology has become more widespread...
+visual effects artists have been open that often they end up roto-ing even these images.
+What is roto-ing?
+Basically, it means that they replace the background.
+They meticulously trace out the characters...
+and replace the background once again.
+Even though they were supposed to have it in-camera.
+Now, this doesn't always happen and there are still huge benefits to having accurate lighting on set.
+But the point is simple.
+If you put those amazing LED walls on our little graph...
+they would still be just short...
+of the perfection that you can get from an artist...
+who has a lot of time on their hands.

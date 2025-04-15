@@ -1,0 +1,126 @@
+This is the Ascent Milwaukee.
+Part of it.
+I have to move my camera back.
+This building’s 284 feet high, 25 stories, and if you go to the model rooms it looks like a typical,luxury apartment building with prop wine and art.
+But above the demonstration bed and view of Milwaukee is a wood ceiling...
+and wood beams...
+and wood columns.
+They're all structural.
+That’s because when I visited...
+Was that a cool zipper sound?
+Ascent Milwaukee was finishing construction.
+When I tell someone I'm working on the tallest timber building in the world they're very surprised to hear that it's in Milwaukee.
+How does a building, with wood slabs and beams like this, actually happen?
+It turns out that changing materials changes the entire construction process.
+Here’s an elegant demonstration of a bag of concrete and some rebar.
+A lot of big buildings are built using steel beams and columns and PT concrete slab: the PT stands for Post-tension.
+Basically the steel reinforces the concrete and tendons are literally pulled on to create tension.
+PT Slabs are strong relatively easy to build and get often pretty affordable and, maybe most importantly, they’re really familiar both to builders and regulators.
+But they’re not very pretty and they can require a lot of energy to make and move around.
+Mass Timber uses, well...
+My name is Ricky McClain.
+I'm a senior technical director with Woodworks.
+One of the things that the Woodworks does is tracks the number of projects that are actually being done with mass timber.
+In 2013, there were say 20-25 projects.
+Whereas now, we're tracking about 1400 projects in the US.
+So in terms of overall number of projects done on an annual basis it's still a small percentage but it has been growing significantly.
+The common way that I think of it is like vertical products and horizontal products.
+So for columns and beams it's most often a product called glue laminated timber or glue lam.
+There's adhesive between each layer pressed together.
+Sides are planed, so a nice smooth surface.
+And so that's the gluelam.
+Beam, two-bys, and columns are the exact same.
+So the panels, the horizontal panels you can kind of think of that as like replacing a slab system.
+Cross laminated timber, CLT, is one of those panel options where you're taking again two bys flat, a layer of of adhesive goes down another layer of two bys flat, but rotated 90 degrees from that first one.
+So you're creating panels that are 4 to 12 feet wide, 20 to 60 feet long.
+Mass timber is strong, environmentally in demand both because wood is a renewable material and because sometimes it earns builders environmental credits better — or at least different looking than concrete and arguably better against some obstacles, like earthquakes and fire.
+It's also hard to get and way less familiar to builders and regulators But these materials are more than lists of pros and cons.
+They can change the process of design, sourcing and building for everybody that makes a building a reality.
+This started as a real estate project, not as mass timber project.
+The driver was aesthetics.
+At the time, we didn't know much more than that.
+It was just a...
+”Isn't it amazing that you can have a tall structure built out of wood and the structure is exposed.” From that one decision, a lot of things about making the building change.
+The whole process is different.
+The insurance is different, the financing.
+And then you start getting into construction and the planning of the building is completely different because you're planning so much of the building ahead of time digitally.
+Right? Planning and designing.
+The biggest design impact might be the BIM which takes design and places it at the top of the construction process.
+A BIM is a “Building Information Model” a bible of all the stuff in a building.
+Imagine a blueprint that’s 3D and super detailed.
+We had 60 plus pre-construction meetings.
+That experience right away tells you that "Hey, this is unusual." We had to do that because...
+whether the mass timber panels were being made in Austria or in Canada or in the United States, it doesn't matter.
+They're being made at the factory.
+So if something's wrong, you've got a big problem.
+It was more intense for us.
+So you're basically building what's called a digital twin to the real building.
+And in the case of timber, because so much of it is prefabricated by the end they had literally modeled the building down to the last screw.
+You always want to get it right as the structural engineer or as a design team in general but normally if there's an issue, you can cut it or you can go to the shop or you can pour more concrete.
+This one, it would've been a 5 month delay to the job to get another beam shipped over site.
+So it really was critical, which was why we had so many coordination meetings.
+And because mass timber is so new you have to spend time persuading regulators to trust it, which means...
+There’s actually no sound here.
+But this is a mass timber building being set on fire.
+For years, the USDA’s Forest Products Lab in Madison, Wisconsin has been testing mass timber like cross-laminated timber in a building they constructed just for this purpose.
+It performed well.
+They also test columns, where the wood naturally forms a char layer that protects a column’s stability.
+For Ascent, regulators wanted them to test if the columns could hold up to three hours of fire.
+So they burned those too.
+We did nine columns total of three of each species that we tested.
+We instrumented them with thermocouples.
+We lifted the columns out of the furnace and then scraped all of the char layer off.
+It worked: the columns were fire resistance rated up to 180 minutes.
+And we looked at different species because the different species are a little bit different chemically and might char different.
+Char has been studied for hundreds of years.
+In general, people know how wood chars.
+Concrete and steel can be hurt by fire but they’re familiar in the United States.
+That’s why, if you look at this video, you can see that this structure like many mass timber structures, is actually a hybrid.
+The parking garage is concrete and two concrete cores helped get the project approved more easily than if it were all wood.
+Once design is over, sourcing begins.
+You go from buying concrete at Home Depot to moving wood across the world.
+You're moving these absolutely massive pieces of wood all over the country And it's trains, planes, automobiles.
+You know, you're always trying to figure out what's the quickest way, what's the most effective way, what is the best carbon footprint you know, all of these items.
+Taylor Cabot’s a project manager at Timberlab which helps design and coordinate mass timber projects like Ascent.
+Timber manufacturing is still led by Japan, Germany, and Austria and Ascent’s timber comes from Austria, which means they had to get every single piece all the way to Milwaukee.
+Imagine you're on the Oregon Trail and you have glass panes for your window and you have it in your wagon with like hay around it.
+And it's like if you break that glass pane, like you are not going to get another one.
+We are moving things across the country.
+It can be replaced, but you're talking weeks. Not days.
+These materials then affect the engineering.
+It's not like a steel or a concrete building where I, you know, the architect doesn't care what what kind of steel I pick or what kind of concrete as long as it works.
+The owner really likes this white Austrian spruce.
+So some of the columns at the base, you know, to minimize the overall size are a higher grade or they're a little stronger, stiffer.
+But that's also more expensive.
+So as you go up, you sort of use the lower grades as it becomes more cost effective.
+Traditional construction also isn’t affected by stuff like a boat getting stuck in the Suez Canal Our materials didn't go through the Suez Canal but 2 million containers were then held up in transit as well because they were either stuck literally in the canal, or waiting to get in the canal.
+Finding a container was like gold.
+I would be driving in my city and seeing a container sitting in a yard, and I was like — should we go grab it?
+All those design and sourcing changes mean building with mass timber is pretty different.
+Our construction workers here, they would go home at the end of the day and their wives would say "Huh, doesn't even look like you're working today." "You're so clean." And they love that because with the timber you're not working with all this silica dust from concrete and everything like that.
+You're just working with with wood and you're really not cutting much, if at all.
+So you're going home clean.
+Stuff like welding just doesn’t happen in a wood building because it’d be a fire hazard.
+So, screwdrivers become way more important.
+We would have upwards of 64 16 inch screws.
+We were using just cordless battery operated tools.
+We'd only get maybe five or six of those 16 inch screws per battery.
+We had a pretty substantial battery changing and charging operation on the working deck as we're installing these screws.
+So we would have to field install roughly 7000 screws per floor.
+This is a glue lam column.
+Below our topping we have our CLT plank and we have some beams that run into the column.
+So one column may have as much as 64 just CLT to column screws.
+Because of this, a lot of things change.
+While it might take 10 days to complete a floor with concrete it could take only 5, using mass timber.
+There's less skilled labor available.
+There's this inherent push to to fully detail out a building beforehand.
+And so it really helps reduce labor force on site or reduce waste of materials that come out to site as well.
+And it's this kind of huge shift in the industry where we're saying, we don't need 100 guys to build a building.
+You know, we might need 30.
+Or we don't need to bring a bunch of materials to site and cut them and create a bunch of waste and send the waste away.
+We can do all that work in factories and then send it out and have it kind of erect in Lincoln log or a Lego set sort of form sort of way.
+And that goes back to the original question: how does a wood skyscraper happen?
+They’re the product of a total rethinking of the process of construction.
+One of my favorite just anecdotes was that when we framed the first deck of timber and we go up there, and I'm like "What am I sensing?" And I laid down on the deck because it doesn't have the concrete top yet.
+Right? It's just raw wood.
+And I lay down and they look at me and they're like "What is wrong with you and what are you doing?" And I said, "Guys, smell it." "It smells like popsicle sticks." And they're like, "You're insane!" And they get down and they're like "Oh, my God, it smells like popsicle sticks."

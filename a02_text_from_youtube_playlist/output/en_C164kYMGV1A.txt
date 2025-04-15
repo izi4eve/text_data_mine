@@ -1,0 +1,41 @@
+﻿50 minutes and 25 seconds into the 1986 World cup match between Argentina and England, Diego Maradona did something infamous.
+“And Maradona has scored” This moment goes down in history because because of what the commentators could clearly see:
+“ That is why England is so furious, Maradona has punched it in with his left hand” But in 1986, referees didn’t have access to instant replays.
+They had to make judgment calls from the field, based on their limited perspective on what happened.
+And their subjective view on it was that this goal was good.
+This would never happen today, as technology has empowered referees to view moments again and again from multiple different angles before making a final decision.
+And this year’s world cup features a technology that takes that a step further:
+Judging when someone is offside — using AI.
+Alright, so, the simplest way of explaining offsides is that the offensive player has to have two defensive players between them and the goal, or be behind where the ball is.
+Most of the time it's the goalkeeper plus one defender.
+For the most part, if any offensive players are behind this second to last defender while the ball is in play, they’re offside.
+That’s Jeremiah Oshan by the way.
+Soccer editor of SB Nation.
+Offside should be an objective call — either you’re in front of this line, or behind it.
+What makes it tricky is that we’re often judging with subjective perspectives, and it can be hard to tell when a player is teetering over the line.
+As this tweet by Dale Johnson of ESPN shows, the angle at which you see something really matters.
+These two images from the March 20th game between Liverpool and Nottingham Forest show the same moment in time from two slightly different perspectives In the image on the left #20 looks like he's in front of #3, but on the right, it looks like their positions are inverted.
+If audience members only see an angle they feel is uncompelling, it can leave them unsure that the right call was made.
+Like in this October 7th game between England and the US.
+“Maybe they’re looking at an offside call potentially, but it looks like Sophia Smith is onside” This call shocked even the commentators.
+“No goal?!?’ “Right there…is where they’re saying…Sophia was offside already” This goal would’ve tied the match at 2-2, but because it was revoked, England won 2-1.
+It was revoked, in part, because of VAR. Video Assisted Referees were introduced in 2018, with the intention of making calls like this a little more objective.
+These refs are in a room, away from the match, but have the advantage of seeing the event from 33 camera angles.
+If they see something they think a referee didn’t or couldn’t have seen, they can suggest that the footage be reviewed on the field monitor.
+This enhances the accuracy and objectivity of calls, but it still relies on perspective.
+For the 2022 World cup, FIFA is introducing semi-automated AI offside technology.
+A sensor in the ball will relay its position on the field 500 times a second And 12 motion cameras mounted underneath the roof of stadiums will use machine learning to triangulate players body positions This data can be used to create a 3D visualization of a play that can be viewed from any angle, Like in this early test during a September match.
+The virtual camera is able to fly around, giving an almost godlike perspective of the scenario.
+There are no viewing angle limitations, no frame rate delays — it’s a near 1 to 1 recreation of the event — seemingly indisputable evidence for referees and audience members that this player’s knee was offside by this much.
+Subjectivity isn’t being totally removed from the equation though — the technology being only semi-automated means that human referees will still make the final calls, after taking what the AI shows under consideration.
+And that can be critical because while this tech can judge space flawlessly, it can’t see everything.
+Like a player's intentions.
+There was an MLS game between LAFC and Austin FC where a foul potentially occurred.
+The referee decided not give the penalty for subjective reasons, which was, you know, his touch was taking him away from the ball, which implied that maybe he wasn't really fouled as much as the replay made it kind of look like he was.
+I thought that was actually a really good use of VAR, where he clearly was shown what happened and he was allowed to make a decision about whether or not he thought it was a foul or not.
+Semi automated AI offside tech is meant to make referees less reliant on subjective perspective. But it’s just a tool.
+How it’ll change gameplay depends on how it gets used and ultimately, how it gets reconciled with what a human being sees on the field.
+Offside is a complicated rule, and this video only scratches the surface on it - but the new semi automated AI offside system is already at work in the world cup.
+According to ESPN, in an early match between Qatar and Ecuador, the system made a correct offside call, and the 3D representation gave fans clarity over a play that was somewhat hard to see — though there also seemed to be some dissatisfaction over how long it took to make that decision.
+In a game between Argentina and Saudi Arabia, though, the call was made much faster.
+Ultimately, while this tech can give human referees information more quickly, their decisions will always take some time.

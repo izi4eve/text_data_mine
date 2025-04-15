@@ -1,0 +1,127 @@
+On my way to the grocery store mentally preparing myself...
+for the sticker shock.
+Here we are.
+Wish me luck.
+Got my diapers.
+It might be something else for you.
+For me, it's diapers is really where, like, I notice inflation the most.
+One of the things that's interesting about this particular period of inflation that we're in is this is a worldwide phenomenon.
+Hi, Vox. My question is about inflation.
+What is the real cause?
+Is it just COVID or we have others to blame?
+Thank you.
+Diapers in the US, food in Ghana, and home prices in India.
+What actually caused all this inflation?
+And is there something we can do about it?
+If you watch cable news in the US, you will see one explanation for inflation that gets a lot of attention.
+[overlapping] "Still too much money, chasing too few goods." Too much money chasing too few goods.
+Say I have a car dealership.
+Today, we're in a global pandemic.
+Factories are shutting down periodically and I'm just not able to keep as many cars on my lap.
+My inventory is low.
+But at the same time, I have customers willing to spend money on my cars.
+My inventory starts to dwindle, and now there is more customers than there are cars.
+So I can just increase the price.
+Too much money chasing too few goods.
+Economists like this guy, Larry Summers he's been sounding the alarm bell about this kind of inflation from the beginning.
+"I am much more worried that we'll have inflation." "This is the...
+least responsible macroeconomic policies we've had in the last 40 years." He is talking about those pandemic relief checks.
+Before we can figure out if Larry Summers is right we need to take a closer look at exactly how inflation is measured in the first place.
+Once a month, the US Bureau of Labor Statistics puts together what it calls a market basket.
+These data are specific to the US but you can find similar numbers around the world.
+The BLS looks at the prices for different goods and services like housing, electricity, apparel prescription drugs, bakery products, dairy.
+They look at the price we're paying this month and then compare it to the price for the same good or service last month or last year.
+Then they calculate a single percentage that captures all of that change and that's the Consumer Price Index, or CPI.
+And it's true the consumer price index has been rising steadily for the past couple of years.
+Here's when those stimulus checks went out.
+But now let's take a closer look at some of the specific goods and services that make up the CPI.
+Some things are way more expensive than this time last year like fuel oil, airline fares, gas, baked goods, dairy products.
+But there is some stuff that's held fairly steady.
+In a normal, healthy economy the Federal Reserve expects for inflation to be about 2% a year.
+And for stuff like clothing, prescription drugs, and education prices are only slightly above that 2% mark.
+for used cars and trucks, gasoline, and communication....
+That's your phone plan.
+Internet streaming.
+Prices are actually lower than this time last year.
+It seems a bit more complicated than simply:
+People have too much money.
+If that were the only problem wouldn't everything be more expensive?
+So unfortunately for me the Bureau of Labor Statistics doesn't actually track the price of diapers as part of the CPI.
+But I did find a private research firm, Nielsen IQ, that does.
+So, Nielsen looks at something called the unit price.
+Basically, they take the box of diapers divide it by how many diapers are in the box and that gives you the unit price.
+They get a bunch of different brands and then come up with this average.
+So in 2019, the average unit price for diapers was 16.1 cents.
+If prices had gone up at that expected 2%, annual inflation rate January of 2023 would have seen me paying 17.4 cents per diaper.
+But of course, that's not what the last few years have looked like.
+If the price of diapers had increased at the same rate as the CPI...
+I would be paying 19 cents per diaper in January of 2023.
+But no, no, no, no.
+I am currently paying 21 cents per diaper an increase of over 30%.
+So why is it that the price of diapers is rising so much faster than the price of all these other goods?
+You can think of the costs of a business in a couple of ways.
+There's the wages that you pay for workers, their investments in capital and the machinery itself.
+And all of that adds up to the cost of production.
+And then there's the cost you actually sell the good at.
+And the difference between those two costs are called a markup.
+One of the things that makes it difficult to report on inflation is that reporters and consumers we don't know how much it costs companies to pay their workers.
+We don't know how much it costs them to import the materials that they need.
+But we can guess.
+Take labor costs, for example.
+We know that from 2019 to 2023...
+the average hourly wage for someone working in manufacturing...
+rose by about 17%.
+Now, that is faster than what you would expect under normal 2% annual inflation.
+But when you consider the fact that corporations have successfully kept wages so low in the years leading up to that point...
+that they were actually declining relative to inflation...
+this recent bump starts to look more like a kind of return to normalcy.
+Okay, but what about the cost of materials?
+I went to the Pampers website and looked at what goes into making a diaper.
+It turns out this stuff is made out of wood and these are all plastics which are made by refining petroleum in slightly different ways according to the Federal Reserve's Producer Price Index...
+the average price for both of these materials wood pulp and plastic products has risen significantly over the past five years.
+But both of these rising input costs...
+still don't completely explain the price hike in diapers.
+One of the reasons I really wanted to talk to Rakeen is that she and her colleagues have listened to hundreds and hundreds of hours of earnings calls.
+What we found is big corporations who are jacking up prices beyond what their production cost would justify.
+These are some transcripts of those earnings calls that Rakeen and her colleagues have been listening to.
+The CEO of Hostess Brands, for example says of these price hikes, "Consumers get used to it." "When all prices go up, it helps." A Tyson Foods executive claimed that Price increases for beef "more than offset the higher costs." VISA's CEO says that historically "inflation has been a positive for us." All three of these corporations experienced record profits over the past 3 years.
+But what they did with those profits is instructive.
+They paid that money out to their shareholders and raised prices for the rest of us.
+So we have our three theories for this current moment of inflation.
+Too much money floating around.
+Supply shocks.
+And massive markups.
+Unfortunately, it's probably going to be months or maybe even years before we have all of the data necessary to figure out which one of these 3 explanations holds the most weight.
+But there are still things we can do to help bring prices down.
+And we think of inflation in a really singular way...
+and that really limits the vast panoply of tools that we actually have to fight this problem.
+Let's start with the tool that the Federal Reserve has already busted out:
+raising interest rates.
+The way that works is it makes it more expensive for companies to borrow money, which makes it harder for them to invest in new projects and hire new people.
+So far, the Fed has raised interest rates 8 times and the unemployment rate has stayed pretty low.
+But that could change if the Fed keeps raising rates.
+The last time inflation got super high back in the early 80s the Fed did huge interest rate hikes and inflation did go down.
+But look what happened to unemployment.
+It shot way up.
+By 1982, one in 10 people were out of work.
+In the last month of 2022...
+prices were starting to come down in some key areas.
+Dairy, fruits and veggies airline fares.
+Prices for these two items, gasoline and fuel oil are way down.
+And the reason likely has very little to do with raising interest rates.
+Over the past 12 months President Biden released millions of barrels of oil from the US emergency stockpile, which increased global supply and drove down the price.
+There's precedent for doing this in other areas of the economy.
+In 1939, US President Franklin Roosevelt asked Congress for nearly $900 million to help the airline industry quadruple their output.
+"Ships, planes, tanks, guns." "That is our purpose." "And our pledge." Something Rakeen told me about diapers got me thinking about a third way we might start bringing prices down.
+Turns out that somewhere between 70 and 80% of all the diapers produced in the US are made by two companies.
+This honestly threw me a little bit but then I went back and looked at some of that footage that I shot in the grocery store.
+Luvs, Pampers, Ninjamas.
+Those are all made by Procter & Gamble.
+Huggies, Pull-Ups, goodnites, all made by Kimberly-Clark.
+So while it looks like parents have a lot of choices in the diaper aisle we actually don't.
+Policymakers have allowed really rampant deregulation...
+that has facilitated these companies having so much power...
+in a way that they can jack up prices without any cost to them.
+That's supply dial and that corporate power dial.
+We've let them get dusty.
+We do not and we never did have to throw workers under the bus in order to bring down prices .

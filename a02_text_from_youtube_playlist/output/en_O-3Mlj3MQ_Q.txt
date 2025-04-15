@@ -1,0 +1,45 @@
+You may have seen this chart since the start of the coronavirus pandemic.
+In one image, it appears to capture the state of each nation’s battle in the global war against the virus.
+But like all data visualizations, its design tends to emphasize some things and hides others.
+So here are 4 things we need to know to understand this chart.
+First, this is not a chart of all coronavirus cases.
+It’s only showing us confirmed cases.
+That means each line doesn’t just reflect the state of the outbreak in a country, but also how aggressively that country is testing people for the virus.
+Take a look at Japan and South Korea earlier in the pandemic.
+Japan’s outbreak looked pretty small in comparison.
+But the available data on testing shows us that South Korea had tested vastly more people than Japan did, even though their population is less than half as big.
+And now, as Japan slowly increases their testing, the outbreak there looks more worrying.
+It’s a good reminder that we can’t understand case data without some sense of the testing levels.
+And that’s especially true for lower-income countries where we know their testing capacity is limited.
+The second thing to know is that the scale for the y-axis on this chart is a bit different from most charts.
+It’s called a logarithmic or log scale.
+On a typical linear scale, you divide the space by adding the same value over and over.
+The log scale is made by multiplying a value, in this case, ten.
+100 times 10 is 1000, times 10 is 10,000, times 10 is 100,000.
+That means that there’s no fixed amount of space on this chart for a certain number of cases.
+So the first 100,000 cases take up this much space and then the next 100,000 cases get just this much.
+The higher the numbers, the more visibly squished they become on a log scale.
+So why do it this way?
+Well, let’s take the 5 countries with the largest outbreaks right now, and rewind them back to March 17th.
+On a linear scale, it looked like things were pretty bad in Italy but the others were doing better.
+The log scale offered a much clearer warning:
+we were all on the same path of exponential growth.
+It’s the nature of infectious disease that numbers get big fast.
+So it makes sense for numbers to get big fast on the chart too.
+Fast forward a few weeks and the linear scale shows cases climbing and climbing while the log chart shows curves that are flattening.
+As governments have implemented lockdowns and social distancing, the virus is spreading at a slower rate than before, which isn’t very visible on the linear scale.
+But keep in mind that the difference between this dot and this dot is more than 32,000 people.
+And the log chart tends to downplay just how many more confirmed cases there are in the US than in the other countries.
+Which brings us to the third thing to know about our chart: it doesn’t account for population size.
+When you adjust for population, really small countries like Iceland and Luxembourg  appear to have the biggest outbreaks for their size, which may reflect higher testing rates.
+The US and China have much bigger populations so their curves drop a bit.
+But the size of a country doesn’t really affect the growth rate of its cases, and it doesn’t tell us much about how much the country is struggling.
+It just pushes smaller countries up on the chart and tends to hide the fact that the outbreak is especially bad in certain regions of bigger countries, like the state of New York.
+And the last thing to know about our chart is that the x-axis doesn’t plot time by the date, but by the number of days since the country recorded 100 confirmed cases.
+For Italy, that was February 24.
+For Turkey, March 19.
+When they’re all layered on top of each other, it allows us to compare the trajectory of the outbreaks, but it tends to obscure the fact that the pandemic hit some countries before it hit others.
+The world watched as tens of thousands of cases appeared in China.
+Then big outbreaks in South Korea, Italy, and Iran, sent a message about what was to come.
+Two weeks after South Korea reported its 100th case, the United States’ did the same.
+In a situation where actions taken early can have a much bigger impact than actions taken later, time is a crucial factor. and we have to remember that some governments had more time than others.

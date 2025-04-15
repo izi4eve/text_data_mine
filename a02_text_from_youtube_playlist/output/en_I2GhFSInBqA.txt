@@ -1,0 +1,87 @@
+Can you give us a little refresher on the Big Bang?
+Sure. The Big Bang a short refresher. Let's see.
+Just the beginning of everything.
+Yeah, beginning of everything. No big deal.
+Put these little glue dots on the back of these.
+Oh no.
+Now we're going to build the mirror Golden hexagons, silver sun shields.
+I keep putting it on backwards.
+I'm Amber Straughn, an astrophysicist at NASA.
+And today we're going to be building a model of the James Webb Space Telescope, the largest, most complex, most powerful telescope NASA has ever sent to space.
+This telescope has been in development since 1996. Bill Clinton was president. I looked it up;
+The top song on the radio was the Macarena.
+And that wasn't too far after the Hubble went up into orbit.
+Right.
+So what was inspiring the folks at NASA at the time to start planning for another one so soon?
+We've been able to see very distant galaxies with Hubble. But if you look in these deep fields, you sort of see where you come up to the edge, where there are no more galaxies. But we know there are more galaxies.
+We knew that in order to find extremely distant galaxies, we would need an infrared telescope. And J.W.S.T was specifically designed to be able to see the first epoch of galaxies that were born after the Big Bang.
+How does that work?
+Yeah. So we're basically able to do that because light takes time to travel across the universe. So you can sort of think of you know the light from the sun takes about 8 minutes to get to the Earth.
+So we’re seeing the sun as it was 8 minutes ago. If the sun went out right now, wouldn’t know it for 8 minutes. And then galaxies that are further away, the light from them takes longer to get here. So we're seeing them as they were further in the past, but they very likely now have stars and planets and evolved possibly, you know, evolved life forms, which is super exciting.
+Maybe even life forms that build telescopes?
+Who knows, right? They could be they could be looking back at us, but of course they would be seeing us as we were.
+Yeah, what would they see if they were doing exactly the same thing that we're doing?
+They would. I mean, they would basically see the same thing that we're going to see when we look at them.
+Which is like primitive galaxies Exactly. So basically, not long after the Big Bang, the only thing in the universe was hydrogen and helium. But there were some parts of the universe that were more dense than other parts, and that collapse of that hydrogen and helium were the first stars and the first galaxies. And so by, you know, by looking at the different galaxies at different distances, we're sort of able to put together a picture of how galaxies change over time.
+Ok so Gonna pop this on. Slide this on this way.
+So this is where all the electronics will be.
+Here we have our solar array which is where we get power. And this is a communications antenna so we can talk to the spacecraft once it's in space.
+What are these?
+The telescope, the mirror and the instruments have to be shielded from the light and the heat of the sun. You know, you think of a normal telescope like Hubble or your backyard telescope and those telescopes have tubes, right? That's what shields those mirrors.
+This telescope, since it's so big and also since it's going to be very far away in space, we don't really need a tube. We only need a shield. And the mirrors and instruments will be able to stay very, very cold. That is important because this is an infrared telescope and we have to use infrared light to see those first stars and galaxies but everything above absolute zero glows in infrared.
+So you and I glow in infrared, the planet, the sun, you know, everything is infrared.
+That’s like thermal camera, night vision?
+Exactly. Yeah, you can sort of think of, yeah, night vision goggles. If it was warm, it would sort of glow and sort of see itself. So that's why we're putting it out in deep space. And that's why we need these amazing sunshields.
+So where exactly in space will this telescope live?
+So we are sending this telescope about four times further away than the Moon to give you a sense of scale.
+OK, so Hubble is like really, really close compared to that and Hubble's going around us. So it's getting closer to the sun farther away from the sun.
+Right.
+This thing is going to stay on our night side, on the Mars side of Earth and just kind of head around the sun with us.
+Yes.
+But always on the outside.
+Exactly. Yeah, it will sort of you can think of it — It'll always be sort of in the midnight sky, sort of straight above.
+So the sun shields are keeping the heat away from the mirror and the instruments. How hot would it get if they weren't there?
+So the sun is always shining on this bottom side of the telescope and this is about two hundred degrees Fahrenheit. And the cold side will end up being about 400 degrees below zero Fahrenheit. So it ends up being about a 600 degree difference between the hot side and the cold side.
+Just because of these five little super thin?
+Yeah.
+How does that work?
+So the reason that there are these five layers is because in between each layer, the heat basically is radiated outward, OK? And so by the time you get to each successive layer, it's a little bit cooler. And so the that's the reason one sunshield wouldn't work.
+This design gives us a more — more efficient way to get it very, very cold on the top.
+OK, so now we're going to build the mirror here. So if you want to put glue dots on the back and then hand me the piece? So just to get back to the basics, why do telescopes have mirrors?
+So mirrors are essentially light buckets. So the size of a mirror is really important because if you think about sitting a bucket outside when it's raining, the bigger your bucket, the more water you're going to collect.
+This mirror is about twenty one and a half feet across. It's about six times the light collecting area of Hubble. And in comparison to Hubble, of course, Hubble is our gold standard of telescopes, and we love Hubble.
+We do.
+But when we take into account the size of the mirror, the wavelength range that this telescope will see in, the infrared light, and the sort of efficiency of the detectors, we expect this telescope to be about 100 times more powerful than Hubble.
+That’s crazy.
+It’s gonna be awesome.
+And so why gold and why hexagons?
+So gold, it turns out, is a great reflector of infrared light. The reason it's in hexagons is we can't launch it fully deployed as a full mirror. So we have to fold it and hexagons pack together very nicely and are very foldable.
+So basically these three mirrors and then these three mirrors will fold backwards. And then once it gets to space, it has to do the opposite.
+It has to unfold. And then we have a telescope.
+And how long does that process take?
+That whole process takes about two weeks from start to finish, so it's going to be a tense two weeks after launch.
+And if something doesn't happen exactly as it's supposed to or exactly as we've planned, we can pause, figure out what's going on and then work to fix it.
+But fixing it does not include sending an astronaut there to fix it.
+Definitely not. So it's going to be too far away to send astronauts to. You know, there is some risk involved in in building a telescope like this. We can't go fix it. And that's one of the reasons it's taken so long to test it, to make sure it's going to work like it's supposed to.
+PART 4 JOSS: [01:05:14] Light travels across the universe hits here. Then there's a secondary mirror and it bounces off of that. And then it goes into here. And then what happens? [ And then it collects on the instruments. That’s there. This is an international collaboration.
+And yeah, Europe is providing a couple of our instruments and Canada is providing an instrument.
+So the telescope has fuel, and I read that the fuel can only last, maybe up to 10 years. So twenty five years of development, 10 years of operation. Can you explain why this is worth it?
+So if you consider the cost of this telescope over that whole cost of development and operations, it actually comes out to be less than the price of a cheap cup of coffee per year, per U.S. citizen.
+ok. Wait, one cup of coffee per person per year?
+Yeah.
+That's easy.
+And a cheap cup, like less than a buck.
+OK, like a bodega coffee.
+Exactly.
+I also think it's sort of — like it's in the DNA of our country that we spend money on things that make the world more good. Things like public parks and public libraries, you know, those things that we sort of all enjoy and that make the world a better place. And I really think astronomy falls into that category.
+You know, we have this thirteen point eight billion year story of the universe, and it's like we're missing key paragraphs from that very first chapter. We don't know how it got started. And so that's one of the key things that we're going to be able to do with this telescope.
+And it's so cool to think that the light that this is collecting will have left the source has been traveling for billions of years.
+Yeah.
+Our solar system forms in the meantime.
+Yeah.
+An intelligent species evolves, creates this machine.
+Yes.
+Throws it into space, and there is the light to meet it so that we can figure out where we came from.
+We have all these specific plans, these specific things we want to learn, but I think that the most awesome thing we’ll end up learning with this telescope we haven't even thought of yet.
+Because when we increase our technology by an extreme amount like this, I think it's inevitable that we'll find something that completely surprises us and causes us to rethink how we understand the universe.
+Our model was based on a paper cutout model that was designed by John Jogerst. It's available on NASA's website and we'll put the link in the description. And if you want to know more about the Webb Telescope, the podcast Unexplainable did two incredible episodes about it a few months back. Go to your podcast app. Look for Unexplainable and check them out.

@@ -1,0 +1,70 @@
+This is the typical demand for electricity on a spring day in California.
+It starts growing around 6 AM, then rises again around 6 PM.
+Now, this line shows when wind power feeds the California power grid.
+Wind is variable but often picks up at night.
+Solar panels, on the other hand kick into gear around 7 AM generate a lot of electricity until the sun sets around 7 PM.
+On most days neither comes close to meeting the peak demands of the day so the power company relies on fossil fuels like natural gas to make up for the gap which widens significantly when people use electricity the most.
+Since the power company can't store the solar and wind energy it has to use fossil fuels at these times which can be stored in barrels and tanks.
+It's kind of the big gap in our renewable energy system right now.
+If we don't figure out a way storing energy, there's a chance that we're going to be still dependent on fossil fuels.
+So how do we store some of the solar and wind energy for later?
+Right now, you might be thinking “Just use a battery.” and you're not wrong.
+Batteries have improved immensely over the past few years particularly lithium-ion batteries which use a chemical reaction to store energy.
+Individual homes that have solar panels often use lithium-ion batteries to store energy.
+But there's a few reasons lithium-ion isn’t perfect for the grid.
+This is Neel Dhanesha a founding writer at Heatmap, a climate news site.
+And he wrote about this for Vox in 2022.
+One is just the scale that’s needed.
+We would need a lot at a level that we just don't really have right now.
+That's a challenge because lithium is only found in a few places on Earth.
+But more importantly like we need lithium-ion batteries for other things.
+Lithium-ion batteries are really good for stuff that moves because it's relatively light.
+Meaning it's better suited for things like electric cars and portable electronics.
+Not power grids that stay still.
+Luckily, there's another energy storage solution that's actually been around for a long time.
+“This is the site for the first pump storage hydroelectric station in southern Ireland.” This is a type of energy storage called “Pumped storage hydro”.
+They were first built in Europe.
+The US built one in 1929 and many more were built in the 1970s and 80s as a way to stored nuclear power.
+Today, these facilities are all over the world.
+There are 39 of them in the US.
+And they store energy in a really fascinating yet simple way.
+When energy demand is low, renewable or fossil fuel energy is used to pump water from a reservoir or river up a mountain into a higher reservoir.
+Basically converting this energy into what's called potential energy.
+So potential energy you might kind of remember from high school physics.
+When a thing is up at a height, it has stored potential energy.
+When it's let go, it turns into kinetic energy.
+When that energy is needed the water is released down the mountain where it's converted into kinetic energy that spins a turbine and generates electricity for the grid.
+It's a way of combining water, a mountain, and gravity into a battery and it can be about 90% efficient meaning only 10% of this energy is lost in the process.
+Pumped torage hydro works really well but it's difficult to build more.
+Well, for starters, you need a mountain and you need to hollow out a mountain to put pumps inside it.
+And it takes a lot of money and we don't have mountains everywhere.
+So the ideal way to store renewable energy would be something that's cheaper and smaller than a pumped storage hydro plant...
+but works in roughly the same way.
+One company, Energy Vault is also using gravity to store renewable energy.
+But without the water or mountain.
+Instead, renewable energy is used to lift heavy block of concrete up into the air where it becomes potential energy.
+Then, when it's needed he blocks are released, spinning a turbine which converts the potential energy back into electricity.
+Energy Vault calls this “gravity energy storage”.
+And while it's still being tested, the company claims it could be more than 80% efficient.
+A company called Quidnet is working on a different version of the same principle.
+Their “geomechanical pumped storage” unit uses renewable energy to pump water underground into a pressurized hole...
+where it can be stored as potential energy.
+Then released back up to the surface to spin a turbine and generate electricity.
+Both techniques are betting on potential energy as a solution for storing renewable energy for the grid.
+I think this partly because potential energy has shown itself to be pretty efficient.
+Also, realistically, fewer moving parts.
+If all you're doing basically is letting— is using gravity to work with you...
+you have a pretty massive force of nature on your side right there.
+But potential energy isn't the only possible solution.
+Other companies are using renewable energy to super heat salt...
+insulating it, then releasing that heat to create steam or hot air to drive a turbine.
+Basically storing renewables by converting them to thermal energy.
+Then there's a company that's betting on... rusted iron.
+The they're called iron air batteries.
+And what they do is they utilize the chemical reaction that creates rust to store and discharge energy.
+The thing that we all sort of think of as an inconvenience could be really useful is just kind of beautiful to me.
+Right now these ideas are all in various stages of development.
+But they are attracting investors.
+And the hope is that several will work because one might not fit every power grid.
+The grid, like renewable energy overall is going to be a sort of patchwork solution.
+And so the more we try these solutions the closer we get to figuring out exactly what the right mix is for what we need for the grid of the future.

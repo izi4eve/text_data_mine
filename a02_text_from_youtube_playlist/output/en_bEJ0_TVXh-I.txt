@@ -1,0 +1,210 @@
+if you were watching the Web traffic to ChatGPT, since it was released by OpenAI, you would have seen the visits peak in April and then start dipping down.
+Some people thought maybe AI-generated text was just a fad after all.
+But now it seems like maybe that was just summer break.
+I was not prepared for the amount of students that were using it. It felt like a cheat code, right?
+About 60% said that they use ChatGPT.
+91% have at least tried ChatGPT.
+It's a high number.
+After the headlines said students were using it to cheat, I used it to cheat.
+Pieces of writing that are grammatically perfect.
+Everything was capitalized correctly.
+And if I was in their shoes, There was a way that I could do my schoolwork, like, quickly-- I would have been that kid. I would have took it.
+I would have took it 100%.
+So here's where we're at right now:
+The American software industry is racing to release and refine AI language models, which I’ll call chatbots in this video.
+It hasn't been obvious to everyone what they should be used for, but it has been obvious to a lot of students.
+The freely available chatbots can respond to assignments across a bunch of middle and high school subjects.
+And the most advanced models, which you generally have to pay for, can analyze data, read image files, and write at the college level.
+I did a little research project where I asked my freshman year professors to grade essays written by ChatGPT.
+And they got all A's and B's.
+And so this was just like very striking to me.
+I wanted to find out what this means for education.
+So I talked to students from eighth grade to grad school;
+I talked to teachers and professors and experts in learning.
+And bear with us because they're right in the middle of this.
+And it's complicated, and they don't really agree about how to proceed.
+So we'll also take a look at some of the research on how learning works.
+To see how students can be strategic in the age of AI.
+We don't want to send that message to our our young people, you know, to ignore the things that scare us.
+We have to learn about it, learn from it, learn how to use it.
+But it's a lot of extra labor and it's coming on the heels of like three years of pandemic-based sort of reworking of our teaching.
+And so we're all tired.
+The days of like giving assignments to students and having them work on it at home are over.
+I would love if they were using this as a great thinking tool, but that's that's really not what's happening.
+And so I think educators are asking ourselves, well, how do we know that students have learned?
+Right now, educators face a choice between two pretty murky paths.
+They could allow students to use this technology, or they could try to prevent students from using it.
+Let's tackle that one first.
+Banning AI looks like some combination of blocking the websites on school networks and computers; using A.I.
+detection software to try to catch generated text;
+and shifting more work into class hours and onto paper.
+But the students and teachers that I spoke to, they don't love these options.
+I don't want my students to feel like they're under this kind of policing.
+I go from teacher to sort of hall monitor and that's not a desirable teaching relationship.
+But at the same time, I do want to know that they're doing the work.
+A lot of our kids are really, really good at getting around the school firewalls.
+But even if they couldn't access it on their laptops, I mean, they have it on their phones, I'm not letting them take anything home.
+I want everything to be written in class.
+The last two midterms I had were in-class papers and it felt like I was in high school and I hated it.
+I really don't know how you prevent students from using A.I.
+because the detection softwares are really imperfect.
+There will be false positives that the false positives are going to be awkward situations with the teacher and the student.
+I have a problem accusing a kid of using ChatGPT or using A.I.
+when I'm not at 100%.
+So I have found the detector helpful.
+It's not perfect. We know it's not perfect.
+To avoid detection is basically cycle it a couple of times within the software.
+Change whole sections of it, add sentences, remove sentences, and chances are, unfortunately, professors are not going to detect that.
+One of my other friends, he's a great guy.
+I'm not going to say that he's like a horrible person or something, but like if he can get away without getting caught at all for like four terms, I'm going to be pretty skeptical of the AI-detection abilities.
+After ChatGPT came out, a bunch of tools popped up saying that they could detect A.I. writing.
+But if you look at OpenAI’s educator FAQ, they say detectors don't work.
+So which is it?
+Well, they work sometimes.
+That's the era we're living in. We have technologies that make guesses.
+We can say that the detectors are generally more accurate on longer samples of text and on text that hasn't been edited at all.
+Some detectors may be biased against non-native English speakers.
+So be careful there. And you'll want to check if the tool you're using is transparent about how often it's wrong.
+I couldn't find error rates for these detectors, so who knows if they're really testing the product.
+There's an alternative to detecting AI, which is certifying human writing by doing things  like tracking typing patterns and pastes and time spent.
+GPT Zero's writing report even offers a reenactment of the document being written.
+Maybe more and more writing will be done under this kind of surveillance, but it doesn't apply to other kinds of assignments.
+And at some point we have to ask if it makes sense to prohibit chat bots for school.
+when tech companies are inserting them everywhere else.
+Notion. Snapchat. Google Docs.
+They have that “help me write.” But and that's built right into the document.
+It really raises the question of, do I have to cite the work of the AI now lest I face academic consequences?
+And students aren't the only ones finding them useful.
+I immediately got really excited about using it because I knew it would save hours of my life.
+Say one, of the first things I said was I create a lot of resources using chatbots because it's a good support for me Creating readings for students. Questions that your students can answer.
+For giving feedback on essays.
+It feels a little disingenuous being like you can't use it at all.
+But I am using AI to generate the stuff for this class.
+So let's take a look at the other path, which is allowing students to use but not misuse A.I. chatbots.
+I think A.I. is a wonderful supplement to students’ education journeys as long as it's used responsibly.
+if we don't embrace it while we're in school, which is where we learn how to do things, you're going to end up with with a future generation that's struggling to adapt to its surroundings.
+We should be figuring out how, you know, our students can benefit from it instead of just trying to outright ban it.
+Because that feels ridiculous.
+That feels absolutely ridiculous.
+The International Baccalaureate program says AI shouldn't be banned because it will become part of our everyday lives like spell checkers, translation software and calculators.
+Calculator’s not so scary.
+It frees up time on the tedious stuff so that students can move on to more complex problems.
+But there are a couple of ways that I'd say this is different from that.
+For one: Calculators don't make things up.
+It gave me some quotes, I thought, this is perfect.
+But when I tried to search it, I put these sources into Google, and all of them were fake.
+That quote isn't in the book, like they didn't exist at all.
+I was able to generate text about the “near extinction of the the Yahgan people,” which isn't true at all.
+What's the difference between a consequent boundary and subsequent boundary?
+And I don't remember exactly what ChatGPT said, but they got it wrong.
+The less you know about something, the more likely you are to be convinced by ChatGPT's answer.
+That was when I really realized that I was like, this is --you have to be very careful.
+So critical literacy is important but we have that problem with humans as well.
+Chatbots work by predicting a plausible sequence of words.
+That makes them more flawed than calculators and spell checkers, but it also makes them much more broad.
+Let me list some of the things a student can ask a chatbot for.
+And while I do that, think about which of these you would consider a misuse:
+Answers to a homework question.
+Background information on a topic.
+Definitions or explanations of a concept.
+Sources to find more information.
+Summaries of readings and lectures.
+Study guides for an exam.
+Ideas for how to respond to an assignment.
+Instructions for solving a problem.
+An outline for a paper or presentation.
+Examples, analogies, and counterarguments.
+A draft of a paper or a discussion post.
+A script for a presentation.
+Feedback on their work.
+A revision of a text to improve it.
+A revision of a text to change its word count, and more.
+Some of these definitely seem helpful for learning, but others, it's not so clear.
+Is it okay to ask a chatbot for information?
+I'll typically ask ChatGPT to just to summarize that topic into easy to read bullet points.
+I don't see that as very different from getting on Wikipedia.
+Most of the students talked about using ChatGPT in particular almost as a kind of Wikipedia, and I really quickly was like, Ooh, I don't think that's the best way to use these tools.
+Is it okay to get ideas from a chatbot?
+I think in terms of outlining and brainstorming, I think that's actually fairly low risk.
+When it comes to generating ideas, it's not really giving you an inspiration.
+It's giving you an answer.
+My friends and I were brainstorming different topics and one was like, No, no.
+Quit thinking. I already looked for it on ChatGPT and they have this incredible idea and we can delve into these but we did write all the text on our own.
+It's not like we copy and paste because that is cheating.
+What about using AI to write a paper after you've done the research and analysis?
+If it's all your ideas and ChatGPT is the editor, the product is all yours. It's just been aided.
+One of the things that we do when we're writing is we're figuring out what we think. And then ChatGPT reorganizes things, adds some facts that I didn't know.
+And then my take is like, that's pretty much what I said, right?
+And it's not really.
+I think the reason they disagree on how to handle this tool is that it isn't really a tool-- It wasn't built to do some specific task.
+Now there will be tools that are constrained to act more like tutors.
+But OpenAI says they're trying to build "general intelligence." General meaning something more like a student than a calculator.
+The difference is that calculators don't like, don't make the equation for you.
+Calculators don't like come up with a creative solution.
+Meanwhile, ChatGPT gives you all of the steps.
+It's I'd say a lot easier, at least for me to just, like, read something and then write it down than to, like, actually think about something.
+They're not going to get that opportunity to sit there and really go from A to B to C, when you can go from A to C really quickly for them.
+You know, maybe it's just easier to just take the ChatGPT generation, like the generated response, and then just tweak it to sound more like me than to create my own original piece of work if my work is going to be like, not as good.
+Sometimes with the grades and the GPAs and everything, it can feel like the point of school assignments is to evaluate students when really the point is the learning that happens along the way.
+The grades are there to monitor the learning.
+And as my friend Denzel points out, You can’t grade someone on something that's not theirs.
+So let's take a look at how learning works.
+And this is where the challenge to education really lies, because technology is usually supposed to make things easy.
+But the research shows that real learning requires things to be a little bit hard.
+Let me give you an example.
+I used GPS almost constantly to get around the city.
+It tells me which train or bus I need, which subway exit to take, basically how to walk.
+A bunch of studies have looked at how this affects our spatial abilities because, hey, maybe watching this app produce instructions for my route is teaching me how to get around.
+You know, it's giving me all of these examples to learn from.
+But no, the experiments consistently show that turn by turn navigation leaves us with poorer spatial knowledge of the area.
+That's because the tech lets us "disengage from our environment." If I really wanted to build a cognitive map of the space, that requires "active engagement in the navigation process," And that means making decisions, which is hard.
+And I may decide that it's fine to offload my spatial learning to this app and just expect that it will always be there for me.
+But what about learning in other domains like in school?
+There's a really interesting study from a few years back where they divided college students into two classrooms that covered the exact same physics lesson, but in different ways.
+One class presented the material in a passive lecture.
+And it was done in a way that it would mimic a lecture from a super lecturer, you know, like very smooth, very, very fluent.
+The other class used an active learning method where the students were put into small groups and then given unfamiliar problems to work on.
+They weren't given much direction.
+So it was a bit frustrating.
+And then the instructor would interrupt them and then explain, basically give them the feedback of how an expert thinks about these things.
+At the end of the class, they asked the students if they felt like they learned a great deal from the session, and the students who received the passive lecture said that they learned more than those who did the active learning class.
+They were also more likely to say that all of their physics classes should be taught that way.
+They preferred just watching the lecture, but they were wrong.
+Tests on the material showed that the students in the active participation class actually learned more of the information.
+It turns out that we're not great at judging how well we're learning.
+Whenever we try and judge if a learning experience is productive or not, the strongest metacognitive cue, that we use is perception of fluency.
+Fluency is when information is going down easy.
+It's well presented, it's organized, it's convenient.
+Fluency is the reason why students tend to reread their notes and textbooks when they're studying, when really they should be giving themselves quizzes or trying to explain the material in their own words.
+Education researchers have this term "desirable difficulties," which describes this kind of effortful participation that really works but also kind of hurts.
+And the risk with AI is that we might not preserve that effort, especially because we already tend to misinterpret a little bit of struggling as a signal that we're not learning.
+I want them to know that struggling is okay.
+It's not about getting the right answer.
+It's not about having the correct opinion.
+You do not become a better writer by just editing other people's work.
+You do it through the struggle.
+The text is kind of like the snakeskin of the growth.
+You can replicate the snakeskin, but there's a reason you chose to be in this room.
+And the reason is the path.
+The reason isn't the product.
+So with all that said, we can look back at those prompts and ask, is this making the work easy for me?
+Or is it motivating me to try the hard things?
+So you could use a chatbot to avoid reading a challenging text, or you could use it to work through that text and help you get more out of it.
+I tried to read like the Prose Edda.
+And it was just impossible to read for me.
+It was very, very hard.
+I think that ChatGPT might be able to, you know, parse through some of the harder language, simplify things, You could use it to answer questions for you or it could inspire you to ask questions you wouldn't have asked before.
+If you have a question in class and you're not sure what to do with it, now your first step, instead of going to a teaching assistantor a friend, might be to ask you about You could use it to write or rewrite your words to sound perfect, or you could ask it to critique your writing, and then you decide how you want to make changes.
+Where are their problems in the logic? Where are there, you know, sentences that aren't clear and so on?
+There's a point in which the student has to make that realization and say, okay, this is where I need to work on this.
+And this is like, this is where I need to use ChatGPT, and this is where I need to not use ChatGPT.
+But I feel like it's just like asking for trouble because high schoolers, man.
+Our schools and teachers prompt us to build our own mental map of the world where we can connect ideas and perspectives and knowledge across space and time.
+And you want to have that map to help you navigate your future and find your place in the human story.
+But from now on, there will always be companies offering you turn by turn directions instead.
+And you might think I'm a kid.
+That's a lot of self-regulation to ask from someone whose brain is still cooking.
+I mean, we're still trying to figure out how to manage these things.
+And adults don't even know what AI's is going to look like in ten years, let alone what jobs will exist.
+Isn't that kind of a lot to put on us?
+And my response to that is, yeah, it is.
